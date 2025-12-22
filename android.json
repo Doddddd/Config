@@ -103,12 +103,12 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "925264915dbbff4699d47b75858b2491c2e93b92",
+        "sha": "6e9cfa788a56afcb4a1e1771c14a96551f5fdb1e",
         "version": "v3.0.0"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "a310c6d51015f1ef27cf301d17ec039a465e1b67",
+        "sha": "46a70d6d3aff72df13a0310ae6184a7f0839ab4a",
         "version": "3.25"
     },
     "LibChecker": {
