@@ -52,7 +52,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "b1007e9cd3720d5db860fbd0090784e4e79f3661",
+        "sha": "e5afc7a9662d79a930daa370b4d98ccf17f5abec",
         "version": "4.7"
     },
     "DataBackup": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d00c81c7b2beb3b89068616b22378758649fe2c0",
+        "sha": "f077340375d903924146ad2465ae802baf0eab55",
         "version": "3.4.0"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "07d9401bf63db3d0cba59c5d60cbca679ed825b9",
+        "sha": "641406111c38e2cb4a6e31fe78949a44e315d380",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -173,7 +173,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "3f1f27f1e8cd30dc82681077be481eb9e9065fde",
+        "sha": "43fb93310d6a708c3b7b71815c6d85f5e6b5d663",
         "version": "v1.5.9"
     },
     "ReadYou": {
