@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6e9cfa788a56afcb4a1e1771c14a96551f5fdb1e",
+        "sha": "07d9401bf63db3d0cba59c5d60cbca679ed825b9",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "1f9689dc006f6d1d72a94bd6a433ff5178a3f4ee",
+        "sha": "b80eb2dc6ccc5679e361f22622d52bcf49b652b7",
         "version": "1.4.4"
     },
     "Sui": {
