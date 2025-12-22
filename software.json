@@ -1,0 +1,22 @@
+{
+    "Intel-Bluetooth": {
+        "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
+        "version": "24.0.1"
+    },
+    "Intel-Graphics_7-10": {
+        "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
+        "version": "31.0.101.2140"
+    },
+    "Intel-Graphics_11-14": {
+        "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/864990/intel-11th-14th-gen-processor-graphics-windows.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
+        "version": "32.0.101.7082"
+    },
+    "Intel-Graphics_Arc": {
+        "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
+        "version": "32.0.101.8331%20WHQL%20Certified"
+    },
+    "Intel-WiFi": {
+        "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
+        "version": "24.0.2"
+    }
+}

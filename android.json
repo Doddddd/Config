@@ -1,0 +1,254 @@
+{
+    "Aegis": {
+        "repo": "beemdevelopment/Aegis",
+        "sha": "491a81584dd184d9f21b283ccd2ced5c6e3ef0c0",
+        "version": "v3.4.1"
+    },
+    "Aegis-Icons": {
+        "repo": "michaelschattgen/aegis-simple-icons-outlined",
+        "sha": "disable",
+        "version": "v108"
+    },
+    "Animeko": {
+        "repo": "open-ani/animeko",
+        "sha": "d2ee6fa6d135b55a466406184c6f93c882bdaf40",
+        "version": "v5.2.0"
+    },
+    "AuroraStore": {
+        "repo": "AuroraOSS%2FAuroraStore",
+        "sha": "a68acce413135219ff3ee5003bac380749359d0e",
+        "version": "4.7.5",
+        "platform": "gitlab"
+    },
+    "Auxio": {
+        "repo": "OxygenCobalt/Auxio",
+        "sha": "8fd3ef8eaaab0b2c9fb7fa1fa34737c626b007bd",
+        "version": "v4.0.10"
+    },
+    "BCR": {
+        "repo": "chenxiaolong/BCR",
+        "sha": "11e44fb063264d94c9f8dd9ae8823d9237ba0377",
+        "version": "v1.87"
+    },
+    "BiliRoaming": {
+        "repo": "yujincheng08/BiliRoaming",
+        "sha": "f2fbf9ba26b68a42a356476ceb3c8694362fe0c4",
+        "version": "v1.7.0"
+    },
+    "Blocker": {
+        "repo": "lihenggui/blocker",
+        "sha": "94363ac3f946edc9c3cb346f47a85ef1d7c4ec09",
+        "version": "v2.0.5839"
+    },
+    "Box": {
+        "repo": "taamarin/box_for_magisk",
+        "sha": "a87244943abdd1cf0f278c708001b2aef56adb9c",
+        "version": "v1.10.2"
+    },
+    "ClashMeta": {
+        "repo": "MetaCubeX/ClashMetaForAndroid",
+        "sha": "9ec91cacf5f0774c5ffa3c2fa0feff31a04e510e",
+        "version": "v2.11.21"
+    },
+    "CorePatch": {
+        "repo": "LSPosed/CorePatch",
+        "sha": "b1007e9cd3720d5db860fbd0090784e4e79f3661",
+        "version": "4.7"
+    },
+    "DataBackup": {
+        "repo": "XayahSuSuSu/Android-DataBackup",
+        "sha": "1d767efe7d7d89414020ed3808be9e33776ec9e0",
+        "version": "2.0.12"
+    },
+    "EverTranslator": {
+        "branch": "refactor/v4.0.0",
+        "repo": "firemaples/EverTranslator",
+        "sha": "c9b73e2eba440429e2a97bbd6d11426a59175d65",
+        "version": "v4.0.10"
+    },
+    "Fcitx5": {
+        "repo": "fcitx5-android/fcitx5-android",
+        "sha": "17126e5085e347127608fff546eefcb16020786b",
+        "version": "0.1.2"
+    },
+    "Gloom": {
+        "repo": "MateriiApps/Gloom",
+        "sha": "e77343b035bf606296bced7db7b6fc368cd0a5d0",
+        "version": ""
+    },
+    "Hail": {
+        "repo": "aistra0528/Hail",
+        "sha": "eea6646b0909de7a1460952ff844c89cb33e1386",
+        "version": "v1.9.0"
+    },
+    "Hide-My-Applist": {
+        "repo": "Dr-TSNG/Hide-My-Applist",
+        "sha": "bd5466b37bae15e3ea2a66694e7624ce3d33479d",
+        "version": "V3.6.1"
+    },
+    "Hydrogen": {
+        "repo": "huajiqaq/Hydrogen",
+        "sha": "83883d21cb6318371ca1d5dfb46b072d747572aa",
+        "version": "v0.612"
+    },
+    "ImageToolbox": {
+        "repo": "T8RIN/ImageToolbox",
+        "sha": "ecb6cfcb9607647d119ac0d11df5ac6dbc2156c0",
+        "version": "3.4.0"
+    },
+    "InxLocker": {
+        "repo": "Chimioo/InxLocker",
+        "sha": "e0e5879f1ee3f4cddb994babad60c17dde64f4e1",
+        "version": "V1.4"
+    },
+    "KernelSU": {
+        "repo": "tiann/KernelSU",
+        "sha": "925264915dbbff4699d47b75858b2491c2e93b92",
+        "version": "v3.0.0"
+    },
+    "Legado": {
+        "repo": "gedoor/legado",
+        "sha": "ec0bcac59fef615f1b4b29034afe781b6d4539e0",
+        "version": "3.25"
+    },
+    "LibChecker": {
+        "repo": "LibChecker/LibChecker",
+        "sha": "5af7eab614ee777c3df5b54b0bd640ad300645c0",
+        "version": "2.5.3"
+    },
+    "LogFox": {
+        "repo": "F0x1d/LogFox",
+        "sha": "dd1405c67737601b27530533feeebf73711fe47e",
+        "version": "v2.0.7"
+    },
+    "LSPosed": {
+        "repo": "re-zero001/LSPosed-Irena",
+        "sha": "b89d2f27ee7674b01b24a8e50beed2bbcba080b9",
+        "version": "1.9.2"
+    },
+    "Magisk": {
+        "repo": "topjohnwu/Magisk",
+        "sha": "01cb75eaefbd14c2d10772ded3942660ebf0285f",
+        "version": "v30.6"
+    },
+    "Maple-Font": {
+        "repo": "subframe7536/maple-font",
+        "sha": "disable",
+        "version": "v7.9"
+    },
+    "Media-Provider-Manager": {
+        "repo": "MaterialCleaner/Media-Provider-Manager",
+        "sha": "76254c04c2643fedc2f65e3a3736fea8a297dbe5",
+        "version": "beta11"
+    },
+    "Mihomo": {
+        "repo": "MetaCubeX/mihomo",
+        "sha": "disable",
+        "version": "v1.19.18"
+    },
+    "Mihon": {
+        "repo": "mihonapp/mihon",
+        "sha": "1263df9d4111511e49a43463c9808060433ce76d",
+        "version": "v0.19.3"
+    },
+    "NewPipe": {
+        "repo": "TeamNewPipe/NewPipe",
+        "sha": "3c0e6adf2eeaefefd6e58467381115e638247b13",
+        "version": "v0.28.0"
+    },
+    "OverlayFS": {
+        "repo": "KernelSU-Modules-Repo/meta-overlayfs",
+        "sha": "7143eb79cc14d68f070081beed60ecf8344da3a8",
+        "version": "v1.3.1"
+    },
+    "PackageInstaller": {
+        "repo": "vvb2060/PackageInstaller",
+        "sha": "3d113a5e000c62a712e6165cb75cbca63fb912aa",
+        "version": "1.7"
+    },
+    "PiliPlus": {
+        "repo": "bggRGjQaUbCoE/PiliPlus",
+        "sha": "952d16802202ed9357892580eca5f819ad2b1e5b",
+        "version": "1.1.5.1"
+    },
+    "QAuxiliary": {
+        "repo": "cinit/QAuxiliary",
+        "sha": "d274254afcb2048a9130e1d5995869ffe57e78a4",
+        "version": "v1.5.9"
+    },
+    "ReadYou": {
+        "repo": "Ashinch/ReadYou",
+        "sha": "c074f1d9fc4786fce963a71adc29cffc1543c401",
+        "version": "0.15.3"
+    },
+    "RSAF": {
+        "repo": "chenxiaolong/RSAF",
+        "sha": "b21b266e9ff3e418cd89ef6362e38aa27ba4ce20",
+        "version": "v3.26"
+    },
+    "RustDesk": {
+        "repo": "rustdesk/rustdesk",
+        "sha": "1f9689dc006f6d1d72a94bd6a433ff5178a3f4ee",
+        "version": "1.4.4"
+    },
+    "Sui": {
+        "repo": "RikkaApps/Sui",
+        "sha": "2f5fd2a04bc061eb2a8431cc3ede9066954f5a7c",
+        "version": "v13.5.1"
+    },
+    "TachiyomiSY": {
+        "repo": "jobobby04/TachiyomiSY",
+        "sha": "582d0ef1219ae2a2e1dd275d969b35a2e5511a73",
+        "version": "1.12.0"
+    },
+    "Tailscale": {
+        "repo": "tailscale/tailscale-android",
+        "sha": "83178b2d8f304d10d85413ce8d34085567bdb95e",
+        "version": "1.92.2-td792049c0-g794a7ee13"
+    },
+    "Telegram": {
+        "repo": "DrKLO/Telegram",
+        "sha": "fff7c8d97f5ca5708a1252ed58a6bb526de6e08e",
+        "version": "release-11.4.2-5469"
+    },
+    "Telegram-Monet": {
+        "repo": "mi-g-alex/Telegram-Monet",
+        "sha": "74d7fa6500a9e0c2f7a323fa819605345902b2ef",
+        "version": "v12.0.0"
+    },
+    "Termux": {
+        "repo": "termux/termux-app",
+        "sha": "8aca6dbbf475576bb2d0554041c047f279958b9e",
+        "version": "v0.118.3"
+    },
+    "Thunderbird": {
+        "repo": "thunderbird/thunderbird-android",
+        "sha": "8c2c036d36344f56128fcad77a5f355336ad67cc",
+        "version": "THUNDERBIRD_14_0"
+    },
+    "TiebaLite": {
+        "repo": "zzc10086/TiebaLite",
+        "sha": "5d4348696038ef1414ae4b5eb4ad71e8edab6767",
+        "version": ""
+    },
+    "TMoe": {
+        "repo": "cinit/TMoe",
+        "sha": "d2cc8fccfecc78115813618c26a02cb9338c8e63",
+        "version": ""
+    },
+    "UniversalAuth": {
+        "repo": "cubewhy/UniversalAuth",
+        "sha": "f3fc29741a1ffe3311c1c090832cb32da05f54f6",
+        "version": ""
+    },
+    "VPNHotspot": {
+        "repo": "Mygod/VPNHotspot",
+        "sha": "f5e8ecc0aa9942f4037b621b214a5deaacecdf1e",
+        "version": "v2.19.1"
+    },
+    "Zhiliao": {
+        "repo": "shatyuka/Zhiliao",
+        "sha": "17499f02ed691b2ff6645486a4ed960f5e4e9ec9",
+        "version": "24.04.06"
+    }
+}

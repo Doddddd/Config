@@ -1,0 +1,17 @@
+{
+    "Cleaner": {
+        "repo": "MaterialCleaner/MaterialCleaner",
+        "sha": "369116112034ed72eebc17eada413833b6cd6d25",
+        "version": ""
+    },
+    "LSPosed": {
+        "repo": "LSPosed/LSPosed",
+        "sha": "df74d83eb03a44cc6ad268841ac2ada28d077c77",
+        "version": ""
+    },
+    "TiebaLite": {
+        "repo": "HuanCheng65/TiebaLite",
+        "sha": "b2108d59eecd8878f31e92a2ad412304125050bf",
+        "version": ""
+    }
+}
