@@ -1,7 +1,7 @@
 {
     "Intel-Bluetooth": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/18649/intel-wireless-bluetooth-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
-        "version": "24.0.1"
+        "version": "24.10.0"
     },
     "Intel-Graphics_7-10": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/776137/intel-7th-10th-gen-processor-graphics-windows.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
@@ -17,6 +17,6 @@
     },
     "Intel-WiFi": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
-        "version": "24.0.2"
+        "version": "24.10.0"
     }
 }
