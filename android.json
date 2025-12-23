@@ -113,7 +113,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "5af7eab614ee777c3df5b54b0bd640ad300645c0",
+        "sha": "73d259edbb9c960295cf4f38ceeb1e1ba9cbad2c",
         "version": "2.5.3"
     },
     "LogFox": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "31e5692dff2924903c5f777f7c5685651fd04dae",
+        "sha": "521ca3ad18dc2849f0642a2b40b81d6b227840be",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
