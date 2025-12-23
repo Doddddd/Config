@@ -113,7 +113,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "73d259edbb9c960295cf4f38ceeb1e1ba9cbad2c",
+        "sha": "9bbd01e80bc5c657d32c0654795557014ea6ec87",
         "version": "2.5.3"
     },
     "LogFox": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "521ca3ad18dc2849f0642a2b40b81d6b227840be",
+        "sha": "7da6f05a50934ab92825c5b01643c24a021714db",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "eba847e62ec581bd0ea539d0d2a5a31828db8d2b",
+        "sha": "6a701f1420360fe4c6f2d8c812670c2177d6becc",
         "version": "1.4.4"
     },
     "Sui": {
