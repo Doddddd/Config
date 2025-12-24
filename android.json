@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "453cc4ac2629aa9b72c46ffe420084cf3b8c4697",
+        "sha": "c27263e7c3d3db94dde1c5da634dbe0414c9ffd7",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "43c7620b4cc3e3406496cf94bc82e732bf91c8e0",
+        "sha": "fcf4e72d8e0739ecb5aed12601dc6bd24c340251",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
