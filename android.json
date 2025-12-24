@@ -236,11 +236,6 @@
         "sha": "d2cc8fccfecc78115813618c26a02cb9338c8e63",
         "version": ""
     },
-    "UniversalAuth": {
-        "repo": "cubewhy/UniversalAuth",
-        "sha": "f3fc29741a1ffe3311c1c090832cb32da05f54f6",
-        "version": ""
-    },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
         "sha": "f5e8ecc0aa9942f4037b621b214a5deaacecdf1e",

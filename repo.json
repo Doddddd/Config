@@ -13,5 +13,10 @@
         "repo": "HuanCheng65/TiebaLite",
         "sha": "b2108d59eecd8878f31e92a2ad412304125050bf",
         "version": ""
+    },
+    "UniversalAuth": {
+        "repo": "cubewhy/UniversalAuth",
+        "sha": "f3fc29741a1ffe3311c1c090832cb32da05f54f6",
+        "version": ""
     }
 }
