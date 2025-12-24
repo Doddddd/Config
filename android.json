@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "1d767efe7d7d89414020ed3808be9e33776ec9e0",
+        "sha": "cd8b6b221025768f0a788b8ded16c22780cb8543",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "bba57069a892ea91234b24622a260946d353d735",
+        "sha": "b69e871f9a7c60ebdb2907bfeb37dd05d47ca9fa",
         "version": "1.4.4"
     },
     "Sui": {
