@@ -52,8 +52,8 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "e5afc7a9662d79a930daa370b4d98ccf17f5abec",
-        "version": "4.7"
+        "sha": "ead987f75378af28d26b602d594f255769e10d7e",
+        "version": "4.8"
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
