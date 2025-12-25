@@ -94,7 +94,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "8c755c6d15b6e403a82fbababa45520d776207fb",
-        "version": "3.4.0"
+        "version": "3.5.0"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "c27263e7c3d3db94dde1c5da634dbe0414c9ffd7",
+        "sha": "1cbfc8647e30f6b38c7018ef2b6c011c15fad8c1",
         "version": "v3.0.0"
     },
     "Legado": {
