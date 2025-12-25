@@ -153,7 +153,7 @@
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "2ee5f99f094d8c6c1ddbd988e71235ccb4d54677",
+        "sha": "350d08ba9c0fc078dbf8d1a0c3776e87cb75ab22",
         "version": "v0.28.0"
     },
     "OverlayFS": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "b69e871f9a7c60ebdb2907bfeb37dd05d47ca9fa",
+        "sha": "656ce93d6e335bcbe3728612336dd505fe13a4b6",
         "version": "1.4.4"
     },
     "Sui": {
