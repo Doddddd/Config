@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "8fd3ef8eaaab0b2c9fb7fa1fa34737c626b007bd",
+        "sha": "fcecb0637873775d7a104b2b44aad136e957c104",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "cd8b6b221025768f0a788b8ded16c22780cb8543",
+        "sha": "a39b2bf8404949573fe8b38cd937cf5ae6b81692",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "eea6646b0909de7a1460952ff844c89cb33e1386",
+        "sha": "8dae582cb603a5207342cbd37129e247fd6443b2",
         "version": "v1.9.0"
     },
     "Hide-My-Applist": {
@@ -93,8 +93,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8c755c6d15b6e403a82fbababa45520d776207fb",
-        "version": "3.5.0"
+        "sha": "387f632b268961e67d72be2ef9515e4522493884",
+        "version": "3.5.2"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "10535c2c91e584b603257885814baebf7477e7e4",
+        "sha": "e0050291f0c80e01e6e9db1962b095fce07a5fa3",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -148,12 +148,12 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "1263df9d4111511e49a43463c9808060433ce76d",
+        "sha": "906d6f3cdbd6f7168d9cdea0c3eb8f9c663a09c2",
         "version": "v0.19.3"
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "2ee5f99f094d8c6c1ddbd988e71235ccb4d54677",
+        "sha": "2dde0fef58364382f7f783c80916d8ea226a68b5",
         "version": "v0.28.0"
     },
     "OverlayFS": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "20a36e8f9a525400e9097855d698cb7092ce89d3",
+        "sha": "0a40d111338f190d65170c875463360c4be36d53",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "b69e871f9a7c60ebdb2907bfeb37dd05d47ca9fa",
+        "sha": "3384eda8b73a1b8f78f2c7e2d23b76585dd4c34e",
         "version": "1.4.4"
     },
     "Sui": {
@@ -198,7 +198,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "582d0ef1219ae2a2e1dd275d969b35a2e5511a73",
+        "sha": "b1e6fa65d6437427b6a3eb03af36b3d9e3e5e645",
         "version": "1.12.0"
     },
     "Tailscale": {
