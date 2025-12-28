@@ -7,7 +7,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v108"
+        "version": "v109"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
@@ -16,7 +16,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "49fd5d965de593a65f248e921cacf6ce9140391d",
+        "sha": "7b488f8d50e2dc5d8eae77e8582c3d8f119ddfe2",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "387f632b268961e67d72be2ef9515e4522493884",
+        "sha": "b373fa03d0faee41359b0f16eeaf835c5fa4836b",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a8070f2e7af46cc82a98a7670d3deb6db2ae777e",
+        "sha": "d80f82238d4deb37c97c0db5abd2f5ed5f3727d7",
         "version": "v3.0.0"
     },
     "Legado": {
