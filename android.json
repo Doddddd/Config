@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "d80f82238d4deb37c97c0db5abd2f5ed5f3727d7",
+        "sha": "d12077f538b96c95bd55549d4eaee65fac1eadc1",
         "version": "v3.0.0"
     },
     "Legado": {
