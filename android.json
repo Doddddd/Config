@@ -16,7 +16,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "88d93823f9231fd8f49532725c301c4f3c3906af",
+        "sha": "b5f1b3b5e6bb519a7b2727ce13bd42986d7ae2f8",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "8dae582cb603a5207342cbd37129e247fd6443b2",
+        "sha": "4b9b3095ea7fe0d4017486c6af100a6c22c520f2",
         "version": "v1.9.0"
     },
     "Hide-My-Applist": {
