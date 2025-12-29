@@ -153,7 +153,7 @@
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "2dde0fef58364382f7f783c80916d8ea226a68b5",
+        "sha": "824fc8fbe1e57ce36ab7d43fafd01f128047c321",
         "version": "v0.28.0"
     },
     "OverlayFS": {
