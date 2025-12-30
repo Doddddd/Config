@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4f88f60ef75127369a6bcd8008ea7040f4946c1a",
+        "sha": "2785d83feb95579ae40dd3cee445a48fc64e4cdd",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b9d594bc8bc33d421e0cef0fd353b55783681728",
+        "sha": "2e11247af4375aff54d276e406c0bb3db626caa6",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
