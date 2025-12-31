@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "db7ba141fde9f2d53874b859b11f283cf3341765",
+        "sha": "cc9820561ef75238096d25024dd4b1bba4dce777",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b355b82a9276cdd5f2f864cbf9115cf56b9a4b77",
+        "sha": "1b6e2ed6b38dad1c8af90402a82ed2f752b05cfa",
         "version": "v3.0.0"
     },
     "Legado": {
