@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2e11247af4375aff54d276e406c0bb3db626caa6",
+        "sha": "11912c5f62d6d35dd8f6e62b9c85791c83209f67",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "3384eda8b73a1b8f78f2c7e2d23b76585dd4c34e",
+        "sha": "dec0e7c56d1619e50760008d95fe5aace5307fb3",
         "version": "1.4.4"
     },
     "Sui": {
