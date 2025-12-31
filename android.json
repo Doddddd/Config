@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "521856e716d6d2241c8c4ad51da8cc03d5dc2535",
+        "sha": "b355b82a9276cdd5f2f864cbf9115cf56b9a4b77",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -153,7 +153,7 @@
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "e17b1a1fcce6d5dee50daed7a010fbc960ba77b0",
+        "sha": "8893a27668048163758887b1d4f388054a48192b",
         "version": "v0.28.0"
     },
     "OverlayFS": {
