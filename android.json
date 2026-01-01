@@ -16,13 +16,13 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "b5f1b3b5e6bb519a7b2727ce13bd42986d7ae2f8",
+        "sha": "6af3aa215274b58d0fbc09dadb56191103eb50ad",
         "version": "4.7.5",
         "platform": "gitlab"
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "cd21e90c5ef1888ed553bfd90f6193dd67c1809b",
+        "sha": "141d9e4d2ee1a30e6816a5af27bfc76542d4afcb",
         "version": "v4.0.10"
     },
     "BCR": {
