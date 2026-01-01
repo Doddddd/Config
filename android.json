@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "cc9820561ef75238096d25024dd4b1bba4dce777",
+        "sha": "18f74b1ff2994f85c6f41afb4e8544289c96ec60",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c0225472353b1315cd220812b1725e835cd2414c",
+        "sha": "ff8afff33b97aedd111e466782b2b72ef6a44846",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "ce7dffb63aedbb1957cec3d8de12020fd347097a",
+        "sha": "74c6edd69a4cd7bad58d2103c6d99a8d05f47601",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -198,7 +198,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "b1e6fa65d6437427b6a3eb03af36b3d9e3e5e645",
+        "sha": "f8f645772d616baaba676e1718b225b5f049376a",
         "version": "1.12.0"
     },
     "Tailscale": {
