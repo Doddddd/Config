@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b6666d530e76b73962cf7f414173dc98a2b9a432",
+        "sha": "c0225472353b1315cd220812b1725e835cd2414c",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -153,7 +153,7 @@
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "8893a27668048163758887b1d4f388054a48192b",
+        "sha": "93166afde4ea9005cb57f4aba1113bef84e23d70",
         "version": "v0.28.0"
     },
     "OverlayFS": {
