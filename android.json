@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "18f74b1ff2994f85c6f41afb4e8544289c96ec60",
+        "sha": "665f8869b53249fa8ed8d4a2ef3fb687bd818ae8",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ff8afff33b97aedd111e466782b2b72ef6a44846",
+        "sha": "183b8fd6bf514a07afe555f16535671c5a13e01d",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "9301edef0683e639607dc906a6ead118764990c9",
+        "sha": "f6d6c3afb591bbbd602f523ead63dfd20d4cf282",
         "version": "1.4.4"
     },
     "Sui": {
