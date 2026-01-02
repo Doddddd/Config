@@ -188,7 +188,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "dec0e7c56d1619e50760008d95fe5aace5307fb3",
+        "sha": "7e3f0a607ba60d671a1f069c26d1285900024c8e",
         "version": "1.4.4"
     },
     "Sui": {
