@@ -153,7 +153,7 @@
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "1fb2b4a42efbbde3378d8c25315af467790a3454",
+        "sha": "72837010738ab105deb6867443b42f063148f572",
         "version": "v0.28.0"
     },
     "OverlayFS": {
@@ -168,7 +168,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "041af37bb0c27644594c644328e428bfe5fe0699",
+        "sha": "b2da99e334dfdd226b185fe25045db018cb8fca4",
         "version": "1.1.5.1"
     },
     "QAuxiliary": {
