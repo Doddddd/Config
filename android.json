@@ -154,7 +154,7 @@
     "NewPipe": {
         "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "72837010738ab105deb6867443b42f063148f572",
+        "sha": "fc66bee42925e61f84076c19d094f239cd39d472",
         "version": "v0.28.0"
     },
     "OverlayFS": {
