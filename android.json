@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "141d9e4d2ee1a30e6816a5af27bfc76542d4afcb",
+        "sha": "9c43a63707d6d3bbaf31b9c2d6d6b95d4eed9e17",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -218,7 +218,7 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "8aca6dbbf475576bb2d0554041c047f279958b9e",
+        "sha": "382c9708b3df79c43f6dfac2310c07bf58735610",
         "version": "v0.118.3"
     },
     "Thunderbird": {
