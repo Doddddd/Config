@@ -152,6 +152,7 @@
         "version": "v0.19.3"
     },
     "NewPipe": {
+        "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
         "sha": "72837010738ab105deb6867443b42f063148f572",
         "version": "v0.28.0"
