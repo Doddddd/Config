@@ -7,11 +7,11 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v109"
+        "version": "v110"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "5b34b09db35c0f99475abb46c3037cc3f77d9c92",
+        "sha": "611799feaf3d0e33433e95a8f9797fd76915deb7",
         "version": "v5.2.0"
     },
     "AuroraStore": {
