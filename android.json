@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "d2ee6fa6d135b55a466406184c6f93c882bdaf40",
+        "sha": "5b34b09db35c0f99475abb46c3037cc3f77d9c92",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "405ee00ce680b02c08bd8e7a3974321894b8e987",
+        "sha": "43c4b7ebc9de749fa5a0240f1962e0640e0f5dca",
         "version": "2.0.12"
     },
     "EverTranslator": {
