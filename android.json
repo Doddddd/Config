@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1a232e17898f7d5a37cb7646faf7c68a2831e16e",
+        "sha": "3be3edc079f53721e831cbd68cc4e5f9b0d33ccf",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f8c13fa94fcb08f883cde41d0dfbcc3093a26af2",
+        "sha": "84f0f02058b8efff46612952b82e073fd77eeb5f",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "7ac03ffefc523bf50de7bf16033143a1b012ad7f",
+        "sha": "f65952cf1cbd1bccc97aabcd78f07da2c11ae019",
         "version": "1.4.4"
     },
     "Sui": {
@@ -224,8 +224,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8c2c036d36344f56128fcad77a5f355336ad67cc",
-        "version": "THUNDERBIRD_14_0"
+        "sha": "d59c19bdde4e76244cbfd3f8516546ac89bfb124",
+        "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
