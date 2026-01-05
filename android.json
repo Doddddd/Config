@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3c837540a7ac78129436af388d283c441983f5b3",
+        "sha": "1a232e17898f7d5a37cb7646faf7c68a2831e16e",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -204,7 +204,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "83178b2d8f304d10d85413ce8d34085567bdb95e",
+        "sha": "d0442f75dabac3f33cf48949e742aab0320b03d5",
         "version": "1.92.2-td792049c0-g794a7ee13"
     },
     "Telegram": {
