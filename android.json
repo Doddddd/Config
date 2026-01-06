@@ -63,7 +63,7 @@
     "EverTranslator": {
         "branch": "refactor/v4.0.0",
         "repo": "firemaples/EverTranslator",
-        "sha": "c9b73e2eba440429e2a97bbd6d11426a59175d65",
+        "sha": "b2514d0fa477860d69206a531379cb2cac611cf7",
         "version": "v4.0.10"
     },
     "Fcitx5": {
@@ -154,7 +154,7 @@
     "NewPipe": {
         "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "25ea75f10e8375509c936363fe42c6ca63f608f8",
+        "sha": "3369607b74422a3667c75d19eb667028e0be2572",
         "version": "v0.28.0"
     },
     "OverlayFS": {
