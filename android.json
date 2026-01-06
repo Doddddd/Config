@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "6b920cb16dbba192a59b504b25435852303e87b2",
+        "sha": "1695076d7a7ff4ddf42991e20e7e5fdb53a53e22",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -108,7 +108,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "6156934f05691024fae06be5e19874fb1917a45b",
+        "sha": "633261a859de16a796dd038bc242d01f664b139e",
         "version": "3.25"
     },
     "LibChecker": {
