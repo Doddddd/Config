@@ -16,7 +16,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "6af3aa215274b58d0fbc09dadb56191103eb50ad",
+        "sha": "3d4fe6f770654728db70f38f4482549dedbc65bf",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -27,7 +27,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "11e44fb063264d94c9f8dd9ae8823d9237ba0377",
+        "sha": "c1e5577113654f7382a8319a278232ca531b740c",
         "version": "v1.87"
     },
     "BiliRoaming": {
