@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "d769025958f83601e531c13f795ab17fbdda89bc",
+        "sha": "ffdfc7f12569d37decd0116821961e89a729b479",
         "version": "v1.10.0"
     },
     "Hide-My-Applist": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3be3edc079f53721e831cbd68cc4e5f9b0d33ccf",
+        "sha": "89c5994452da721cad8b699732dc1b6d71a525f5",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,12 +103,12 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "84f0f02058b8efff46612952b82e073fd77eeb5f",
+        "sha": "33290e1c73325649a4393fb6fc36945f5a5a8c86",
         "version": "v3.0.0"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "633261a859de16a796dd038bc242d01f664b139e",
+        "sha": "4f0ace388766148eaaea5573c70e6c010d38e7bd",
         "version": "3.25"
     },
     "LibChecker": {
@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "906d6f3cdbd6f7168d9cdea0c3eb8f9c663a09c2",
+        "sha": "a4f5a8184c956a3d92183e52a1c96d786cfe9517",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "5a0b045a1fd2c75bab159cbac9b0fb63502b9204",
+        "sha": "069cf555ea215374ea7f946c5f61d7701d2225d9",
         "version": "1.1.5.3"
     },
     "QAuxiliary": {
@@ -184,13 +184,13 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "b21b266e9ff3e418cd89ef6362e38aa27ba4ce20",
+        "sha": "0e459077783c8629cc6feae57ff7187af5513a1b",
         "version": "v3.27"
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "f65952cf1cbd1bccc97aabcd78f07da2c11ae019",
-        "version": "1.4.4"
+        "sha": "98362eaca036588039d10d2c1e9a9260de7a310d",
+        "version": "1.4.5"
     },
     "Sui": {
         "repo": "RikkaApps/Sui",
@@ -204,7 +204,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "d0442f75dabac3f33cf48949e742aab0320b03d5",
+        "sha": "94f2829e7cfdcf5f8bf9b3529d55f3aee6e7c700",
         "version": "1.92.2-td792049c0-g794a7ee13"
     },
     "Telegram": {
@@ -219,17 +219,17 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "53f75a8da3b823c18a8244b298da50e87382984d",
+        "sha": "2ad611280372dd9d482212d03a66976b32133849",
         "version": "v0.118.3"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d59c19bdde4e76244cbfd3f8516546ac89bfb124",
+        "sha": "870f5bc61577231322f568c9cc97baff2da5378c",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "5d4348696038ef1414ae4b5eb4ad71e8edab6767",
+        "sha": "3acf731b78eb1c9b35298d41fffc49a79a9c9ede",
         "version": ""
     },
     "TMoe": {
