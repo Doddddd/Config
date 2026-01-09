@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "89c5994452da721cad8b699732dc1b6d71a525f5",
+        "sha": "d8e9b115a181b8cf33eb27421de7dec1ac8b4936",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "4544e61522245b5b7fc20f6dbb7bdbbadcaff3cd",
+        "sha": "f5418e5e0f299e0304e37070e731e0b1a09efa47",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
