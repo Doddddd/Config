@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d8e9b115a181b8cf33eb27421de7dec1ac8b4936",
+        "sha": "bafd7a73aa1daf99a00d7214483a9f104583b10d",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -154,7 +154,7 @@
     "NewPipe": {
         "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
-        "sha": "3369607b74422a3667c75d19eb667028e0be2572",
+        "sha": "f5245eac91ad58b87c15d0ceb470543c1c592c55",
         "version": "v0.28.0"
     },
     "OverlayFS": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f5418e5e0f299e0304e37070e731e0b1a09efa47",
+        "sha": "6a4270a960d15971d44bac5977c8c0f335a7281a",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
