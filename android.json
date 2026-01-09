@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "bafd7a73aa1daf99a00d7214483a9f104583b10d",
+        "sha": "824dd9e19fd3b51c4973d6c2612f0c2aaa6c1150",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "33290e1c73325649a4393fb6fc36945f5a5a8c86",
+        "sha": "439702a473392f0be4ac8c91b2be70f5281cbd6f",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -113,7 +113,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "a9bf63bec5514c548ee34583ec07a8265e208afd",
+        "sha": "6aeee1e4b5f152fb89bef3bff7ee5d86b29ea909",
         "version": "2.5.3"
     },
     "LogFox": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "98362eaca036588039d10d2c1e9a9260de7a310d",
+        "sha": "82fcab26b1c18cd8588408c266af8f5d3599f243",
         "version": "1.4.5"
     },
     "Sui": {
