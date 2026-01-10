@@ -88,7 +88,7 @@
     },
     "Hydrogen": {
         "repo": "huajiqaq/Hydrogen",
-        "sha": "83883d21cb6318371ca1d5dfb46b072d747572aa",
+        "sha": "cb96901259f942c6e0e0f352e0285e5f50f02ec1",
         "version": "v0.612"
     },
     "ImageToolbox": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "439702a473392f0be4ac8c91b2be70f5281cbd6f",
+        "sha": "df640917d11dd0eff1b34ea53ec3c0dc49667002",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "f06d0605cebc870ccdea47c98ee650b97faf793b",
+        "sha": "34a839d9e230c1801eb23db4cb969c32ae536675",
         "version": "1.1.5.3"
     },
     "QAuxiliary": {
