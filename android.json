@@ -93,12 +93,12 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "432a51e104d820afeba144e56cde30f999a84acd",
+        "sha": "8b94e0d862a92060d4e5b09e7c0451e9ecc1452f",
         "version": "3.5.2"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "e0e5879f1ee3f4cddb994babad60c17dde64f4e1",
+        "sha": "8a999b543992743b8448f937a1a316ab20f7f5a0",
         "version": "V1.4"
     },
     "KernelSU": {
