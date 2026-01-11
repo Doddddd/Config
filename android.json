@@ -219,7 +219,7 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "2ad611280372dd9d482212d03a66976b32133849",
+        "sha": "a1457d1254e50ff50169d3e530960da8012ac091",
         "version": "v0.118.3"
     },
     "Thunderbird": {
