@@ -7,7 +7,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v110"
+        "version": "v111"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "f62d929c376e3d8b13d755a9728c0fff88aea180",
+        "sha": "53b9b464d8c02de03f925080367bf19629cda1af",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8b94e0d862a92060d4e5b09e7c0451e9ecc1452f",
+        "sha": "daa022d66dfa3cb3c90a3435818e535290f43fb4",
         "version": "3.5.2"
     },
     "InxLocker": {
