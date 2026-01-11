@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "f762e7cd3ac4c64965862005c767ffa7359112d1",
+        "sha": "f62d929c376e3d8b13d755a9728c0fff88aea180",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "04dc63dba8da449f2f4db47a45a15358ac4cacd9",
+        "sha": "59dfb8c3cfe56b71cb023f6aa8338300e103949f",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "34a839d9e230c1801eb23db4cb969c32ae536675",
+        "sha": "00da3c4a0ecdd88d57e041734d4152f0c0dace06",
         "version": "1.1.5.3"
     },
     "QAuxiliary": {
