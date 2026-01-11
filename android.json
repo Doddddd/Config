@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "9c43a63707d6d3bbaf31b9c2d6d6b95d4eed9e17",
+        "sha": "f762e7cd3ac4c64965862005c767ffa7359112d1",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "ffdfc7f12569d37decd0116821961e89a729b479",
+        "sha": "f9ccb5ccdb4b47aefc8cf8e6ffa2102362044cf4",
         "version": "v1.10.0"
     },
     "Hide-My-Applist": {
@@ -88,12 +88,12 @@
     },
     "Hydrogen": {
         "repo": "huajiqaq/Hydrogen",
-        "sha": "cb96901259f942c6e0e0f352e0285e5f50f02ec1",
+        "sha": "64e79f693b5d203009591095ebdf4bec8cd5c244",
         "version": "v0.612"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a20742de93f8324011cb500faa8e8f74a5b21e0e",
+        "sha": "04dc63dba8da449f2f4db47a45a15358ac4cacd9",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "df640917d11dd0eff1b34ea53ec3c0dc49667002",
+        "sha": "07441ea105f7776b7895c108397417fc2073ebea",
         "version": "v3.0.0"
     },
     "Legado": {
