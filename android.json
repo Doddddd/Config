@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "38dd6ca958a685b6c78faf9e8eb74aa817dad514",
+        "sha": "c77a455a47806720ae95531089d302210aae8adb",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "07441ea105f7776b7895c108397417fc2073ebea",
+        "sha": "9e233aa799e36cc60107265541036650bca23e4b",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "00da3c4a0ecdd88d57e041734d4152f0c0dace06",
+        "sha": "4a2679a5898e2119cd36e55172b06b03d2503a18",
         "version": "1.1.5.3"
     },
     "QAuxiliary": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "b0c12bd86b7540bf411bd6a9fd17470e76994319",
+        "sha": "070d4d029fb5bb04a1d7130c29650455c5346b74",
         "version": "1.4.5"
     },
     "Sui": {
