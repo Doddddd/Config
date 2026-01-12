@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1b007621a184d6c22b899cf0b251fc85deee5f7d",
+        "sha": "b11429f8c210dd3380260a64ed45c57e8c7c1988",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "070d4d029fb5bb04a1d7130c29650455c5346b74",
+        "sha": "dab9ed711c3fde00317045a4e46f376f149a435d",
         "version": "1.4.5"
     },
     "Sui": {
