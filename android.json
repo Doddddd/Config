@@ -16,7 +16,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "2ef5cad4bbd9326ecc494f8d714789b9475b7caa",
+        "sha": "66e938d1534a4fddf0549154267c0a76346629d1",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "f9ccb5ccdb4b47aefc8cf8e6ffa2102362044cf4",
+        "sha": "fa2d886efe48cb469240c9abeaa0d7feaa81e558",
         "version": "v1.10.0"
     },
     "Hide-My-Applist": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b11429f8c210dd3380260a64ed45c57e8c7c1988",
+        "sha": "a4f3fba1ef6eb5c50db1609d7af073234d14e542",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "a4f5a8184c956a3d92183e52a1c96d786cfe9517",
+        "sha": "93b355a9ef1e53cd70e40fadfa7a8fb5a77101c7",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -204,7 +204,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "94f2829e7cfdcf5f8bf9b3529d55f3aee6e7c700",
+        "sha": "cfb8d371b0f1c33251d285c7a9540899c5804264",
         "version": "1.92.2-td792049c0-g794a7ee13"
     },
     "Telegram": {
@@ -219,17 +219,17 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "a1457d1254e50ff50169d3e530960da8012ac091",
+        "sha": "1937595c5733a0a82b5dbc88670d71294ec79397",
         "version": "v0.118.3"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "18f39ca7c3b55324400723444dae45e6d7738d8a",
+        "sha": "70239430524582504e6c6241d6acd715e7888a1c",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "3acf731b78eb1c9b35298d41fffc49a79a9c9ede",
+        "sha": "61937b1e78bd5e993ebf0b5de3373ececf33c84e",
         "version": ""
     },
     "TMoe": {
