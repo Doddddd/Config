@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "daa022d66dfa3cb3c90a3435818e535290f43fb4",
+        "sha": "ff4448c99e845dc2975a0a5da876ef0178b48402",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -155,7 +155,7 @@
         "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
         "sha": "f5245eac91ad58b87c15d0ceb470543c1c592c55",
-        "version": "v0.28.0"
+        "version": "v0.28.1"
     },
     "OverlayFS": {
         "repo": "KernelSU-Modules-Repo/meta-overlayfs",
