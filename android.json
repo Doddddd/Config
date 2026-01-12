@@ -108,7 +108,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "4f0ace388766148eaaea5573c70e6c010d38e7bd",
+        "sha": "e8ce37ec8f188fe73493ab79d395c1928d7a03cd",
         "version": "3.25"
     },
     "LibChecker": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "eb991887e6e8ebec0b8149a9a17d70b46178bad3",
+        "sha": "18f39ca7c3b55324400723444dae45e6d7738d8a",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
