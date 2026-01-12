@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "53b9b464d8c02de03f925080367bf19629cda1af",
+        "sha": "9abc18992761ed51a8560689c66059a34609d39d",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ff4448c99e845dc2975a0a5da876ef0178b48402",
+        "sha": "38dd6ca958a685b6c78faf9e8eb74aa817dad514",
         "version": "3.5.2"
     },
     "InxLocker": {
