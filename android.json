@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ed6626de5a3f6b1c711ee51afa3e88bb4fe6d270",
+        "sha": "36fed00aa84acd0c675e67cd8f521aab95b58c6b",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -108,7 +108,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "e8ce37ec8f188fe73493ab79d395c1928d7a03cd",
+        "sha": "01489a76692a53a24d1a2efda413526708f24991",
         "version": "3.25"
     },
     "LibChecker": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "dab9ed711c3fde00317045a4e46f376f149a435d",
+        "sha": "7276025cf9fb163a9958c5227c6bf6e22868cab1",
         "version": "1.4.5"
     },
     "Sui": {
