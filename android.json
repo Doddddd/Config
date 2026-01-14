@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "798ad2a40db016bbf5908a5ebf6c038bb09db232",
+        "sha": "94cbd43732b5d04232f85949f38e63c16e1204e3",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "93b355a9ef1e53cd70e40fadfa7a8fb5a77101c7",
+        "sha": "99e6fa3c06e1dc24255a73aa5741a72c82d94d91",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "81bedd2cd9f721b596c20643639c2d8236b3bd9a",
+        "sha": "a97a062e07220591a9f058f9dce47597c3ba38c6",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
