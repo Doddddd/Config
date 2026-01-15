@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "fa2d886efe48cb469240c9abeaa0d7feaa81e558",
+        "sha": "d5545c52f59881fdacf1adca1ca4d181920e9ccf",
         "version": "v1.10.0"
     },
     "Hide-My-Applist": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "94cbd43732b5d04232f85949f38e63c16e1204e3",
+        "sha": "9872cdf81ccd07450d6bf20edd0640eec61b88fe",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "99e6fa3c06e1dc24255a73aa5741a72c82d94d91",
+        "sha": "e659e90c26814c9a29bf668545b4f10294f3c6b9",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "dcaa40fe7e976b11567148120c4c25cb2e145219",
+        "sha": "d2598ca137d178ef8038a32ae9292095341bd73b",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
