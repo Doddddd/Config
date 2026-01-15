@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "1695076d7a7ff4ddf42991e20e7e5fdb53a53e22",
+        "sha": "4e2bb299e5d4e5042738147e9a8ecc552d15911a",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "9872cdf81ccd07450d6bf20edd0640eec61b88fe",
+        "sha": "a25dc3da53676e84b409798401d24c94be9a6617",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -209,7 +209,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "fff7c8d97f5ca5708a1252ed58a6bb526de6e08e",
+        "sha": "d7deedfa33ddfa51c72a5634d1f07ad2d7ad58a4",
         "version": "release-11.4.2-5469"
     },
     "Telegram-Monet": {
