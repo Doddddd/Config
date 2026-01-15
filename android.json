@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "139b8139c9634b324f7956bbb309b14b6e35a107",
+        "sha": "9179f43a73b572d29a166cc9e81eeffcde8fbcd9",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -170,7 +170,7 @@
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
         "sha": "2879d0dc00dfc05d13d19e53c223aa10c09d16d5",
-        "version": "1.1.5.3"
+        "version": "1.1.5.4"
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a97a062e07220591a9f058f9dce47597c3ba38c6",
+        "sha": "dcaa40fe7e976b11567148120c4c25cb2e145219",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
