@@ -174,7 +174,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "7a90935df30abea8bbf45b8cda034ec390e88a73",
+        "sha": "5bdfb258cd5592fbe0b454ca0492313b178f5e80",
         "version": "v1.5.9"
     },
     "ReadYou": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "92ad279324fc9adee12ec09ed01f7e23964cbc54",
+        "sha": "c4a9835ae539dc566b7882ea53b5169680517fba",
         "version": "1.4.5"
     },
     "Sui": {
