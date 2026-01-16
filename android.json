@@ -22,7 +22,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "46a8f3d0c91b6379fc2a8a0f80d0fc9571471749",
+        "sha": "26de5d5467e29f6ba469c38dd1f0a5e39c2a5142",
         "version": "v4.0.10"
     },
     "BCR": {
@@ -47,8 +47,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "8975459dadf0ae430cfc4d7a6ccbe69df0fd53fd",
-        "version": "v2.11.21"
+        "sha": "fd7449e9397edbb51f110a7d7f9c5d9a3faf8995",
+        "version": "v2.11.22"
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
@@ -113,7 +113,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "6aeee1e4b5f152fb89bef3bff7ee5d86b29ea909",
+        "sha": "bf727f2e0fdb054b380ceac1bf00dfc6ea12ca14",
         "version": "2.5.3"
     },
     "LogFox": {
@@ -144,7 +144,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.18"
+        "version": "v1.19.19"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
@@ -234,7 +234,7 @@
     },
     "TMoe": {
         "repo": "cinit/TMoe",
-        "sha": "d2cc8fccfecc78115813618c26a02cb9338c8e63",
+        "sha": "d415f438a989079faa6700a343a10adda5d62567",
         "version": ""
     },
     "VPNHotspot": {
