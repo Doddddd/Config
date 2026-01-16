@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "4e2bb299e5d4e5042738147e9a8ecc552d15911a",
+        "sha": "64f1a2267c46d80205875a84554f6304fda618cc",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "358fec23997bee8d9b01eed1fcf7000c837db1b7",
+        "sha": "89bd28bd57708304912792d576559ae1150ab16e",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "c12eba1105d0a1602ffb69ab6f65a838c004b732",
+        "sha": "c80bdeb5e82a3c6efe9027265b0970c4ba0e5aa6",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
