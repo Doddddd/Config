@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "13975d6f7eea21b3ba4be31736038ef2f855bfea",
+        "sha": "bbe9aa8561360f030072fbc49f79748e71c6535e",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "c4a9835ae539dc566b7882ea53b5169680517fba",
+        "sha": "a2243484a3bd0a513dbdc7d1541bcbe2bbf4a8dd",
         "version": "1.4.5"
     },
     "Sui": {
