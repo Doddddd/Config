@@ -7,7 +7,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v111"
+        "version": "v112"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
@@ -78,7 +78,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "d5545c52f59881fdacf1adca1ca4d181920e9ccf",
+        "sha": "c4706a08966f72b5e00bcfe3b1bca8cf7936fd73",
         "version": "v1.10.0"
     },
     "Hide-My-Applist": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "871b7ad16f65aaa4bf7ef0d555e42950092b7cc5",
+        "sha": "f5fb142249e747bccc3de61ccf6adfd54f7afba6",
         "version": "3.5.2"
     },
     "InxLocker": {
