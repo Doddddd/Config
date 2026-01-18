@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "aa2becb973fdf4238fe3505270a14d6d8e05c0fc",
+        "sha": "a53d0315840ccf844e2cbe85dde4b4c9134ff7a1",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -47,7 +47,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "fd7449e9397edbb51f110a7d7f9c5d9a3faf8995",
+        "sha": "2c106d5a7e5f6fb1e2c70823a26f5728c70ec260",
         "version": "v2.11.22"
     },
     "CorePatch": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "9179f43a73b572d29a166cc9e81eeffcde8fbcd9",
+        "sha": "2ce13026574d92dae8eda3d8843b3615f96477c1",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -113,7 +113,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "bf727f2e0fdb054b380ceac1bf00dfc6ea12ca14",
+        "sha": "250e61498b67c48aba91706786aedf282a34257d",
         "version": "2.5.3"
     },
     "LogFox": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2879d0dc00dfc05d13d19e53c223aa10c09d16d5",
+        "sha": "25148509d203244892e3771994fa65a7045adc50",
         "version": "1.1.5.4"
     },
     "QAuxiliary": {
