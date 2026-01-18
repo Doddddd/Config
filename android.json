@@ -1,7 +1,7 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "491a81584dd184d9f21b283ccd2ced5c6e3ef0c0",
+        "sha": "7897a0941b6c0cf54a2cc241dbe3a1a7e25aacae",
         "version": "v3.4.1"
     },
     "Aegis-Icons": {
@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "cc59210945bfe8c94b3d37104a592db22500aea4",
+        "sha": "4d396fda53e510d75f2608a184df56ccd33aac9c",
         "version": "v3.0.0"
     },
     "Legado": {
