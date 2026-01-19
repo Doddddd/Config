@@ -103,7 +103,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "dff06296c493e7018c61e8a471bdbbf8ee852a41",
+        "sha": "7790a9361ff2ea99ae8c4773cfaf7f33fef41f66",
         "version": "v3.0.0"
     },
     "Legado": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "c80bdeb5e82a3c6efe9027265b0970c4ba0e5aa6",
+        "sha": "9d43906a1e3239c7103a808d52203c1c1a768ec3",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
