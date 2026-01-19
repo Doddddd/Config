@@ -57,7 +57,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "61a79e4de24ae1bf0287712af401e85023100764",
+        "sha": "071fdcabf41fa37988c68bdd4c2064eaffaef45e",
         "version": "2.0.12"
     },
     "EverTranslator": {
@@ -68,7 +68,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "0d5c87da15e4cb03bad1ecd91cb7fce7b356c0d2",
+        "sha": "61e10af132e858919c9749d181f8dd79c8f25f0b",
         "version": "0.1.2"
     },
     "Gloom": {
@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f5fb142249e747bccc3de61ccf6adfd54f7afba6",
+        "sha": "694a93f14fec462f4536d443df78e407aeb6c590",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -128,7 +128,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "0bbc7360519726f7e3b5004542c0131fa0c0c86f",
+        "sha": "0919db6b111db6f59dd24889fa4f90b141ea4148",
         "version": "v30.6"
     },
     "Maple-Font": {
