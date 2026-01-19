@@ -108,7 +108,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "c8634241be83a132d3a932cf56c01f5ab7bf4372",
+        "sha": "4cd96d857d0fb18176b4472b78f5db4bc5b118f5",
         "version": "3.25"
     },
     "LibChecker": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "25148509d203244892e3771994fa65a7045adc50",
+        "sha": "68464e4e346c2159d0e423f74425f76c12bc71d5",
         "version": "1.1.5.4"
     },
     "QAuxiliary": {
