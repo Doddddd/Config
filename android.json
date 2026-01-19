@@ -103,12 +103,12 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "4d396fda53e510d75f2608a184df56ccd33aac9c",
+        "sha": "dff06296c493e7018c61e8a471bdbbf8ee852a41",
         "version": "v3.0.0"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "4cd96d857d0fb18176b4472b78f5db4bc5b118f5",
+        "sha": "20b31d724482a975266981a3cafca460c0afbe9c",
         "version": "3.25"
     },
     "LibChecker": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "68464e4e346c2159d0e423f74425f76c12bc71d5",
+        "sha": "397f887b91cac7a5a3a56d951807ce052291e2e9",
         "version": "1.1.5.4"
     },
     "QAuxiliary": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "b9ebddff0c59c6904892df41a6db395e7ef8b466",
+        "sha": "b4f60e605713ecff3fe435ed781e622d13c827d7",
         "version": "1.4.5"
     },
     "Sui": {
