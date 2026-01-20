@@ -93,7 +93,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "9ab3a58ceb7745ac9459514e90fb3a5da52d1904",
+        "sha": "efd90d459c2babe7f9b47b30ffbc754847ca2191",
         "version": "3.5.2"
     },
     "InxLocker": {
@@ -148,7 +148,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "bbe9aa8561360f030072fbc49f79748e71c6535e",
+        "sha": "05d90ea4d652cd7ead385ec954e0ae2dc332a012",
         "version": "v0.19.3"
     },
     "NewPipe": {
@@ -189,7 +189,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "7437593ee76219e6c44af6d86f269c7af421f62c",
+        "sha": "a6724b1c07c1ad6416e3bca0cbd66072eb0670b3",
         "version": "1.4.5"
     },
     "Sui": {
@@ -204,7 +204,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "cfb8d371b0f1c33251d285c7a9540899c5804264",
+        "sha": "80320dc23c9ac8306f984b27cb45b1fb4ba1b7c2",
         "version": "1.92.2-td792049c0-g794a7ee13"
     },
     "Telegram": {
@@ -224,7 +224,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9d43906a1e3239c7103a808d52203c1c1a768ec3",
+        "sha": "41b7c0731250779393cca6a647573416c0c5543b",
         "version": "K9MAIL_15_0"
     },
     "TiebaLite": {
