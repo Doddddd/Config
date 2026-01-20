@@ -11,7 +11,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "a53d0315840ccf844e2cbe85dde4b4c9134ff7a1",
+        "sha": "39748d0e8bca029cd1fadd2bcfba63c20468d214",
         "version": "v5.2.0"
     },
     "AuroraStore": {
@@ -47,7 +47,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "2c106d5a7e5f6fb1e2c70823a26f5728c70ec260",
+        "sha": "6969e1b657f417117ebe0080000758e464fd2a78",
         "version": "v2.11.22"
     },
     "CorePatch": {
@@ -169,7 +169,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "397f887b91cac7a5a3a56d951807ce052291e2e9",
+        "sha": "4eae7e698f8cdb2851bc58095b7cb80403634014",
         "version": "1.1.5.4"
     },
     "QAuxiliary": {
