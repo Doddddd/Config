@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "39748d0e8bca029cd1fadd2bcfba63c20468d214",
-        "version": "v5.2.0",
-        "pre_release": "false"
+        "version": "v5.3.0-alpha01",
+        "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
@@ -50,14 +50,14 @@
     "Box": {
         "repo": "taamarin/box_for_magisk",
         "sha": "a87244943abdd1cf0f278c708001b2aef56adb9c",
-        "version": "v1.10.2",
-        "pre_release": "false"
+        "version": "pre-v1.10.2(4cec20f)",
+        "pre_release": "true"
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
         "sha": "6969e1b657f417117ebe0080000758e464fd2a78",
-        "version": "v2.11.22",
-        "pre_release": "false"
+        "version": "Prerelease-alpha",
+        "pre_release": "true"
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
@@ -105,14 +105,14 @@
     "Hydrogen": {
         "repo": "huajiqaq/Hydrogen",
         "sha": "da10d39d95b391585c69ee0e7cd10e950d332987",
-        "version": "v0.612",
-        "pre_release": "false"
+        "version": "beta-v0.612-60",
+        "pre_release": "true"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "efd90d459c2babe7f9b47b30ffbc754847ca2191",
-        "version": "3.5.2",
-        "pre_release": "false"
+        "version": "3.6.0-alpha02",
+        "pre_release": "true"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -122,15 +122,15 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b2dc44eb74baf14c0e1aeb567a1fe20dbb26c5e9",
+        "sha": "76ad3c30d6e2560b18629bf5ba889054a6f00390",
         "version": "v3.0.0",
         "pre_release": "false"
     },
     "Legado": {
         "repo": "gedoor/legado",
         "sha": "40647f528a638ee92c3b0cfc1bf9fd6c618d20a4",
-        "version": "3.25",
-        "pre_release": "false"
+        "version": "beta",
+        "pre_release": "true"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
@@ -171,8 +171,8 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.19",
-        "pre_release": "false"
+        "version": "Prerelease-Alpha",
+        "pre_release": "true"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "4eae7e698f8cdb2851bc58095b7cb80403634014",
+        "sha": "0b1f6c4d0e4f8eaf806cae40a91e8d0b1adacbac",
         "version": "1.1.5.4",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "a6724b1c07c1ad6416e3bca0cbd66072eb0670b3",
+        "sha": "21a7cef98ab358f3c9df2bd49ebca076e1a3a24f",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -262,20 +262,20 @@
     "Termux": {
         "repo": "termux/termux-app",
         "sha": "1937595c5733a0a82b5dbc88670d71294ec79397",
-        "version": "v0.118.3",
-        "pre_release": "false"
+        "version": "v0.119.0-beta.3",
+        "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "41b7c0731250779393cca6a647573416c0c5543b",
-        "version": "K9MAIL_15_0",
-        "pre_release": "false"
+        "version": "THUNDERBIRD_16_0b4",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
         "sha": "61937b1e78bd5e993ebf0b5de3373ececf33c84e",
-        "version": "",
-        "pre_release": "false"
+        "version": "v4.0.0-beta.2.8",
+        "pre_release": "true"
     },
     "TMoe": {
         "repo": "cinit/TMoe",
