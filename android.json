@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "76ad3c30d6e2560b18629bf5ba889054a6f00390",
+        "sha": "7a8c450dfedad62384b21273c6111b0105c03f33",
         "version": "v3.0.0",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "0b1f6c4d0e4f8eaf806cae40a91e8d0b1adacbac",
+        "sha": "05e8ded86aa5ec338a0bcb954bdaa6ca2bfe6ef9",
         "version": "1.1.5.4",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "21a7cef98ab358f3c9df2bd49ebca076e1a3a24f",
+        "sha": "be4bbd018dd2b9907e82b798df050683536a6c6a",
         "version": "1.4.5",
         "pre_release": "false"
     },
