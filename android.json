@@ -2,17 +2,20 @@
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
         "sha": "7897a0941b6c0cf54a2cc241dbe3a1a7e25aacae",
-        "version": "v3.4.1"
+        "version": "v3.4.1",
+        "pre_release": "false"
     },
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v112"
+        "version": "v112",
+        "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "39748d0e8bca029cd1fadd2bcfba63c20468d214",
-        "version": "v5.2.0"
+        "version": "v5.2.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
@@ -23,228 +26,273 @@
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
         "sha": "aa6d898d5e6ee9c1bb1f0849c85858b7c98618f0",
-        "version": "v4.0.10"
+        "version": "v4.0.10",
+        "pre_release": "false"
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
         "sha": "c1e5577113654f7382a8319a278232ca531b740c",
-        "version": "v1.87"
+        "version": "v1.87",
+        "pre_release": "false"
     },
     "BiliRoaming": {
         "repo": "yujincheng08/BiliRoaming",
         "sha": "f2fbf9ba26b68a42a356476ceb3c8694362fe0c4",
-        "version": "v1.7.0"
+        "version": "v1.7.0",
+        "pre_release": "false"
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
         "sha": "94363ac3f946edc9c3cb346f47a85ef1d7c4ec09",
-        "version": "v2.0.5839"
+        "version": "v2.0.5839",
+        "pre_release": "false"
     },
     "Box": {
         "repo": "taamarin/box_for_magisk",
         "sha": "a87244943abdd1cf0f278c708001b2aef56adb9c",
-        "version": "v1.10.2"
+        "version": "v1.10.2",
+        "pre_release": "false"
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
         "sha": "6969e1b657f417117ebe0080000758e464fd2a78",
-        "version": "v2.11.22"
+        "version": "v2.11.22",
+        "pre_release": "false"
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
         "sha": "ead987f75378af28d26b602d594f255769e10d7e",
-        "version": "4.8"
+        "version": "4.8",
+        "pre_release": "false"
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
         "sha": "071fdcabf41fa37988c68bdd4c2064eaffaef45e",
-        "version": "2.0.12"
+        "version": "2.0.12",
+        "pre_release": "false"
     },
     "EverTranslator": {
-        "branch": "refactor/v4.0.0",
         "repo": "firemaples/EverTranslator",
+        "branch": "refactor/v4.0.0",
         "sha": "b2514d0fa477860d69206a531379cb2cac611cf7",
-        "version": "v4.0.10"
+        "version": "v4.0.10",
+        "pre_release": "false"
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
         "sha": "61e10af132e858919c9749d181f8dd79c8f25f0b",
-        "version": "0.1.2"
+        "version": "0.1.2",
+        "pre_release": "false"
     },
     "Gloom": {
         "repo": "MateriiApps/Gloom",
         "sha": "e77343b035bf606296bced7db7b6fc368cd0a5d0",
-        "version": ""
+        "version": "",
+        "pre_release": "false"
     },
     "Hail": {
         "repo": "aistra0528/Hail",
         "sha": "c4706a08966f72b5e00bcfe3b1bca8cf7936fd73",
-        "version": "v1.10.0"
+        "version": "v1.10.0",
+        "pre_release": "false"
     },
     "Hide-My-Applist": {
         "repo": "Dr-TSNG/Hide-My-Applist",
         "sha": "bd5466b37bae15e3ea2a66694e7624ce3d33479d",
-        "version": "V3.6.1"
+        "version": "V3.6.1",
+        "pre_release": "false"
     },
     "Hydrogen": {
         "repo": "huajiqaq/Hydrogen",
         "sha": "da10d39d95b391585c69ee0e7cd10e950d332987",
-        "version": "v0.612"
+        "version": "v0.612",
+        "pre_release": "false"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "efd90d459c2babe7f9b47b30ffbc754847ca2191",
-        "version": "3.5.2"
+        "version": "3.5.2",
+        "pre_release": "false"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
         "sha": "228b7a2b64c5da679fd8acf8549cdd688404220b",
-        "version": "V1.4"
+        "version": "V1.4",
+        "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
         "sha": "b2dc44eb74baf14c0e1aeb567a1fe20dbb26c5e9",
-        "version": "v3.0.0"
+        "version": "v3.0.0",
+        "pre_release": "false"
     },
     "Legado": {
         "repo": "gedoor/legado",
         "sha": "40647f528a638ee92c3b0cfc1bf9fd6c618d20a4",
-        "version": "3.25"
+        "version": "3.25",
+        "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
         "sha": "250e61498b67c48aba91706786aedf282a34257d",
-        "version": "2.5.3"
+        "version": "2.5.3",
+        "pre_release": "false"
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
         "sha": "dd1405c67737601b27530533feeebf73711fe47e",
-        "version": "v2.0.7"
+        "version": "v2.0.7",
+        "pre_release": "false"
     },
     "LSPosed": {
         "repo": "re-zero001/LSPosed-Irena",
         "sha": "b89d2f27ee7674b01b24a8e50beed2bbcba080b9",
-        "version": "1.9.2"
+        "version": "1.9.2",
+        "pre_release": "false"
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
         "sha": "0919db6b111db6f59dd24889fa4f90b141ea4148",
-        "version": "v30.6"
+        "version": "v30.6",
+        "pre_release": "false"
     },
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
         "sha": "disable",
-        "version": "v7.9"
+        "version": "v7.9",
+        "pre_release": "false"
     },
     "Media-Provider-Manager": {
         "repo": "MaterialCleaner/Media-Provider-Manager",
         "sha": "76254c04c2643fedc2f65e3a3736fea8a297dbe5",
-        "version": "beta11"
+        "version": "beta11",
+        "pre_release": "false"
     },
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.19"
+        "version": "v1.19.19",
+        "pre_release": "false"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
         "sha": "05d90ea4d652cd7ead385ec954e0ae2dc332a012",
-        "version": "v0.19.3"
+        "version": "v0.19.3",
+        "pre_release": "false"
     },
     "NewPipe": {
-        "branch": "refactor",
         "repo": "TeamNewPipe/NewPipe",
+        "branch": "refactor",
         "sha": "61c25d458901e90bd02d35ec060f9217a4cdd251",
-        "version": "v0.28.1"
+        "version": "v0.28.1",
+        "pre_release": "false"
     },
     "OverlayFS": {
         "repo": "KernelSU-Modules-Repo/meta-overlayfs",
         "sha": "7143eb79cc14d68f070081beed60ecf8344da3a8",
-        "version": "v1.3.1"
+        "version": "v1.3.1",
+        "pre_release": "false"
     },
     "PackageInstaller": {
         "repo": "vvb2060/PackageInstaller",
         "sha": "3d113a5e000c62a712e6165cb75cbca63fb912aa",
-        "version": "1.7"
+        "version": "1.7",
+        "pre_release": "false"
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
         "sha": "4eae7e698f8cdb2851bc58095b7cb80403634014",
-        "version": "1.1.5.4"
+        "version": "1.1.5.4",
+        "pre_release": "false"
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
         "sha": "5bdfb258cd5592fbe0b454ca0492313b178f5e80",
-        "version": "v1.5.9"
+        "version": "v1.5.9",
+        "pre_release": "false"
     },
     "ReadYou": {
         "repo": "Ashinch/ReadYou",
         "sha": "c074f1d9fc4786fce963a71adc29cffc1543c401",
-        "version": "0.15.3"
+        "version": "0.15.3",
+        "pre_release": "false"
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
         "sha": "0e459077783c8629cc6feae57ff7187af5513a1b",
-        "version": "v3.27"
+        "version": "v3.27",
+        "pre_release": "false"
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
         "sha": "a6724b1c07c1ad6416e3bca0cbd66072eb0670b3",
-        "version": "1.4.5"
+        "version": "1.4.5",
+        "pre_release": "false"
     },
     "Sui": {
         "repo": "RikkaApps/Sui",
         "sha": "2f5fd2a04bc061eb2a8431cc3ede9066954f5a7c",
-        "version": "v13.5.1"
+        "version": "v13.5.1",
+        "pre_release": "false"
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
         "sha": "f8f645772d616baaba676e1718b225b5f049376a",
-        "version": "1.12.0"
+        "version": "1.12.0",
+        "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "80320dc23c9ac8306f984b27cb45b1fb4ba1b7c2",
-        "version": "1.92.2-td792049c0-g794a7ee13"
+        "version": "1.92.2-td792049c0-g794a7ee13",
+        "pre_release": "false"
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
         "sha": "d7deedfa33ddfa51c72a5634d1f07ad2d7ad58a4",
-        "version": "release-11.4.2-5469"
+        "version": "release-11.4.2-5469",
+        "pre_release": "false"
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
         "sha": "74d7fa6500a9e0c2f7a323fa819605345902b2ef",
-        "version": "v12.0.0"
+        "version": "v12.0.0",
+        "pre_release": "false"
     },
     "Termux": {
         "repo": "termux/termux-app",
         "sha": "1937595c5733a0a82b5dbc88670d71294ec79397",
-        "version": "v0.118.3"
+        "version": "v0.118.3",
+        "pre_release": "false"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "41b7c0731250779393cca6a647573416c0c5543b",
-        "version": "K9MAIL_15_0"
+        "version": "K9MAIL_15_0",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
         "sha": "61937b1e78bd5e993ebf0b5de3373ececf33c84e",
-        "version": ""
+        "version": "",
+        "pre_release": "false"
     },
     "TMoe": {
         "repo": "cinit/TMoe",
         "sha": "d415f438a989079faa6700a343a10adda5d62567",
-        "version": ""
+        "version": "",
+        "pre_release": "false"
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
         "sha": "f5e8ecc0aa9942f4037b621b214a5deaacecdf1e",
-        "version": "v2.19.1"
+        "version": "v2.19.1",
+        "pre_release": "false"
     },
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
         "sha": "17499f02ed691b2ff6645486a4ed960f5e4e9ec9",
-        "version": "24.04.06"
+        "version": "24.04.06",
+        "pre_release": "false"
     }
 }
