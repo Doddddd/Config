@@ -1,7 +1,7 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "7897a0941b6c0cf54a2cc241dbe3a1a7e25aacae",
+        "sha": "7cbdecae16a271678c6c77bc331cc0f8f799eafc",
         "version": "v3.4.1",
         "pre_release": "false"
     },
@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "fc7ff8dd3a8ebb778c7cc68d60a350bb12e8a12d",
+        "sha": "abeb18eb02c0f0edafb911daca6d0535a3fdd473",
         "version": "v5.3.0-alpha01",
         "pre_release": "true"
     },
@@ -67,7 +67,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "071fdcabf41fa37988c68bdd4c2064eaffaef45e",
+        "sha": "d36568b0748b0542f032ecf676d631f88e2f5d13",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "efd90d459c2babe7f9b47b30ffbc754847ca2191",
+        "sha": "caed17d412b0360e70dda9104cd74038ad6501db",
         "version": "3.6.0-alpha02",
         "pre_release": "true"
     },
