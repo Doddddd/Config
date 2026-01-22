@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "abeb18eb02c0f0edafb911daca6d0535a3fdd473",
+        "sha": "fd3991935017e8513c9c795c8deb280599ec0685",
         "version": "v5.3.0-alpha01",
         "pre_release": "true"
     },
@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "7a8c450dfedad62384b21273c6111b0105c03f33",
+        "sha": "7d293d5ed220eb810734a871e2729fb46935eafa",
         "version": "v3.0.0",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "be4bbd018dd2b9907e82b798df050683536a6c6a",
+        "sha": "087eb55299116abe5369f1ecd843b1204367b220",
         "version": "1.4.5",
         "pre_release": "false"
     },
