@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "30f68494e531468fc25572fbfc5900a33d72422d",
+        "sha": "a1996c09aebe6c209aceb772a377891355090521",
         "version": "3.6.0-alpha02",
         "pre_release": "true"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "e4b06dadf5e1a01e5b056a1094ace76e5206cf49",
+        "sha": "ceffcce20e927636b930af1b2accdbf7048a1de6",
         "version": "1.4.5",
         "pre_release": "false"
     },
