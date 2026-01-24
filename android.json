@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "12b228af39a7c35f57f22a48ff3631bd50caefdd",
+        "sha": "94b19ce27b31ae939483f285965007d2c431bc2e",
         "version": "v5.3.0-alpha01",
         "pre_release": "true"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "ceffcce20e927636b930af1b2accdbf7048a1de6",
+        "sha": "0dc3c12aa5b6e9ce4b2c2a20add27814891988f0",
         "version": "1.4.5",
         "pre_release": "false"
     },
