@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "022244f94ec1dd90311aa18a8f200e0575c38de4",
+        "sha": "7da1fe465d3adedf2dfbf8f81fd1ba54eb5779a8",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -140,8 +140,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "dd1405c67737601b27530533feeebf73711fe47e",
-        "version": "v2.0.7",
+        "sha": "82b934951bdecde7f9f0fa8e7857450f067c773f",
+        "version": "v2.1.0",
         "pre_release": "false"
     },
     "LSPosed": {
