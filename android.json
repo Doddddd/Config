@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "7da1fe465d3adedf2dfbf8f81fd1ba54eb5779a8",
+        "sha": "ff962ec339002ac4896841ded5f0912016b16072",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -140,7 +140,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "82b934951bdecde7f9f0fa8e7857450f067c773f",
+        "sha": "e19948b3027250edb5bde03ad4c254e75ff7e5cf",
         "version": "v2.1.0",
         "pre_release": "false"
     },
@@ -273,7 +273,7 @@
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "61937b1e78bd5e993ebf0b5de3373ececf33c84e",
+        "sha": "6967aba89547924d7ad3a7077b693fa0b214d2e0",
         "version": "v4.0.0-beta.2.8",
         "pre_release": "true"
     },
