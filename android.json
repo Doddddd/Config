@@ -57,7 +57,7 @@
         "repo": "MetaCubeX/ClashMetaForAndroid",
         "sha": "6969e1b657f417117ebe0080000758e464fd2a78",
         "version": "Prerelease-alpha",
-        "pre_release": "true"
+        "pre_release": "disable"
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
@@ -88,7 +88,7 @@
         "repo": "MateriiApps/Gloom",
         "sha": "e77343b035bf606296bced7db7b6fc368cd0a5d0",
         "version": "",
-        "pre_release": "false"
+        "pre_release": ""
     },
     "Hail": {
         "repo": "aistra0528/Hail",
@@ -172,7 +172,7 @@
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
         "version": "Prerelease-Alpha",
-        "pre_release": "true"
+        "pre_release": "disable"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
@@ -281,7 +281,7 @@
         "repo": "cinit/TMoe",
         "sha": "d415f438a989079faa6700a343a10adda5d62567",
         "version": "",
-        "pre_release": "false"
+        "pre_release": ""
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
