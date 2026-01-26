@@ -103,7 +103,7 @@
         "pre_release": "false"
     },
     "Hydrogen": {
-        "repo": "huajiqaq/Hydrogen",
+        "repo": "zhihulite/Hydrogen",
         "sha": "da10d39d95b391585c69ee0e7cd10e950d332987",
         "version": "beta-v0.612-60",
         "pre_release": "true"
@@ -111,7 +111,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "fd9babaf2322d3e94a374d02cb85c1c4b6ea9e18",
-        "version": "3.6.0-alpha02",
+        "version": "3.6.0-beta01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -201,8 +201,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "038f03a4e7b08db8f55fe6c2a629397ac32d7749",
-        "version": "1.1.5.5",
+        "sha": "af40e489bc51aa941b430c25838821c32f7fbcb9",
+        "version": "1.1.5.6",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -212,7 +212,7 @@
         "pre_release": "false"
     },
     "ReadYou": {
-        "repo": "Ashinch/ReadYou",
+        "repo": "ReadYouApp/ReadYou",
         "sha": "d22616232ed1b63376dbdbc69be3caab29419a0e",
         "version": "0.16.0",
         "pre_release": "false"
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "6b334f297770cb40d2092643df973fa2473f7674",
+        "sha": "f05f2178e59a8e5d74e4822d50beca54f7aec0bb",
         "version": "1.4.5",
         "pre_release": "false"
     },
