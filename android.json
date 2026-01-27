@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "df5fc489410b9a54ca20d84012fccb75ae1c4f13",
+        "sha": "c405a82a3e42a519bdbe41d2838564b2fca80546",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -80,7 +80,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "215dd14054882d78b5cbf41428e957e647ac0d0f",
+        "sha": "1455b6090ba88db2dc754cf7866d6693965a35bf",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -92,7 +92,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "c4706a08966f72b5e00bcfe3b1bca8cf7936fd73",
+        "sha": "c5b53fb009dac8228e2dfec3f9f293e1ca17ced3",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "0f1a9c5434213beebe4dfec8e3cbc9557b2f37cb",
+        "sha": "146123a230c93b22ae4500bccbce5bbfe96ed4fb",
         "version": "3.6.0-beta01",
         "pre_release": "true"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "6ebab0276c43812e91f1fb890df69fc546576370",
+        "sha": "b1dca7fa05db7d17ec6f787d9c7e83b29085e153",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
