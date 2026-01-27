@@ -17,11 +17,5 @@
         "sha": "2885b2aabbbf47aba7bf12b1cd7cbc03b1f5ec15",
         "version": "",
         "pre_release": ""
-    },
-    "UniversalAuth": {
-        "repo": "cubewhy/UniversalAuth",
-        "sha": "f3fc29741a1ffe3311c1c090832cb32da05f54f6",
-        "version": "",
-        "pre_release": ""
     }
 }
