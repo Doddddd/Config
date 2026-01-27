@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "22675af3d6a915060b0d623af306bda875209fb3",
+        "sha": "a0b0b0a8bcb439744c0ef84d8859ad4b5362e04a",
         "version": "3.6.0-beta01",
         "pre_release": "true"
     },
@@ -140,7 +140,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "a85ed9fa60eb17e69e73cbd09d092271fcbce2d3",
+        "sha": "1696fc92d493d6864ed4635b9b5ff76eda5a23fc",
         "version": "v2.1.1-70",
         "pre_release": "false"
     },
@@ -176,7 +176,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "82ffc8efa69cb86229fe8b677f12942c80b88a15",
+        "sha": "c0a1203541931a9090e6769acdb596c9ea4a011b",
         "version": "v0.19.3",
         "pre_release": "false"
     },
