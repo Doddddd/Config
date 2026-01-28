@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "72033eaf40768cecbc5182fac778166d973d0f0f",
+        "sha": "b5e0baa1d6f23e10a87ed57f5b35d8e708a18d82",
         "version": "v5.3.0-alpha02",
         "pre_release": "true"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a280171e4c96582b2c823543f9f571ed6b8481ac",
+        "sha": "185b458f612ea465b151eb5c3516d1ecd496fb23",
         "version": "3.6.0-beta01",
         "pre_release": "true"
     },
@@ -184,7 +184,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "61c25d458901e90bd02d35ec060f9217a4cdd251",
-        "version": "v0.28.1",
+        "version": "v0.28.2",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "5f3ceef5922242e38d0d0a78527a27cc7fac2fa6",
+        "sha": "79ef4c4501b0d9ce271cb033b63c26cefcbd872d",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "778ed1e45e58b22916c952a14ef454229a14290f",
+        "sha": "d767221a368cc5fa488da810e822f03b0ea88f72",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
