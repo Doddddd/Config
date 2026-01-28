@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f09a67ff40ba9c7f4bfd002a75c83fc8611a841f",
+        "sha": "72033eaf40768cecbc5182fac778166d973d0f0f",
         "version": "v5.3.0-alpha02",
         "pre_release": "true"
     },
@@ -201,8 +201,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "556bda0d6844ac99fbcd12f1a7a860b46ada1a9e",
-        "version": "1.1.5.6",
+        "sha": "bce73d9f164e8e26930c4461e95485245e8f15e2",
+        "version": "1.1.5.7",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "c76d10a438f64fac521749690d520c5260e23b1b",
+        "sha": "5f3ceef5922242e38d0d0a78527a27cc7fac2fa6",
         "version": "1.4.5",
         "pre_release": "false"
     },
