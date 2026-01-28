@@ -243,7 +243,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "80320dc23c9ac8306f984b27cb45b1fb4ba1b7c2",
+        "sha": "ede2a2d218aa6358d181aa43ef56e24f99174c65",
         "version": "1.92.2-td792049c0-g794a7ee13",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "b1dca7fa05db7d17ec6f787d9c7e83b29085e153",
+        "sha": "778ed1e45e58b22916c952a14ef454229a14290f",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
