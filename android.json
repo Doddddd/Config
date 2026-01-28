@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e10c15dd39cca31d99faff619e4af40182764793",
+        "sha": "0dbff9b370dbe3be1c4c1fd073d4ac7d02235b0e",
         "version": "v5.3.0-beta01",
         "pre_release": "true"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "185b458f612ea465b151eb5c3516d1ecd496fb23",
+        "sha": "5587e7d7094b2b722fc003f926ee81e4f58a67f9",
         "version": "3.6.0-beta01",
         "pre_release": "true"
     },
@@ -183,7 +183,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "61c25d458901e90bd02d35ec060f9217a4cdd251",
+        "sha": "50b9a7b7f6e2ef7f13949c7f796e8a6e83661183",
         "version": "v0.28.2",
         "pre_release": "false"
     },
@@ -207,13 +207,13 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "5bdfb258cd5592fbe0b454ca0492313b178f5e80",
+        "sha": "3ca76d6fad9f9445d467dfe36e12d3bd9add1526",
         "version": "v1.5.9",
         "pre_release": "false"
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "d22616232ed1b63376dbdbc69be3caab29419a0e",
+        "sha": "34714a89d6e17e06ae2b973e04a4488e63fda818",
         "version": "0.16.0",
         "pre_release": "false"
     },
@@ -243,7 +243,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "ede2a2d218aa6358d181aa43ef56e24f99174c65",
+        "sha": "afc295d2836f3653240ed8cd5f19629d98589439",
         "version": "1.92.2-td792049c0-g794a7ee13",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "c230aacb1f1de970ebfafb6e510a3446840d7c6a",
+        "sha": "16b50fe9ab4049100674399ff0ec39f0199a6980",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
