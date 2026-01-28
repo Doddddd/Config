@@ -14,7 +14,7 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "e10c15dd39cca31d99faff619e4af40182764793",
-        "version": "v5.3.0-alpha02",
+        "version": "v5.3.0-beta01",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "34ffc8f2dc716b26ad9b73f9501d520947406ea8",
+        "sha": "c230aacb1f1de970ebfafb6e510a3446840d7c6a",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
