@@ -273,8 +273,8 @@
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "12f1e8b8e9606beadf357fa1a3cfab681f2d4009",
-        "version": "v4.0.0-beta.2.8",
+        "sha": "2acfe2255d01f7ac452089e24c6627dd7556460b",
+        "version": "v4.0.0-beta.3",
         "pre_release": "true"
     },
     "TMoe": {
