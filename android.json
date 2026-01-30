@@ -110,8 +110,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5369365e9ae08eb37822203b27fe82f6a447c808",
-        "version": "3.6.0-beta01",
+        "sha": "cfd068c19402bbcf31048936e155c76b6e0c1d79",
+        "version": "3.6.0-rc01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -141,7 +141,7 @@
     "LogFox": {
         "repo": "F0x1d/LogFox",
         "sha": "35b23cca12141c068ce871b4fcea4bb64e9c05a9",
-        "version": "v2.1.1-70",
+        "version": "v2.1.2-71",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "99ab6fe55b9cade26bd6f59fb60b3f6883f0b6a5",
+        "sha": "c712cf33b1f1058071c659fd5ffafa91133362a1",
         "version": "THUNDERBIRD_16_0b4",
         "pre_release": "true"
     },
