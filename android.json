@@ -140,7 +140,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "1696fc92d493d6864ed4635b9b5ff76eda5a23fc",
+        "sha": "35b23cca12141c068ce871b4fcea4bb64e9c05a9",
         "version": "v2.1.1-70",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "48c7dc0eedf51b43676ba0e06e4ecac81268396f",
+        "sha": "9442b17d634ad619d55ee1561898f235c6d2753d",
         "version": "1.1.5.7",
         "pre_release": "false"
     },
