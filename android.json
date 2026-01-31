@@ -67,7 +67,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "d36568b0748b0542f032ecf676d631f88e2f5d13",
+        "sha": "4f17bb6f40f7738b0f0f19d638fa3feeba8b656c",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "0919db6b111db6f59dd24889fa4f90b141ea4148",
+        "sha": "5f13a8f8f7b5cef9e73f297eeb201b35f9507741",
         "version": "v30.6",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8964197b733bae41b47e7bc794ac5508bde37a89",
+        "sha": "6ee4deab054c26a32326a1b53eb230a45c73adba",
         "version": "1.1.5.7",
         "pre_release": "false"
     },
@@ -237,7 +237,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "f8f645772d616baaba676e1718b225b5f049376a",
+        "sha": "c1df5da0625023d8f2cf0c0b58161e15f5d381dd",
         "version": "1.12.0",
         "pre_release": "false"
     },
