@@ -140,8 +140,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "95e000689c1c28cf472d41679a77dd3f8a2d67f4",
-        "version": "v2.1.2-71",
+        "sha": "f4c4d3e277d471b334d26fda11ee4b641390bdcf",
+        "version": "v2.1.3-72",
         "pre_release": "false"
     },
     "LSPosed": {
