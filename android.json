@@ -31,7 +31,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "8fca7dcbb9d1a4d7f5166bdebdefee68f01a94ed",
+        "sha": "544354b0a4c00c3d3d9554d7fa98fc2044ab05d5",
         "version": "v1.88",
         "pre_release": "false"
     },
@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "34137b112aacf9031d09ff80ed68eeb7e1c056f8",
+        "sha": "a657af5dc9994e55d364d60a775312bfeeb3bc16",
         "version": "v30.6",
         "pre_release": "false"
     },
