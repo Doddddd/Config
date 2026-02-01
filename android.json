@@ -140,7 +140,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "35b23cca12141c068ce871b4fcea4bb64e9c05a9",
+        "sha": "95e000689c1c28cf472d41679a77dd3f8a2d67f4",
         "version": "v2.1.2-71",
         "pre_release": "false"
     },
@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "5f13a8f8f7b5cef9e73f297eeb201b35f9507741",
+        "sha": "34137b112aacf9031d09ff80ed68eeb7e1c056f8",
         "version": "v30.6",
         "pre_release": "false"
     },
