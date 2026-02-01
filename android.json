@@ -207,14 +207,14 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "d2dc5eceae1285264a393c25356b1b403f75a5ab",
+        "sha": "3a1d97d7bfcc7b2d13cf2c28f42a97462d3599d1",
         "version": "v1.5.9",
         "pre_release": "false"
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "34714a89d6e17e06ae2b973e04a4488e63fda818",
-        "version": "0.16.0",
+        "sha": "19d49733d44eaa8f6ae3ad94589dd682c00437cc",
+        "version": "0.16.1",
         "pre_release": "false"
     },
     "RSAF": {
