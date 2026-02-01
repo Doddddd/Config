@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "c405a82a3e42a519bdbe41d2838564b2fca80546",
+        "sha": "30455d879623d05c68cac45184bb5a77f789f37d",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "96075fdf4969cf19f619f75e11b5a5a14c02aafa",
+        "sha": "6306f833163c083bafae874a74410343240a89b6",
         "version": "1.4.5",
         "pre_release": "false"
     },
