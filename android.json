@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v113",
+        "version": "v114",
         "pre_release": "false"
     },
     "Animeko": {
@@ -31,7 +31,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "544354b0a4c00c3d3d9554d7fa98fc2044ab05d5",
+        "sha": "9623cdfacca42ca096bbf41cad2e5145024bf945",
         "version": "v1.88",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a8f31f1c014c365482474ff992cc7c8f68c98edc",
+        "sha": "8e6423b58ba60c3b96576ad9c006c0064962e0d0",
         "version": "3.6.0-rc01",
         "pre_release": "true"
     },
@@ -207,7 +207,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "3a1d97d7bfcc7b2d13cf2c28f42a97462d3599d1",
+        "sha": "0ff3067f74a063070397638dbc9ffcfd3a531387",
         "version": "v1.5.9",
         "pre_release": "false"
     },
