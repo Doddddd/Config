@@ -92,7 +92,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "c5b53fb009dac8228e2dfec3f9f293e1ca17ced3",
+        "sha": "fb74edf53cec28bfae4d961cd28b2c5340d2306c",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "378f079ffbfb8f35fd53a60cace7b66a9086d0ad",
+        "sha": "a8f31f1c014c365482474ff992cc7c8f68c98edc",
         "version": "3.6.0-rc01",
         "pre_release": "true"
     },
@@ -207,7 +207,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "3ca76d6fad9f9445d467dfe36e12d3bd9add1526",
+        "sha": "d2dc5eceae1285264a393c25356b1b403f75a5ab",
         "version": "v1.5.9",
         "pre_release": "false"
     },
