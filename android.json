@@ -31,8 +31,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "9623cdfacca42ca096bbf41cad2e5145024bf945",
-        "version": "v1.88",
+        "sha": "fb82765ee76465f87198d6bc50fbf203598c43fb",
+        "version": "v2.0",
         "pre_release": "false"
     },
     "BiliRoaming": {
