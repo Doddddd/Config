@@ -110,9 +110,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c9e386d311d103af832cfcf98853dbbc340f744c",
-        "version": "3.6.0-rc01",
-        "pre_release": "true"
+        "sha": "ad8c2cf772e7e97f283cdf3b70dc6d5cea5c833b",
+        "version": "3.6.0",
+        "pre_release": "false"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "35d81627402fe9c4c056aa2769d60ac93627bca2",
+        "sha": "9007ae639f664cdaa538f6184b7fa7f89c5f58ae",
         "version": "v3.0.0",
         "pre_release": "false"
     },
@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "a657af5dc9994e55d364d60a775312bfeeb3bc16",
+        "sha": "e729eec6366f67bd3ced4ad611a6f40fd5070bc9",
         "version": "v30.6",
         "pre_release": "false"
     },
@@ -183,7 +183,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "50b9a7b7f6e2ef7f13949c7f796e8a6e83661183",
+        "sha": "d859a5edc8452778d5d50c2aa357e6a81ad985ab",
         "version": "v0.28.2",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "6306f833163c083bafae874a74410343240a89b6",
+        "sha": "5ee9dcf42d6944c58722982bd36278d3bdb5892a",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -291,7 +291,7 @@
     },
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
-        "sha": "17499f02ed691b2ff6645486a4ed960f5e4e9ec9",
+        "sha": "3eae74edb9f3ccf0710697d84a07182e8f7d8ef0",
         "version": "24.04.06",
         "pre_release": "false"
     }
