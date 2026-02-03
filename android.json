@@ -176,7 +176,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "100cea0757c930b153e50ca2ba52e4c06f14800d",
+        "sha": "4e4bdffdf38043418685ab42b177c8476842c83c",
         "version": "v0.19.3",
         "pre_release": "false"
     },
@@ -291,7 +291,7 @@
     },
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
-        "sha": "69146403d77b91fa074198491d1343dd5108178f",
+        "sha": "988eac3efb5d23f9a861c44739bfb9d1b9d030cc",
         "version": "24.04.06",
         "pre_release": "false"
     }
