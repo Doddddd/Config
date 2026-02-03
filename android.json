@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "097f8324ed666a4812502e0f396d4a959d4e0431",
+        "sha": "4566823b55fcd2ace101c1fd1c7ff3e316899946",
         "version": "v3.0.0",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2596859778531ee77aff10aa28d65a2786b54584",
+        "sha": "50561b8dc12e9091b3d8a945037ee946c16c9ca4",
         "version": "1.1.5.7",
         "pre_release": "false"
     },
@@ -292,7 +292,7 @@
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
         "sha": "988eac3efb5d23f9a861c44739bfb9d1b9d030cc",
-        "version": "24.04.06",
+        "version": "26.02.03",
         "pre_release": "false"
     }
 }
