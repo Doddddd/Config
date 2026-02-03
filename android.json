@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "fd3093a2bb124a337c332d8069fdfcb29948953f",
+        "sha": "7b188d70d8197b55f3d6234e39beb5b4166457d6",
         "version": "3.6.0",
         "pre_release": "false"
     },
@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0f5ea2f635f0f76551f2a1b05f4de05560fd3499",
+        "sha": "097f8324ed666a4812502e0f396d4a959d4e0431",
         "version": "v3.0.0",
         "pre_release": "false"
     },
@@ -291,7 +291,7 @@
     },
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
-        "sha": "3eae74edb9f3ccf0710697d84a07182e8f7d8ef0",
+        "sha": "69146403d77b91fa074198491d1343dd5108178f",
         "version": "24.04.06",
         "pre_release": "false"
     }
