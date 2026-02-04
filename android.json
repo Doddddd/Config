@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "f8c2d8de2bc0eefdff1b085f2ec68bd18a18d2da",
+        "sha": "6ce4b66a2f9047509543808dce6108eb1df25d4e",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2c03464bcbc8c309f618ad53396d39f158fef66f",
+        "sha": "a11a0e521ae0b7caae7058e90c546d7eef3ef03d",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -122,8 +122,8 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "8ef6423b8e094a8fd29e4551a8f367d40d212173",
-        "version": "v3.0.0",
+        "sha": "92aff05fba3b0f2d031fdaac83cd9aecdfeac7f6",
+        "version": "v3.1.0",
         "pre_release": "false"
     },
     "Legado": {
@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "b55f597ccf529202993c465c39839f0e9ff5874a",
+        "sha": "628b4d471579035583a3fbfe918ea8e608027734",
         "version": "v30.6",
         "pre_release": "false"
     },
@@ -207,7 +207,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "0ff3067f74a063070397638dbc9ffcfd3a531387",
+        "sha": "fbb08c8bb525e5fc8f9fcb447b001fc93501a55a",
         "version": "v1.5.9",
         "pre_release": "false"
     },
@@ -267,9 +267,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "6b7834d544f155f241304016ab7c82ef2298c8a8",
-        "version": "THUNDERBIRD_16_0",
-        "pre_release": "false"
+        "sha": "dc621a6eea6b7be97bacb0eef679f9eda6481a62",
+        "version": "THUNDERBIRD_17_0b2",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
