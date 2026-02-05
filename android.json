@@ -152,7 +152,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "628b4d471579035583a3fbfe918ea8e608027734",
+        "sha": "0d39b1088999d3d388d617d75778622c597d53e8",
         "version": "v30.6",
         "pre_release": "false"
     },
@@ -176,7 +176,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "4e4bdffdf38043418685ab42b177c8476842c83c",
+        "sha": "b543bc089a442c5e93b0fb6c83bc4037740b1eb5",
         "version": "v0.19.3",
         "pre_release": "false"
     },
