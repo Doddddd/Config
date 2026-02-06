@@ -43,7 +43,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "94363ac3f946edc9c3cb346f47a85ef1d7c4ec09",
+        "sha": "343e90a8585755162e6b2236c5f624ec18d25dc9",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a2afb22b2ba40903545b5b89b5e1f43bc29a9272",
+        "sha": "ea972dee2661b51cfa1b057c685e265bdd047e3f",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2cc1addfc7df23aa62d344752e7a963123495c0a",
+        "sha": "be1d6637ab22f9adf0ae4dc0f4808b440aee25e8",
         "version": "THUNDERBIRD_17_0b2",
         "pre_release": "true"
     },
