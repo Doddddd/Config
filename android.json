@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "ba6dea85b2f1ae2a89d89868d1f837d443b81031",
-        "version": "v5.3.0-beta01",
-        "pre_release": "true"
+        "version": "v5.3.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ea972dee2661b51cfa1b057c685e265bdd047e3f",
+        "sha": "542a3abf5e13ccd0b79d4d94a18a312768ae2991",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -134,7 +134,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "184f16e7461b94d7c17a8331a44806be9e55638b",
+        "sha": "4e21a2927620b86588c088087b5d0b231e12eb30",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -183,7 +183,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "d859a5edc8452778d5d50c2aa357e6a81ad985ab",
+        "sha": "c2b698491b3e522e600324a2931c86b1a8fadeb0",
         "version": "v0.28.3",
         "pre_release": "false"
     },
