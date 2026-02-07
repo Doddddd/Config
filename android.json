@@ -201,8 +201,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "a380bcd96abcb60fcbac0b1e7b1db2c8bb778db4",
-        "version": "1.1.5.7",
+        "sha": "4ac855d393d7676b02747ee2727c15ad4efc6623",
+        "version": "1.1.6",
         "pre_release": "false"
     },
     "QAuxiliary": {
