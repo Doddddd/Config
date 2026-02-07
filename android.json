@@ -31,7 +31,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "fb82765ee76465f87198d6bc50fbf203598c43fb",
+        "sha": "54fcc40cc4646a86a0d271d23a0c4e3b0ad78b27",
         "version": "v2.0",
         "pre_release": "false"
     },
@@ -67,7 +67,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "4f17bb6f40f7738b0f0f19d638fa3feeba8b656c",
+        "sha": "998ca6990e5f7a2bb1784c865f06b54f7f8d8644",
         "version": "2.0.12",
         "pre_release": "false"
     },
