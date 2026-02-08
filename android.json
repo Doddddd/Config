@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v114",
+        "version": "v115",
         "pre_release": "false"
     },
     "Animeko": {
@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS%2FAuroraStore",
-        "sha": "6ce4b66a2f9047509543808dce6108eb1df25d4e",
+        "sha": "9d80b1dd54341ca31bfb7c9d54f182097b24954d",
         "version": "4.7.5",
         "platform": "gitlab"
     },
@@ -55,8 +55,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "6969e1b657f417117ebe0080000758e464fd2a78",
-        "version": "v2.11.22",
+        "sha": "bd042125c5722358412f40a86d22cad1de6d6663",
+        "version": "v2.11.23",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -67,7 +67,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "998ca6990e5f7a2bb1784c865f06b54f7f8d8644",
+        "sha": "5a544eac7e41e530bf8c4c37faac498d1b116123",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "542a3abf5e13ccd0b79d4d94a18a312768ae2991",
+        "sha": "538b0c2fcc25176979bbc78783e900d944f4c49f",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -140,8 +140,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "7dec3c307b9751f724ab649920f5b85f44cc6ec7",
-        "version": "v2.1.4-73",
+        "sha": "127a976800ea440d1ef98fd5059400745ed3d6a2",
+        "version": "v2.1.5-74",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -171,7 +171,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.19",
+        "version": "v1.19.20",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8234b7ac92838421e8d2841c7f68f94dc2bee2ff",
+        "sha": "0cb07aef1ca941079caac0fe8dde2cdf95522f45",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "626a091f55d1c6de9d8c50ed343eaf9e48fa9b50",
+        "sha": "54eae37038a9d3f64afbc9bc243dea207e85cae6",
         "version": "1.4.5",
         "pre_release": "false"
     },
