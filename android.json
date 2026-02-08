@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "30455d879623d05c68cac45184bb5a77f789f37d",
+        "sha": "fa8d0d66cf4939a4a79c4d02cbfb7c72dea7ae48",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -43,7 +43,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "343e90a8585755162e6b2236c5f624ec18d25dc9",
+        "sha": "bb4b747bf60f7432eeee063b6853ac6116345f51",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
