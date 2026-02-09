@@ -25,7 +25,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "fa8d0d66cf4939a4a79c4d02cbfb7c72dea7ae48",
+        "sha": "3603822d647ff2fdabf585fb4f402e37987bbaff",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7a5394c55c5fbb034a400d2c5c73c041f68207c2",
+        "sha": "202270d4a6a0facaa775d899dabfba6c5aa98045",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -176,7 +176,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "cf93afab4526bf7dc336b9eaec93a45181785ff1",
+        "sha": "d17976c91068944be1a5cba9a959c3763f589590",
         "version": "v0.19.3",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "0cb07aef1ca941079caac0fe8dde2cdf95522f45",
+        "sha": "32cd3209d0bf6e01e26ca42cc7758b8901836ee6",
         "version": "1.1.6",
         "pre_release": "false"
     },
