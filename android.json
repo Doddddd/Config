@@ -55,7 +55,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "bd042125c5722358412f40a86d22cad1de6d6663",
+        "sha": "232f318bde9b1bd7c7931b7a5d70835f239749a1",
         "version": "v2.11.23",
         "pre_release": "disable"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "54eae37038a9d3f64afbc9bc243dea207e85cae6",
+        "sha": "de6bf9dc7eeece2c4a5b0ee46b42d55cd1e8c499",
         "version": "1.4.5",
         "pre_release": "false"
     },
