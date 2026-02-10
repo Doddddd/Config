@@ -31,7 +31,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "54fcc40cc4646a86a0d271d23a0c4e3b0ad78b27",
+        "sha": "eb5424cc70a1ff2601f5fed10fb495a7f0d358d3",
         "version": "v2.0",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "03b068197837f9137b5f86588992995e18ff8c89",
+        "sha": "f96c970f8ac8cf4b2c79aa87da44ff9f41eab3dd",
         "version": "THUNDERBIRD_17_0b2",
         "pre_release": "true"
     },
