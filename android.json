@@ -31,8 +31,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "eb5424cc70a1ff2601f5fed10fb495a7f0d358d3",
-        "version": "v2.0",
+        "sha": "6944807bfef569095a37bf28a9b1dfe97cd1d02c",
+        "version": "v2.1",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "60a300f67e781a97accbecee9098051a3ce535cf",
+        "sha": "5dbd9012a6c57c8b81d098cc2fcdc3bbc85d77e4",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -268,8 +268,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "f96c970f8ac8cf4b2c79aa87da44ff9f41eab3dd",
-        "version": "THUNDERBIRD_17_0b2",
-        "pre_release": "true"
+        "version": "THUNDERBIRD_16_1",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
