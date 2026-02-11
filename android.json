@@ -31,7 +31,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "6944807bfef569095a37bf28a9b1dfe97cd1d02c",
+        "sha": "ca84d846f032c2245f1d853f9f835f79e6aba1a8",
         "version": "v2.1",
         "pre_release": "false"
     },
@@ -92,7 +92,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "8d578b1486dd07e2bd0c4e5262877228fa64652a",
+        "sha": "12850b6d14748aa0ed695fa58863ddd1c0210c49",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -122,7 +122,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "80d86b4835afb5208e1c282fb07f173ef8728ca2",
+        "sha": "c44adc14c7fdaf9e7d3de8a32575bf15e1e35206",
         "version": "v3.1.0",
         "pre_release": "false"
     },
