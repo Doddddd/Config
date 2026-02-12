@@ -207,7 +207,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "ffde1ec5a9bb265b9cbdd3d8c8550d6949f532eb",
+        "sha": "9804d7343efc49d8f2026bd4f6b48029b62b7d4d",
         "version": "v1.5.9",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "3f8870edb4527874722db8bf1ac5ebd97c9df0fe",
+        "sha": "6b9d154d658b5386e453788d31cfd9c856a90043",
         "version": "THUNDERBIRD_16_1",
         "pre_release": "false"
     },
