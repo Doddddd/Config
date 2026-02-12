@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "ba6dea85b2f1ae2a89d89868d1f837d443b81031",
+        "sha": "775b183cee600c83014dda0165c35a4fa3cb8f48",
         "version": "v5.3.1",
         "pre_release": "false"
     },
@@ -55,7 +55,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "5e7a01fb606c6027c08f346592602d70ec7b522d",
+        "sha": "fb9ffa0b827cf20e019dbd4fcf458e9b7a59d353",
         "version": "v2.11.23",
         "pre_release": "disable"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5dbd9012a6c57c8b81d098cc2fcdc3bbc85d77e4",
+        "sha": "6467b0450910e94ff063548aff388da69a1c48ca",
         "version": "3.6.1",
         "pre_release": "false"
     },
@@ -140,8 +140,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "127a976800ea440d1ef98fd5059400745ed3d6a2",
-        "version": "v2.1.5-74",
+        "sha": "59442b6c7d2058f517d4ba038b125031677b4ab1",
+        "version": "v2.1.6-75",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "9411785d260ba57062a0539bd606252eb1091a79",
+        "sha": "483953cf56549f18d88f3abe02f297a1febb02e2",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "067fab2b73f48c25e6f1843d27e8e5457f0a9550",
+        "sha": "2842315b1d189ec0b9e5ee34954e6095947afb14",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -261,13 +261,13 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "1937595c5733a0a82b5dbc88670d71294ec79397",
+        "sha": "e50ac9e019f5dd359b252bc4312f25de7b7dc8ed",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d30f60e08028fb58470d8fb81be69ab4c5f030bf",
+        "sha": "3f8870edb4527874722db8bf1ac5ebd97c9df0fe",
         "version": "THUNDERBIRD_16_1",
         "pre_release": "false"
     },
