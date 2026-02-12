@@ -110,9 +110,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6467b0450910e94ff063548aff388da69a1c48ca",
-        "version": "3.6.1",
-        "pre_release": "false"
+        "sha": "67305ab5e617069f0fce40c80532c5c528d7ab9b",
+        "version": "3.6.2-alpha01",
+        "pre_release": "true"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -128,7 +128,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "fc6a1e38fd05aa1c39a59b4f38bc6771ac39f312",
+        "sha": "94e7aa464c351a17d2e6f37449ee72601057eb0d",
         "version": "beta",
         "pre_release": "true"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "023732381b670a2d52f7fc86bbf011381e5f244a",
+        "sha": "f7e9c42e7de886048e1bc39e7951ee2d4f458fd1",
         "version": "THUNDERBIRD_16_1",
         "pre_release": "false"
     },
