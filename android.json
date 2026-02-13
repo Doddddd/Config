@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3adebaa9637703f1f6a7b81ea05d26834788dc33",
+        "sha": "74b28403c479b36c5aa37ddfff1f8382e534904f",
         "version": "3.6.2-alpha01",
         "pre_release": "true"
     },
@@ -225,7 +225,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "2842315b1d189ec0b9e5ee34954e6095947afb14",
+        "sha": "85db6779828349b23ca3eba91cc7cd36c5337797",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -243,7 +243,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "afc295d2836f3653240ed8cd5f19629d98589439",
+        "sha": "287c2aabd2c353db43a8496277411e0890fa1ade",
         "version": "1.92.2-td792049c0-g794a7ee13",
         "pre_release": "false"
     },
@@ -267,7 +267,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f7e9c42e7de886048e1bc39e7951ee2d4f458fd1",
+        "sha": "8b7494ad3552e08ab49ab8c3f55c03fb8f328c7e",
         "version": "THUNDERBIRD_16_1",
         "pre_release": "false"
     },
