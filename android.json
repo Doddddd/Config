@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8e726f49b22a5d25cc87ab115ce491d1717448f5",
+        "sha": "beb7eb1aea9870486770901ef84996d360f7f600",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -237,7 +237,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "c1df5da0625023d8f2cf0c0b58161e15f5d381dd",
+        "sha": "af1f77418f03443727082346b6adb26c7ed868a0",
         "version": "1.12.0",
         "pre_release": "false"
     },
