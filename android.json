@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e7e79eb62a1573d80c6e3640ed171662966d4137",
+        "sha": "511ff71f5fdfd8e50c748f53192a60ea690cbb31",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -249,7 +249,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "d7deedfa33ddfa51c72a5634d1f07ad2d7ad58a4",
+        "sha": "3581a10f8ecaa0f6d42d7a77442742caf95c6a13",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
