@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8e7f67b6cbcd2be484323d7125171147f4bd2d2a",
+        "sha": "a3c9d7a09c12dc24d4a8c8f181f1ec50aa84390f",
         "version": "3.6.2-alpha01",
         "pre_release": "true"
     },
@@ -183,7 +183,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "c2b698491b3e522e600324a2931c86b1a8fadeb0",
+        "sha": "3a428273202402856d70e2d478ba15c3eb7be6eb",
         "version": "v0.28.3",
         "pre_release": "false"
     },
@@ -201,14 +201,14 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2c0597175d386049cbc0391445560f5d7fd8a214",
+        "sha": "807de41ff0625d06814c7389cd29b8a6fd4e1bb2",
         "version": "1.1.6",
         "pre_release": "false"
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
         "sha": "b6a3cadf63cefaa9144b2ac843384ae41814da16",
-        "version": "v1.5.9",
+        "version": "v1.6.0",
         "pre_release": "false"
     },
     "ReadYou": {
