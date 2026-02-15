@@ -31,8 +31,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "f85ba0663a99b296f3fb7d81dfbc79930c2c0789",
-        "version": "v2.2",
+        "sha": "4de68f7e67763bbf1ada68e038ba4022b32510e6",
+        "version": "v2.3",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -43,7 +43,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "37140cecc81464efa9c3cd423e70ce8c73fd2b36",
+        "sha": "e6057fce22da718177ac8036449de5b3496f41d3",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -207,7 +207,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "9804d7343efc49d8f2026bd4f6b48029b62b7d4d",
+        "sha": "b6a3cadf63cefaa9144b2ac843384ae41814da16",
         "version": "v1.5.9",
         "pre_release": "false"
     },
@@ -219,8 +219,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "6221d18994dfa07e7d7401541f389b545732381e",
-        "version": "v3.30",
+        "sha": "f7f0d37bb3713a80c95a75d69572475e7fb37ac5",
+        "version": "v3.31",
         "pre_release": "false"
     },
     "RustDesk": {
