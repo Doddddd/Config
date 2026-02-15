@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v115",
+        "version": "v116",
         "pre_release": "false"
     },
     "Animeko": {
@@ -43,7 +43,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "e6057fce22da718177ac8036449de5b3496f41d3",
+        "sha": "98fe4ef587ada69c03b003472d99cfbaa9736f60",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -110,7 +110,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a3c9d7a09c12dc24d4a8c8f181f1ec50aa84390f",
+        "sha": "708eb3ebd829a115262f2865a25d7e79fc2b2c44",
         "version": "3.6.2-alpha01",
         "pre_release": "true"
     },
@@ -176,7 +176,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "cae9fbf3213987e7d263845431dfac10a2ecb3b0",
+        "sha": "27749fc583527ab1360594a69ef586a4311c93f5",
         "version": "v0.19.3",
         "pre_release": "false"
     },
@@ -201,7 +201,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "807de41ff0625d06814c7389cd29b8a6fd4e1bb2",
+        "sha": "3209ecd0ba2d5995085eda85d655905fec392be9",
         "version": "1.1.6",
         "pre_release": "false"
     },
