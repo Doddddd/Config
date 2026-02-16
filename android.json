@@ -19,13 +19,14 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "e98e1a26e1ef219c6c512e1988fc161a9b667deb",
-        "version": "4.7.5",
-        "platform": "gitlab"
+        "sha": "743ea0a25d1dfc7b99b6ccb72bdade1180a7834e",
+        "version": "4.8.1",
+        "platform": "gitlab",
+        "pre_release": "false"
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "da2cd15a159035bfb92c7b0aaba6bd42def5fc91",
+        "sha": "1217fafc31a42d5ac0b1ed603c32f73070995faa",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -43,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "1c841c22eaf0f2560fe5868b2dc27e905f0f4fb5",
+        "sha": "bb64754267d7c0907d93ea16bc7d2fdf09459cc9",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -80,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "1455b6090ba88db2dc754cf7866d6693965a35bf",
+        "sha": "8c82f67bfac7a569e41d3eef2bb56c92c94f4aa5",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -110,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b866ccf5831d23eb205ae5951e1c38048fe89e74",
+        "sha": "252d483b6eb442542191bfd0be3c10797ace921f",
         "version": "3.6.2-alpha01",
         "pre_release": "true"
     },
