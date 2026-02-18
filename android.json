@@ -220,8 +220,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "6bd36b92c71d285a7bbf2d20c9b51fac58490180",
-        "version": "v3.32",
+        "sha": "090446d65ba5700ec8476e3c9ecc7cd589e89789",
+        "version": "v3.33",
         "pre_release": "false"
     },
     "RustDesk": {
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2498b82a615a6df72e9215f24ff747b57dd7d863",
+        "sha": "67b9f5c9518e2037a21bfd4c591c6968eff423bd",
         "version": "THUNDERBIRD_17_0b3",
         "pre_release": "true"
     },
