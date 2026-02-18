@@ -111,8 +111,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b471b7e804560b3f26cd6f5d79015bbea8122bde",
-        "version": "3.6.2-alpha01",
+        "sha": "3b1165f321890e8275064c1a151605af9f796cb8",
+        "version": "3.6.2-alpha02",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -269,8 +269,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "2498b82a615a6df72e9215f24ff747b57dd7d863",
-        "version": "THUNDERBIRD_16_1",
-        "pre_release": "false"
+        "version": "THUNDERBIRD_17_0b3",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
