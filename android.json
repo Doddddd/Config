@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3b1165f321890e8275064c1a151605af9f796cb8",
+        "sha": "7cbb66c154caa9ce8037162003b14c4f8a3376df",
         "version": "3.6.2-alpha02",
         "pre_release": "true"
     },
@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "94e7aa464c351a17d2e6f37449ee72601057eb0d",
+        "sha": "5f5d31404af9957684703747ecee2b91e7161f1d",
         "version": "beta",
         "pre_release": "true"
     },
