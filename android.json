@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ccfc84ec2ad1c1f92910e83ef8a1e99d2105b0e2",
+        "sha": "7789f876a2faf66339a333ad29fa92402d65cbb7",
         "version": "3.6.2-alpha02",
         "pre_release": "true"
     },
@@ -184,7 +184,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "3a428273202402856d70e2d478ba15c3eb7be6eb",
+        "sha": "8b28bd1a184e912b55847b4c31bd6c3e1af4049c",
         "version": "v0.28.3",
         "pre_release": "false"
     },
