@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "bb64754267d7c0907d93ea16bc7d2fdf09459cc9",
+        "sha": "37acfb0429fdb0354bbaa4adb885787df9a7352a",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7789f876a2faf66339a333ad29fa92402d65cbb7",
+        "sha": "96ba84530c8d7b4a289c0e1e094aed8b6ca8d64a",
         "version": "3.6.2-alpha02",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "9345fb754ac1997a9c9e19578bdc3c933c27e69e",
+        "sha": "34ceeac36e866b7aaae888683cd8b17752ea7a57",
         "version": "1.4.5",
         "pre_release": "false"
     },
