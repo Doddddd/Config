@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "79297c386954b5bd3f07895fe7e4c0ae4686cdca",
+        "sha": "aca1a14257fc5f0fb32cbdbe8e0af0d497f90408",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "34ceeac36e866b7aaae888683cd8b17752ea7a57",
+        "sha": "483fe80308bbdf8b98ff56430a6519c94200d0fc",
         "version": "1.4.5",
         "pre_release": "false"
     },
