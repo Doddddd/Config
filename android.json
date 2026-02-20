@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "775b183cee600c83014dda0165c35a4fa3cb8f48",
+        "sha": "dc2109c15e1f3b354c85bb732bd1fd777c43db1a",
         "version": "v5.3.1",
         "pre_release": "false"
     },
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "4a8aa95413e1961b496b5b8cbe5d7d399dcb1aa6",
+        "sha": "68895348b28ee05364d40bfaf395780908094cb1",
         "version": "v2.4",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "b647c3c5c85ed647dd727fa05f2342a05e3f8f38",
+        "sha": "79297c386954b5bd3f07895fe7e4c0ae4686cdca",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b1c0eca3289b85dd5dfe65d680b370001b6e8f90",
+        "sha": "a63ca93762da1aa5ae1f107aa7d30536b3a10fba",
         "version": "1.1.6",
         "pre_release": "false"
     },
