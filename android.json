@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "68895348b28ee05364d40bfaf395780908094cb1",
-        "version": "v2.4",
+        "sha": "fe3a176fc21d1841298d41bc443af617e43ee1c5",
+        "version": "v2.5",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "37acfb0429fdb0354bbaa4adb885787df9a7352a",
+        "sha": "e5ad6469531f0e19bcd66d47e7c3d06e0230ce95",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
