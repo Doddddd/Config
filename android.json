@@ -220,8 +220,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "2bc44842d5bebff9b331eba92e5c4b6a4637cdb1",
-        "version": "v3.33",
+        "sha": "43572008e9fca72c73345ec5210f81aa34d52d9f",
+        "version": "v3.34",
         "pre_release": "false"
     },
     "RustDesk": {
@@ -280,7 +280,7 @@
     },
     "TMoe": {
         "repo": "cinit/TMoe",
-        "sha": "d415f438a989079faa6700a343a10adda5d62567",
+        "sha": "7baf2b56653e7883f6bad1ae88f80fd2f504e696",
         "version": "",
         "pre_release": ""
     },
