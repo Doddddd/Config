@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "eb503f58576f2d3cd971389db37314731fc0d12c",
+        "sha": "0a91ca61823853742ffec1ed1b3aefc03ac0989c",
         "version": "3.6.2-beta01",
         "pre_release": "true"
     },
@@ -220,7 +220,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "090446d65ba5700ec8476e3c9ecc7cd589e89789",
+        "sha": "2bc44842d5bebff9b331eba92e5c4b6a4637cdb1",
         "version": "v3.33",
         "pre_release": "false"
     },
