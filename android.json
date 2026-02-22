@@ -111,8 +111,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "82f67fc8da2d2c453d34f987048550ac9cb4c1da",
-        "version": "3.6.2-beta01",
+        "sha": "63af1b8946019307fd4abb1f58a2636a67d00ccc",
+        "version": "3.6.2-beta02",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -147,13 +147,13 @@
     },
     "LSPosed": {
         "repo": "re-zero001/LSPosed-Irena",
-        "sha": "b89d2f27ee7674b01b24a8e50beed2bbcba080b9",
+        "sha": "99561d6409709878067047261eb18bfa56a6290c",
         "version": "1.9.2",
         "pre_release": "false"
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "9ee6a6b3d7a34adfc340cd6eababdbf3b2aa6b10",
+        "sha": "ee25db06274028264c7b7bf4cc188acc6eecae63",
         "version": "v30.6",
         "pre_release": "false"
     },
@@ -184,7 +184,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "8b28bd1a184e912b55847b4c31bd6c3e1af4049c",
+        "sha": "4c82e8bafd0de006832a2af25cc38f6e0ef2a98c",
         "version": "v0.28.3",
         "pre_release": "false"
     },
