@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "e5ad6469531f0e19bcd66d47e7c3d06e0230ce95",
+        "sha": "b40a4b8d1620b2603d5a8f8e4a8e87fb2a38eeb4",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "d8950adb644bb642c7d07a0e75685868249817b9",
+        "sha": "7563a52bed8ca27c97e21ba340dc5ddd6eeec4bd",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "4d2d2118a2a70985333e6e7580e9670e194bd250",
+        "sha": "6c3515588f8eb99e5e94462c93993b7577bf6939",
         "version": "1.4.5",
         "pre_release": "false"
     },
