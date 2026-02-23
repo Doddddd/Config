@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "3cbb4ffa59275e2a6637807ce4973bca510b5475",
+        "sha": "371d287bb8a57927f3353f1494f4a89f0905d8dc",
         "version": "v5.3.1",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "38dbcd55f837c6ddea51d09884870578566790d7",
+        "sha": "7c405e20abffb00447d832ae574e7922c462c33c",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c351ff19bfbe35effbfa3f9ee30a6b78296dd785",
+        "sha": "f47a4bf52441a95172a96f30bca5302de6beaae2",
         "version": "3.6.2-beta02",
         "pre_release": "true"
     },
@@ -153,8 +153,8 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "07e92948c8ad3cc902dbf6fc313c10e8e5e5597d",
-        "version": "v30.6",
+        "sha": "e8a58776f1d7bdf852072ad0baa6eceb9a1e4aac",
+        "version": "v30.7",
         "pre_release": "false"
     },
     "Maple-Font": {
@@ -226,7 +226,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "6c3515588f8eb99e5e94462c93993b7577bf6939",
+        "sha": "17a3f2ae52929fc63bfa3d8b92811632f3619c3f",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5be57418df3993ce391ccca66bca6eb323e4df3c",
+        "sha": "186a962dadcf486f61f2cdf858e8b463c15f406c",
         "version": "THUNDERBIRD_17_0b3",
         "pre_release": "true"
     },
