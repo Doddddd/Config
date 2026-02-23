@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "63af1b8946019307fd4abb1f58a2636a67d00ccc",
+        "sha": "1e89ff202126f166f32df11053852b7f3ef3ccee",
         "version": "3.6.2-beta02",
         "pre_release": "true"
     },
@@ -141,7 +141,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "fe1418f8947b36725edf33f002d741e0fa815bec",
+        "sha": "44472e1c4911d01c54d39da8f55d00b7e6fda3c3",
         "version": "v2.1.6-75",
         "pre_release": "false"
     },
@@ -153,7 +153,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "ee25db06274028264c7b7bf4cc188acc6eecae63",
+        "sha": "74ead75ce86212362a9edd6ee10fdb399fb69b6c",
         "version": "v30.6",
         "pre_release": "false"
     },
