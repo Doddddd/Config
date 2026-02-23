@@ -93,7 +93,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "12850b6d14748aa0ed695fa58863ddd1c0210c49",
+        "sha": "b04871c4469989355497883a067a398d9a587afa",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b84d737a4fc58f27fe93bd3c1881ada96df86786",
+        "sha": "2d54667db6d50b301b56b6202c3e8eafd39758f1",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -141,8 +141,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "44472e1c4911d01c54d39da8f55d00b7e6fda3c3",
-        "version": "v2.1.7-76",
+        "sha": "4f3fbe9b3d36674adb765f0811ddf90850df3f61",
+        "version": "v2.1.8-77",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "80a5b7ce49c289f7d4c94b22a33f453ca190b952",
+        "sha": "5295798301a41fc27bdee208ed6e971b93a1d58e",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "68b953e9fdc6cf7dd181430a824ec7a424db5b93",
+        "sha": "000dcfa4678fb7fa5bf8ec858d670a36ad020a69",
         "version": "THUNDERBIRD_17_0b3",
         "pre_release": "true"
     },
