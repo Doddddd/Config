@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1e89ff202126f166f32df11053852b7f3ef3ccee",
+        "sha": "c351ff19bfbe35effbfa3f9ee30a6b78296dd785",
         "version": "3.6.2-beta02",
         "pre_release": "true"
     },
@@ -142,7 +142,7 @@
     "LogFox": {
         "repo": "F0x1d/LogFox",
         "sha": "44472e1c4911d01c54d39da8f55d00b7e6fda3c3",
-        "version": "v2.1.6-75",
+        "version": "v2.1.7-76",
         "pre_release": "false"
     },
     "LSPosed": {
