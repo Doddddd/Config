@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f47a4bf52441a95172a96f30bca5302de6beaae2",
+        "sha": "82f381d0ffe4f4b6f47ef8072a22141d8e6650ef",
         "version": "3.6.2-beta02",
         "pre_release": "true"
     },
@@ -208,8 +208,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "",
-        "version": "",
+        "sha": "566a9fb320c5d6c6e62d0fb0aa9bc5bb359bc031",
+        "version": "0.9.85",
         "pre_release": "false"
     },
     "QAuxiliary": {
