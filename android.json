@@ -206,6 +206,12 @@
         "version": "1.1.6",
         "pre_release": "false"
     },
+    "PixEz": {
+        "repo": "Notsfsssf/pixez-flutter",
+        "sha": "",
+        "version": "",
+        "pre_release": "false"
+    },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
         "sha": "665f0efbd606bf7a0499b5700a6652fb0f910cf4",
