@@ -1,8 +1,8 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "7cbdecae16a271678c6c77bc331cc0f8f799eafc",
-        "version": "v3.4.1",
+        "sha": "59d5c640d6a2d0d16f243dbdd735758eed65bc63",
+        "version": "v3.4.2",
         "pre_release": "false"
     },
     "Aegis-Icons": {
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "82f381d0ffe4f4b6f47ef8072a22141d8e6650ef",
+        "sha": "31565429d7ee58493ad4a87dbe331c350cd7d4d1",
         "version": "3.6.2-beta02",
         "pre_release": "true"
     },
@@ -274,8 +274,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "6b11548fb7c430b1f44479805724794507e3310b",
-        "version": "THUNDERBIRD_17_0b3",
+        "sha": "af53b492c0204c075f7c6b303f2184d6866b6be3",
+        "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
     "TiebaLite": {
