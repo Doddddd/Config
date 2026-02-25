@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "d35e6b39627c67022df9f16072ffab5cea1feee8",
+        "sha": "de068f1d5a2b86fc67736c14aa7f7ee08982f530",
         "version": "v5.3.1",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "82a9fd15404368c43824c55f65b5e2c79fda9293",
+        "sha": "6aee70fa18f4ac599411c8a1391eb2e0ed836d41",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "034f2f0ae61e7fad953c7f5ee05656c6bf8da7df",
+        "sha": "f46c1b39475062a07b7ccddaadcda50b8207e81f",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
