@@ -111,8 +111,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "31565429d7ee58493ad4a87dbe331c350cd7d4d1",
-        "version": "3.6.2-beta02",
+        "sha": "a8ed509bb0d7c3eb10d90431a8cb10f3d4660ecb",
+        "version": "3.6.2-rc01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -141,7 +141,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "4f3fbe9b3d36674adb765f0811ddf90850df3f61",
+        "sha": "cce99da90690121e4eb80502b4652c94e8525d3e",
         "version": "v2.1.8-77",
         "pre_release": "false"
     },
