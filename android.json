@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "de068f1d5a2b86fc67736c14aa7f7ee08982f530",
+        "sha": "8ff30b7738f38c914d3cb469fa7147a89b406f9d",
         "version": "v5.3.1",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7c2c1d5d8ba3ad4b35012ace1fbc2d89b127f0b5",
+        "sha": "223ed12af1171bc87d0ce69c8848e0f967cccac3",
         "version": "3.6.2-rc01",
         "pre_release": "true"
     },
@@ -177,7 +177,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "8b2d35f3068a3f9c5e1bba77ed825ae51531c91c",
+        "sha": "565379779f82ee7dfdad45e251d82ff73dc3b7b2",
         "version": "v0.19.3",
         "pre_release": "false"
     },
