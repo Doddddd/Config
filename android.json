@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a8ed509bb0d7c3eb10d90431a8cb10f3d4660ecb",
+        "sha": "7c2c1d5d8ba3ad4b35012ace1fbc2d89b127f0b5",
         "version": "3.6.2-rc01",
         "pre_release": "true"
     },
@@ -142,7 +142,7 @@
     "LogFox": {
         "repo": "F0x1d/LogFox",
         "sha": "cce99da90690121e4eb80502b4652c94e8525d3e",
-        "version": "v2.1.8-77",
+        "version": "v2.1.9-78",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -226,7 +226,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "43572008e9fca72c73345ec5210f81aa34d52d9f",
+        "sha": "3977e4e0e2a1516277c3c88f22ddc4339dff3ce1",
         "version": "v3.34",
         "pre_release": "false"
     },
