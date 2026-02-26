@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ea80ea73f432ac9f6b13db37510ad7aa15ee36ea",
+        "sha": "cbc34fa036e34cce3b2339970c29946c96ecaea6",
         "version": "3.6.2-rc01",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2bdab71138516fde0a0629519416905a9e30b076",
+        "sha": "348b2533dcab56b588e28157404425b0f7fba0f4",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "3977e4e0e2a1516277c3c88f22ddc4339dff3ce1",
-        "version": "v3.34",
+        "sha": "b3193bc0bafc1235df82f4d035d2025c02f157ca",
+        "version": "v3.35",
         "pre_release": "false"
     },
     "RustDesk": {
