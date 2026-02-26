@@ -177,8 +177,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "84265febf3ce24d71994ced2b81215f858430d4e",
-        "version": "v0.19.3",
+        "sha": "81871a34694c8e408d907731292b7266c5b993cc",
+        "version": "v0.19.4",
         "pre_release": "false"
     },
     "NewPipe": {
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "fdb3bf3edc90470d7adbbaf7e9d09ad8554b6cd5",
+        "sha": "65ad8a0fdc2ccf7e6e94b6adaf2ad05927182bc9",
         "version": "1.1.6",
         "pre_release": "false"
     },
