@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cbc34fa036e34cce3b2339970c29946c96ecaea6",
+        "sha": "cfe2f6c536f8a0f0c1c5b272d4a06a575e95e67f",
         "version": "3.6.2-rc01",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "6aee70fa18f4ac599411c8a1391eb2e0ed836d41",
+        "sha": "34803f8e9bc625a2ceaba4cfe627713b44468c6a",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "1f8bb751a0ea3e3349dd623c73fb9e2b68977a2d",
+        "sha": "e7e3add2a8a2ce7598563a6282e4357147c4d53f",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
