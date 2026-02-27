@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "f46e3e18fb4f1cab590d98b3b0d1ee310d4769de",
+        "sha": "579bb4f380c86dcfca0a9fcd2ab29de963038ed6",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "5f5d31404af9957684703747ecee2b91e7161f1d",
+        "sha": "9dede91d8dd1fed4d65ebe4f58571b2ad3301143",
         "version": "beta",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b55e102dc36b2c707db61985689b30326c98b50c",
+        "sha": "7276cde48a7fe598df9a5960009812a22e8e635b",
         "version": "1.1.6",
         "pre_release": "false"
     },
