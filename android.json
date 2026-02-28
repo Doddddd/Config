@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "06df2a042bc58b4a658fe1485f01aac2c8594e3a",
+        "sha": "33ef687950fa1657aa370602310c521e318f302c",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -262,8 +262,8 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "44fae4ef6b9a7328e69ef49c121a082f3547a093",
-        "version": "v12.3.0",
+        "sha": "f99ef6144de0a44b90f06e76582705c32c828862",
+        "version": "v12.4.0",
         "pre_release": "false"
     },
     "Termux": {
