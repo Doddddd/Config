@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "9f4b5bf9ae187445518a91337abe9efa86e1badc",
-        "version": "v2.6",
+        "sha": "404a7b63c8e0b8071ebfe06a5a248f7b6fce30ea",
+        "version": "v2.7",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -112,8 +112,8 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "8d8e6f8213ee6953e4c7c5c35f8102e10e42469f",
-        "version": "3.6.2-rc01",
-        "pre_release": "true"
+        "version": "3.7.0",
+        "pre_release": "false"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
