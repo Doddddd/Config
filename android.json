@@ -123,13 +123,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "dc719b58f76d67806093e7ce8cd475362c6b7f73",
+        "sha": "41204e9b1ba255c46cc7ae40defc8223f853c38a",
         "version": "v3.1.0",
         "pre_release": "false"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "9dede91d8dd1fed4d65ebe4f58571b2ad3301143",
+        "sha": "0de75c4ef7102cca3290e2448ac09b8b28381c65",
         "version": "beta",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "bb3501a4f9cba0d634c7f9e5908fbc605b3e0370",
+        "sha": "e4208aa9cfa57586225668d50b76cfe4d95b9fc0",
         "version": "1.4.5",
         "pre_release": "false"
     },
