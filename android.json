@@ -105,7 +105,7 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "494eb3c436a83cfe8098489b123b0f255233c3ff",
+        "sha": "3c9c26021a12aaa78a09a0866fe7c455fcb8e7f3",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "62048992beadd1b1b20da7a2f1555c9d847b5428",
+        "sha": "a375d8525ff028b47dba37286d2b08bc87918d26",
         "version": "1.1.6",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "e4208aa9cfa57586225668d50b76cfe4d95b9fc0",
+        "sha": "1833cb0655d002a3beea4f972b8770c424d81d44",
         "version": "1.4.5",
         "pre_release": "false"
     },
