@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0226b31d9fb6e5cc4fd44b1506d262742df3c18d",
+        "sha": "78c2b767e01c72415f5fe9aa8184c186efb711b6",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "4abdb2e08bd84ccff59571996ba465a7209553fc",
+        "sha": "bb3501a4f9cba0d634c7f9e5908fbc605b3e0370",
         "version": "1.4.5",
         "pre_release": "false"
     },
@@ -244,7 +244,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "07599ade3aeb127f643b45e84a6b9ccdb1d0ba6d",
+        "sha": "bbc839e234cd4da85b09e21da59955dc15dde63e",
         "version": "1.12.0",
         "pre_release": "false"
     },
