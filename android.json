@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "f649a71d5a23171ce8c770e03c72e0c87e5b6bfc",
+        "sha": "38b54fa2b77104849a8961248c8c5d557b9bdf92",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "665f0efbd606bf7a0499b5700a6652fb0f910cf4",
+        "sha": "2c00c45fde957cc3eedee20a3b08cf631c7314b9",
         "version": "v1.6.0",
         "pre_release": "false"
     },
