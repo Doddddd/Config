@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v116",
+        "version": "v117",
         "pre_release": "false"
     },
     "Animeko": {
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2ce96c100af8df985e5b45fab71ed636bf7f8860",
+        "sha": "1066719f93d4789cd1e4ea19b87a03184a51462f",
         "version": "3.7.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0037d7df4a5efd8f46ec07f1dbbd8b4097096e4b",
+        "sha": "28fedfa1b3e739c1fb5da44309f32ecc99e85d26",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -141,8 +141,8 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "cce99da90690121e4eb80502b4652c94e8525d3e",
-        "version": "v2.1.9-78",
+        "sha": "81cdb54996cb493b1c8d8d96e3b958b9776becea",
+        "version": "v2.1.10-79",
         "pre_release": "false"
     },
     "LSPosed": {
@@ -208,8 +208,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "566a9fb320c5d6c6e62d0fb0aa9bc5bb359bc031",
-        "version": "0.9.85",
+        "sha": "801314e1a21093ba3b001e5dc79336547453c333",
+        "version": "0.9.86",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -233,8 +233,8 @@
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
         "sha": "80a5865db3a49036d4d57b64455e8ff87cc39854",
-        "version": "1.4.5",
-        "pre_release": "false"
+        "version": "nightly",
+        "pre_release": "true"
     },
     "Sui": {
         "repo": "RikkaApps/Sui",
