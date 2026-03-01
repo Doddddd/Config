@@ -105,7 +105,7 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "3c9c26021a12aaa78a09a0866fe7c455fcb8e7f3",
+        "sha": "854ba4b8b46dfbb3cfea9a07a388cc60f8f3d4f4",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "41204e9b1ba255c46cc7ae40defc8223f853c38a",
+        "sha": "0037d7df4a5efd8f46ec07f1dbbd8b4097096e4b",
         "version": "v3.1.0",
         "pre_release": "false"
     },
