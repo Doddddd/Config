@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "80a5865db3a49036d4d57b64455e8ff87cc39854",
+        "sha": "6ba23683d5d6b5412b1cf819a95fd471801a62d5",
         "version": "nightly",
         "pre_release": "true"
     },
