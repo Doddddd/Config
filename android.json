@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ead987f75378af28d26b602d594f255769e10d7e",
+        "sha": "4bac6512bb009a18d49ec649a1d502a97efe2d8f",
         "version": "4.8",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "9aeb33ec1d2a962c609e6bdb090741d51bb80051",
+        "sha": "70a570a3a5fd2c4ad7caa72ab56241881072549a",
         "version": "3.7.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "7c16d1d6d45c5f957d4c60c5ba8c0a064d1a4bef",
+        "sha": "9f458a3172775318bc9cfd7397e871c52b545270",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "af4a4ea07d0ca40df0b42bef68c7fb54abceadec",
+        "sha": "254237f061a27de9bd7c53264ef174f324f64e61",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
