@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "1217fafc31a42d5ac0b1ed603c32f73070995faa",
+        "sha": "613fd7e6b4590d46a2c5f670bab32de6c3fe25e4",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "579bb4f380c86dcfca0a9fcd2ab29de963038ed6",
+        "sha": "129502e480b8c5d7922554b3d4962f9c7a5e4ccc",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a2e82211056b4654e2fc2c78f0bd30306c1cc98e",
+        "sha": "9aeb33ec1d2a962c609e6bdb090741d51bb80051",
         "version": "3.7.0",
         "pre_release": "false"
     },
@@ -123,13 +123,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "28fedfa1b3e739c1fb5da44309f32ecc99e85d26",
+        "sha": "dc1f174a686172163f6a7f6a2216d5b26d1c46b0",
         "version": "v3.1.0",
         "pre_release": "false"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "0de75c4ef7102cca3290e2448ac09b8b28381c65",
+        "sha": "c8e7591f06f4fb3c2faabf9653a27f7195da66db",
         "version": "beta",
         "pre_release": "true"
     },
@@ -202,13 +202,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "348bc8b9202d44baf48d3541015427692bb9dedf",
-        "version": "1.1.6",
+        "sha": "0504011ba023ed3cc2c83a13c8ef335a1b4340d9",
+        "version": "2.0.0",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "801314e1a21093ba3b001e5dc79336547453c333",
+        "sha": "e1b22103ca5f653d18d40f45a6e9a0aa8e01c959",
         "version": "0.9.86",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "157dbdc543470292d87d18b93efc952ef380e66c",
+        "sha": "41ab5bbdd8d6c56f99f59176ed3bc100762522f1",
         "version": "nightly",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "58f641a7fd1a0fc73635f9ae2b13749fc33abf1e",
+        "sha": "7c16d1d6d45c5f957d4c60c5ba8c0a064d1a4bef",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "06ea97bf2012115641a2b6bf24e127e4fe9ed3e4",
+        "sha": "af4a4ea07d0ca40df0b42bef68c7fb54abceadec",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
