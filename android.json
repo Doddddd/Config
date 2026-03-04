@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "c8e7591f06f4fb3c2faabf9653a27f7195da66db",
+        "sha": "78ec3228dfe23379aef45402e9728a3087eee856",
         "version": "beta",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "0504011ba023ed3cc2c83a13c8ef335a1b4340d9",
+        "sha": "8d312d8cf10137b30cfee0ff81fae386a41a291b",
         "version": "2.0.0",
         "pre_release": "false"
     },
