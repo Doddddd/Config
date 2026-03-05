@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7f91c271010fbb37e29e4a74a0cea8aafe48e0ac",
+        "sha": "a2c34a8a39ee8b6fa583cd96eb6d695994caabec",
         "version": "3.7.0",
         "pre_release": "false"
     },
