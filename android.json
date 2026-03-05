@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8ff30b7738f38c914d3cb469fa7147a89b406f9d",
+        "sha": "bbd140c6bc4717b46d35854fea8debb0788f39fb",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "9f4a105765b9a98deb924648d9270d295cc6c970",
+        "sha": "72dd9e2abebb604e576da35fdc836852c4311ea6",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a2c34a8a39ee8b6fa583cd96eb6d695994caabec",
+        "sha": "3f0f013e284ca171e44d047baf7e11847e4c0f1f",
         "version": "3.7.0",
         "pre_release": "false"
     },
@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "f53f6fd39510720a8852cdc4e65212275d12efc0",
+        "sha": "0e2e51bd549e1930c22354b94f0ce15f7c28dd51",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "1abc897c451c8b5bbff3792509a7fef9d12f2ce3",
+        "sha": "0d3016fcd82545a3a759d29f052463599fba0d3c",
         "version": "1.4.6",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "9f458a3172775318bc9cfd7397e871c52b545270",
+        "sha": "e118bbd34ba9585d449c63501cf5e45ceea0cffb",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "cc2e9a09221fe3a36fff6c193ffc7f72e93a6ddb",
+        "sha": "edd31561bc7bf4d442237cdb0c01377b8cbb0d83",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
