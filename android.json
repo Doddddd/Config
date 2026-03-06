@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "0e2e51bd549e1930c22354b94f0ce15f7c28dd51",
+        "sha": "08e5cbca56ae8c1bc19feb6f6b4058b1b2faee57",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -177,7 +177,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "81871a34694c8e408d907731292b7266c5b993cc",
+        "sha": "0d768af3d09401f428c63774f54d5d372c2eb49a",
         "version": "v0.19.4",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "edd31561bc7bf4d442237cdb0c01377b8cbb0d83",
+        "sha": "7c93e5d9c3d59694519b18e23825975aad200a1b",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
