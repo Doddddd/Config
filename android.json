@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "4bac6512bb009a18d49ec649a1d502a97efe2d8f",
+        "sha": "ed19edb240e4ee49d9f1f7f083424731e707160c",
         "version": "4.8",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e8436841098257a93693eb650b9d34963ac27689",
+        "sha": "cbe99a32eb01dc0d4d82be1e6421fab4bd445a07",
         "version": "2.0.0.1",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "7c93e5d9c3d59694519b18e23825975aad200a1b",
+        "sha": "5f50e1b1cfa0aca9772433eddf9d3c4a4b551fd4",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
