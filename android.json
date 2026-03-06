@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "72dd9e2abebb604e576da35fdc836852c4311ea6",
+        "sha": "6ab0c60a5a4340b5f2397c23006c2423f657ab79",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
