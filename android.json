@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2ab4b4aa89b9e5cdb640c5b80d1233d2560a9c8c",
+        "sha": "83b8bb4a4da53fb5712bbc4c03e9a2e6eb317456",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "8d143a1f59b036dcd21ef9afd80ddd594fbd5b9f",
-        "version": "v3.35",
+        "sha": "db77e21fc4dfc4bcaecbcb4c3650026741f54756",
+        "version": "v3.36",
         "pre_release": "false"
     },
     "RustDesk": {
