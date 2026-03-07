@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "613fd7e6b4590d46a2c5f670bab32de6c3fe25e4",
+        "sha": "8137f051f32442614fc43ee76ef10bd6aef20a6b",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "7c42f444267fb2c92d506497f11dbe105bad5cb1",
+        "sha": "b10237b2cbd4a2feeb39d51246ce49237560c29a",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "78ec3228dfe23379aef45402e9728a3087eee856",
+        "sha": "6eefa71ebc0cf6c8a4625d0fc0f388e936b716b6",
         "version": "beta",
         "pre_release": "true"
     },
