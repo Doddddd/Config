@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "b10237b2cbd4a2feeb39d51246ce49237560c29a",
+        "sha": "2ced0b7c5b4fdde203d0c20d04343e99f11fd6c9",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "854ba4b8b46dfbb3cfea9a07a388cc60f8f3d4f4",
+        "sha": "77128db4bd9d80abb6ccbb01201d8ccc002d967e",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "db08af6ca51e334b732739f0fc6342e456024c8c",
+        "sha": "1e83a23c5cb4463fe8683714d8977d285b6c302b",
         "version": "2.0.0.1",
         "pre_release": "false"
     },
