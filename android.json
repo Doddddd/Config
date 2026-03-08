@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "6eefa71ebc0cf6c8a4625d0fc0f388e936b716b6",
+        "sha": "cbff4df25702b3bf5170c6c49bb6051b909073be",
         "version": "beta",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "0d3016fcd82545a3a759d29f052463599fba0d3c",
+        "sha": "db3f5fe816896e61a40400a78da9e9418e83b703",
         "version": "1.4.6",
         "pre_release": "true"
     },
