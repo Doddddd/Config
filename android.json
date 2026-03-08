@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "2ced0b7c5b4fdde203d0c20d04343e99f11fd6c9",
+        "sha": "8c6d8c5d7fc98cb2570d032963d1ac6fac386cc7",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "9c2b9e485638ea114a53b61448de7e4d26a97255",
+        "sha": "baf3f7d4675b42e297262cbe1cd1ecbede5e34e5",
         "version": "v3.1.0",
         "pre_release": "false"
     },
