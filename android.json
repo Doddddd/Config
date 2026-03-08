@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v117",
+        "version": "v118",
         "pre_release": "false"
     },
     "Animeko": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "72e93cf880b3715a49e583ad1db9ccbe68f827ef",
+        "sha": "a97ecba0f5224dd6197df7676dbaa7f23a1a72ba",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "161c9f60fd5c26fa146e2d70276f795ec8179e4d",
+        "sha": "3dff6555ef4ad21de6ade9d7e8851c5fab0bf586",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
@@ -185,7 +185,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "4c82e8bafd0de006832a2af25cc38f6e0ef2a98c",
-        "version": "v0.28.3",
+        "version": "v0.28.4",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -208,7 +208,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "e1b22103ca5f653d18d40f45a6e9a0aa8e01c959",
+        "sha": "9ef07af00b303afed245e47fa60044cf240d6b0b",
         "version": "0.9.86",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "3581a10f8ecaa0f6d42d7a77442742caf95c6a13",
+        "sha": "ce8c61c47ec48a84014c8d1d0592f0e22a9dbb22",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
