@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "8c6d8c5d7fc98cb2570d032963d1ac6fac386cc7",
+        "sha": "b6eaf7f725c4e84887f68cf68f2024ed48615efb",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "98d8b056df10fe00d68ade441457f44b5714f36f",
-        "version": "v2.11.23",
+        "sha": "22f12b726626d13f2e4bc6e193f854fc8119488b",
+        "version": "v2.11.24",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "8c82f67bfac7a569e41d3eef2bb56c92c94f4aa5",
+        "sha": "ac490f743de90e477ddfe8c0ef3abbd933ead78a",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "e07f875bc969afd382c10683fb9b19bac29ee748",
+        "sha": "f7358ee77bc8b8e6ef20eb5788a3944672e5ec38",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b55e282e2ee01c25d590d7661adee58892cd3884",
+        "sha": "2c1d81585f10746757c33b325e61a82db3f9de80",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.20",
+        "version": "v1.19.21",
         "pre_release": "disable"
     },
     "Mihon": {
