@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6484caf138ace68a99105e1934c37d90a4ab8ec8",
+        "sha": "b55e282e2ee01c25d590d7661adee58892cd3884",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d8ffb6a211f94d583281fa89423ec026ed1c2ae1",
+        "sha": "2484b28ee17a1da38d3386467f4d5df240b87b58",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
