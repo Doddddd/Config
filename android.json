@@ -129,7 +129,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "cbff4df25702b3bf5170c6c49bb6051b909073be",
+        "sha": "24687a44039ce35896503110b0642b5f27102d97",
         "version": "beta",
         "pre_release": "true"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "2c00c45fde957cc3eedee20a3b08cf631c7314b9",
+        "sha": "e4c9669fc9f1b8429eb4757c95f28e79c524758a",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "fd7bcf54bdd86b7f957b3b95305da9fdaaccc650",
+        "sha": "016a0b11416fb70dc13e621e690819ea5828d2df",
         "version": "1.4.6",
         "pre_release": "true"
     },
