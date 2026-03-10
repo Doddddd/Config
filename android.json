@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "952c8463d2aa7aaea18a2f7b80de3eaee44751fc",
+        "sha": "790f7615929aefbe5dc8dcf2fbeb06607e8520f2",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "ac490f743de90e477ddfe8c0ef3abbd933ead78a",
+        "sha": "c88ed1f31e2904890b6c2dc642dc4360905de301",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -93,7 +93,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "b04871c4469989355497883a067a398d9a587afa",
+        "sha": "e85bb3347a59685516f89f61ec5eab9cae84e008",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3f89f9699b52391016c4ee802564cf25bafcaa8a",
+        "sha": "10ca2d719d3ee289139b916f9df0a238dd6beae5",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
@@ -177,7 +177,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0d768af3d09401f428c63774f54d5d372c2eb49a",
+        "sha": "f6b2684323569ef0eb23e143cc5d65d7cc1aae3c",
         "version": "v0.19.4",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "76ea5e4eca2d8baf9fede0a91b63e9b52b4dd318",
+        "sha": "5da08a8639ab9c41f113d8803d8575de51cc1455",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
