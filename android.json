@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "a97ecba0f5224dd6197df7676dbaa7f23a1a72ba",
+        "sha": "ba6db123b49b97df92e3b5cf978e5cd16f696f22",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "575cb5a4739222e3ab2ea023d7303940f0ea87ef",
+        "sha": "d502c74f7e9fcad886cc9e311e41f9fd622e68ef",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f0615d3ce40decf27e3d89ed3aec437b2df33ed7",
+        "sha": "63bcb1b7344496ed22fcba071d01ec757a6360a2",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b8cae015d72107bb6cf3c6fc0faf2be035adf2c4",
+        "sha": "b8098fe067425db0017e5d3cf9c1be9deb354b7c",
         "version": "2.0.0.1",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "016a0b11416fb70dc13e621e690819ea5828d2df",
+        "sha": "b3f43f55c1c00f287b8baf22152f3d1b88b51fb6",
         "version": "1.4.6",
         "pre_release": "true"
     },
