@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "5eb10836658828706b576b6601036c4f514f4904",
+        "sha": "6a79232786542b55012e25290f5824acfc705c0a",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "790f7615929aefbe5dc8dcf2fbeb06607e8520f2",
+        "sha": "e0fd1d1430ec6b8dbec2f6b05ff8d2d2b6803bc6",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "c88ed1f31e2904890b6c2dc642dc4360905de301",
+        "sha": "fe3a618c8fd18842305d2f8ec2880fcc67ec1679",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -111,8 +111,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d502c74f7e9fcad886cc9e311e41f9fd622e68ef",
-        "version": "3.7.1-alpha01",
+        "sha": "443aada0adbe30c37b83a5dc472336b3716fcc91",
+        "version": "3.7.1-beta01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "e4c9669fc9f1b8429eb4757c95f28e79c524758a",
+        "sha": "169fd606fe137058e3305af17f91f0f7a9b27930",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "e118bbd34ba9585d449c63501cf5e45ceea0cffb",
+        "sha": "5819e29acab165c2e1e2a2ab2a6d2eb818f8cc9c",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5da08a8639ab9c41f113d8803d8575de51cc1455",
+        "sha": "0e7e76f4c1487a1f8ed2586a1809eb924b82ff18",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
