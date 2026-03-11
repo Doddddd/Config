@@ -105,13 +105,13 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "77128db4bd9d80abb6ccbb01201d8ccc002d967e",
+        "sha": "5bc928f06691632befcc021b68739f2bdeda3a64",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "10ca2d719d3ee289139b916f9df0a238dd6beae5",
+        "sha": "575cb5a4739222e3ab2ea023d7303940f0ea87ef",
         "version": "3.7.1-alpha01",
         "pre_release": "true"
     },
