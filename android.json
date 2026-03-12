@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "18e79aad03152e3087ff3dcb59cd63fa251180c6",
+        "sha": "aaa3222f9b7338489149395ac9a83bcd39f722ba",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "323df9a778e7096552c20642e291666d9494d183",
+        "sha": "249acee90ff5c8d7569365e68d9b5645fff678f7",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "0e7e76f4c1487a1f8ed2586a1809eb924b82ff18",
+        "sha": "8159ef610e9c49cc269edc7736d4b6dd8cb6202a",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
