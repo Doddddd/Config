@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "aaa3222f9b7338489149395ac9a83bcd39f722ba",
+        "sha": "86ae533175b7acebf7ba9fa4befd974ce549360f",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "e0fd1d1430ec6b8dbec2f6b05ff8d2d2b6803bc6",
+        "sha": "a026b3285ac5734ce176e0db5c2ffd5047507609",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "de50336abbd6dcfedcc34c5bb25145812c987268",
+        "sha": "bc8a84cec0eeb0f5c2d72821535c8c9c29de2730",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
