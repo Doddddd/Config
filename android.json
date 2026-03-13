@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "a026b3285ac5734ce176e0db5c2ffd5047507609",
+        "sha": "2004779feb033aad8598117e7c69c4a72ac5de34",
         "version": "v2.0.5839",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3841069ee040d7ef4f45d28e43d9147a3233d247",
+        "sha": "4d8575124d99d255c2b5d76871a92d67eeeece5d",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "65f8cdaf6a381fbe145a22de14abe5d66e041fbe",
+        "sha": "98c9bd59abe3c5bd948f5bdbfa710b71f4d431c2",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "c165f2e5d8362f922dd49ff64b596eb501022858",
+        "sha": "5b4421602b6a19129d96333ee0426594068f586b",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -274,13 +274,13 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bc8a84cec0eeb0f5c2d72821535c8c9c29de2730",
+        "sha": "ff3588fd813af92be4265ce2aaa260c1ddf34f9a",
         "version": "THUNDERBIRD_17_0b4",
         "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "f7f36b17a586af05c4791c0a4f6f15e01710dd36",
+        "sha": "92cf2fe1d0365a455df375cd31854f6a9fff8109",
         "version": "v4.0.0-beta.3",
         "pre_release": "true"
     },
