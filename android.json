@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "c44fe98e96492f2092d8b430818fdfef7d6661f7",
+        "sha": "a3dedf933e8f9800afe1cf6100ec5303db9115d3",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "682e347be0990f5e19052020337ab9b67ae1d6e7",
+        "sha": "96797742f27b475e018f161f6a365a9f235483e6",
         "version": "1.4.6",
         "pre_release": "true"
     },
