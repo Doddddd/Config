@@ -45,8 +45,8 @@
     "Blocker": {
         "repo": "lihenggui/blocker",
         "sha": "2004779feb033aad8598117e7c69c4a72ac5de34",
-        "version": "v2.0.5839",
-        "pre_release": "false"
+        "version": "v2.0.6275",
+        "pre_release": "true"
     },
     "Box": {
         "repo": "taamarin/box_for_magisk",
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "7ca20f321d0f720de83147e584bc7e9af8ebd1d5",
+        "sha": "31060d37b441e98ef5a9483a4cfa8118ca9da45f",
         "version": "v3.1.0",
         "pre_release": "false"
     },
