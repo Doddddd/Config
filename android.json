@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v118",
+        "version": "v119",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "3405e1235cdd32d50cdf08f452c85e1ebd8b352f",
+        "sha": "53e5c5bd71cca6c1b7eb2a9c72539513287ba745",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "9f86f5ec2e02fd64523e9efaa9d7dadb665960a5",
+        "sha": "16701bef6fe1d4733691fc99f5b0d250be0492c3",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "611d32576817fbe1e4b5850e9b6681f7173d0377",
+        "sha": "dfbfdb03f8a060983d7b4fa7f8964b48ba0c152f",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "5b4421602b6a19129d96333ee0426594068f586b",
+        "sha": "9603da5476bce6eb45f93fceeb35a9e2eae3ce4a",
         "version": "v1.6.0",
         "pre_release": "false"
     },
