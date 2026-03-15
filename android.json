@@ -123,13 +123,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6cf238e0527f2ad3ab09a6f1f7276dab871018a6",
+        "sha": "02a17ce8045838b4908c69f0c830c3db9bc8ec50",
         "version": "v3.1.0",
         "pre_release": "false"
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "a9a38768b7bdf36da4a4b5171cbd396b32502ee3",
+        "sha": "e969aca5f8e028056ae9d926a506a68af618172b",
         "version": "beta",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e2930834923c44b3d7879c264077a4507dff0b17",
+        "sha": "e04affd0fe5cb1dfcb0f33ab223808ab746e1241",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
