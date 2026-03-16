@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "62ae68e92eb11faf94670add5466d67026ec9462",
+        "sha": "4f658a73a72bf2c7fde5bb4839c55847a1696938",
         "version": "v5.3.2",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "f5bfede5ba70dc813e5eb1bd98bc3ba6d9f7699b",
+        "sha": "f4dd446a9c5b71d7c55fadcb3607d1cdc4d89c8e",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "142ec65cf1e89d3def8620f204bf7fb83ea9e025",
+        "sha": "7e2cd31fbf6e9fb2d4c3c78588547c8d1a949207",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "6dfbfeb8fee09fcf9f72562235cd094331d11475",
+        "sha": "ae99e7e7c08f6167410a772eace354c2e0700a50",
         "version": "v1.6.0",
         "pre_release": "false"
     },
