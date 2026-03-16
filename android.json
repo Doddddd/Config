@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "5dddcbe8005159b737e8568bdae914a4671759c1",
+        "sha": "c20ab418990c59fca55a0da55fcb636affa4d348",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -153,7 +153,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "1d4fbd9e75cc5fefb1ef92550bc9cba5d4f2ba82",
+        "sha": "925ed577e73127238ea5e86bb64b8d2e41db27b6",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "e3b6e4eaf09e6d17c7fc3fdbd10cd309101b537d",
+        "sha": "02da7132e76fe85c2662a7aac42cc6754fbe51e0",
         "version": "1.4.6",
         "pre_release": "true"
     },
