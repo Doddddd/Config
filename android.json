@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "465a78f869df41aa0d6ab4da57b38d5f2904f3eb",
+        "sha": "f5bfede5ba70dc813e5eb1bd98bc3ba6d9f7699b",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "16701bef6fe1d4733691fc99f5b0d250be0492c3",
+        "sha": "142ec65cf1e89d3def8620f204bf7fb83ea9e025",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
