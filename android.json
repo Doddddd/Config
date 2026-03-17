@@ -38,7 +38,7 @@
     },
     "BiliRoaming": {
         "repo": "yujincheng08/BiliRoaming",
-        "sha": "f2fbf9ba26b68a42a356476ceb3c8694362fe0c4",
+        "sha": "b0fd682058c3f6826186b030a7d12a3acb4aa029",
         "version": "v1.7.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "ed66a4655b10a95ed66c2650de5e4b9d1e545100",
+        "sha": "d6579b29ae80a9de14e2d0fa8e96916e20976938",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
