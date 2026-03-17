@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "d6579b29ae80a9de14e2d0fa8e96916e20976938",
+        "sha": "7f2682bb7bbf7b91a68e9846b717fba1a3b04331",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ff3588fd813af92be4265ce2aaa260c1ddf34f9a",
+        "sha": "5e69a2b05079f3e9351f660385dbadf33f3073c0",
         "version": "THUNDERBIRD_17_0",
         "pre_release": "false"
     },
