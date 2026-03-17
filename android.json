@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "f4dd446a9c5b71d7c55fadcb3607d1cdc4d89c8e",
+        "sha": "f5393889adfcc4aec91b8b9f57bc5a6988734dfa",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4fc0e4dbf9a721fe799822d85c1aca3bdce7999c",
+        "sha": "2ea4bd9bc6e5311246c9688b384173c97fbb34a7",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -184,7 +184,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "00208fa8bd1192e522fb1a572ea06c3e45b5c9e6",
+        "sha": "d0a0b4a54134dd53131838ff84d06ae63febf97a",
         "version": "v0.28.4",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "d40be5514ee0a8a590485c1642465d882370192b",
+        "sha": "98d6767047aa220951eaebb689eb76b1b921d4c9",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "5819e29acab165c2e1e2a2ab2a6d2eb818f8cc9c",
+        "sha": "14b217647cd9cee21fa5045f72678b97d9c2a194",
         "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
         "pre_release": "false"
     },
@@ -274,7 +274,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5e69a2b05079f3e9351f660385dbadf33f3073c0",
+        "sha": "09da91cd613827e7f858f66275322871ddafac70",
         "version": "THUNDERBIRD_17_0",
         "pre_release": "false"
     },
