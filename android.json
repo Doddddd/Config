@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "416d4380bcc3bb9d168c06edd3502b201c9f9c99",
-        "version": "v5.3.2",
-        "pre_release": "false"
+        "version": "v5.4.0-beta02",
+        "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
