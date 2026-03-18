@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2ea4bd9bc6e5311246c9688b384173c97fbb34a7",
+        "sha": "4059d6568c816934d9ababe9fd53d8b0767a158e",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -153,7 +153,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "59eca3fd0a6a8e8cd5b257c2b6135da940d69b1d",
+        "sha": "9035a9480440e48b146d29693a6196c54d8f3b9c",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -177,7 +177,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "a2d22a7d55394a95d89912087ad8a04ffe3794c0",
+        "sha": "e9ca71d8373a2d17edebe420cb1b93f6e5fc2d38",
         "version": "v0.19.4",
         "pre_release": "false"
     },
