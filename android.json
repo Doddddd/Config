@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "f5393889adfcc4aec91b8b9f57bc5a6988734dfa",
+        "sha": "f99823ff582918ca8f5c3ca8a637011ba1bf1154",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4059d6568c816934d9ababe9fd53d8b0767a158e",
+        "sha": "305536ea651a6e9556bc9bc333b6952648dc4ed6",
         "version": "3.7.1-beta01",
         "pre_release": "true"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "98d6767047aa220951eaebb689eb76b1b921d4c9",
+        "sha": "30ab7bddb29cfbab77082240c2f2685b624b6556",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "9d8df6a2260a4462dc221076950895d8d5aad167",
+        "sha": "c0da4a6645bbc5eb7c1519b69b2371e641c0b9ec",
         "version": "1.4.6",
         "pre_release": "true"
     },
@@ -250,8 +250,8 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "14b217647cd9cee21fa5045f72678b97d9c2a194",
-        "version": "1.94.2-t0a29cf18b-g1a1b1c9ae",
+        "sha": "2e37ada1ad2ab3ea297e7b4376bac84fe4cf439c",
+        "version": "1.96.2-td916d8651-ga82504d6b",
         "pre_release": "false"
     },
     "Telegram": {
@@ -275,8 +275,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "5a76d672d02287e9a797966451011d2356aff93c",
-        "version": "THUNDERBIRD_17_0",
-        "pre_release": "false"
+        "version": "THUNDERBIRD_18_0b2",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
