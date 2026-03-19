@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "f99823ff582918ca8f5c3ca8a637011ba1bf1154",
+        "sha": "31abec5bc4585f1c40a9875fdf164449a475b1ca",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -244,7 +244,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "bbc839e234cd4da85b09e21da59955dc15dde63e",
+        "sha": "fe0b14ab975a29cfec169359a4a7cc82645c20de",
         "version": "1.12.0",
         "pre_release": "false"
     },
