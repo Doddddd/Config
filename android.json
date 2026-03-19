@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "eda04b32a47216a4aaae32b2bcc92c93cf1fea69",
+        "sha": "662ccfcf0aa36bf26996ba2e13ed8c9ebd911d8a",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "c0da4a6645bbc5eb7c1519b69b2371e641c0b9ec",
+        "sha": "c457b0e7d3a8ca8ad7a0541c180f791890481b4e",
         "version": "1.4.6",
         "pre_release": "true"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5a76d672d02287e9a797966451011d2356aff93c",
+        "sha": "ce37de38507c9c31ee6661fdf14078987a13621d",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
