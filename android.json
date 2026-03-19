@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "31abec5bc4585f1c40a9875fdf164449a475b1ca",
+        "sha": "42eeb9633ba21bf35f10d269e0f0732b9560dbba",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -105,8 +105,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "305536ea651a6e9556bc9bc333b6952648dc4ed6",
-        "version": "3.7.1-beta01",
+        "sha": "16408c717497f6412ed0001f964ab8185c6b5262",
+        "version": "3.7.2-alpha01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -250,7 +250,7 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "f99ef6144de0a44b90f06e76582705c32c828862",
+        "sha": "80490fc60d3303449e0219dea414e987ea2c3ebc",
         "version": "v12.4.0",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ce37de38507c9c31ee6661fdf14078987a13621d",
+        "sha": "4109be360db35057bf956f0d5619ae0a9f2496d1",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
