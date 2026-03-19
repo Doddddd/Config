@@ -11,6 +11,12 @@
         "version": "",
         "pre_release": ""
     },
+    "Media-Provider-Manager": {
+        "repo": "MaterialCleaner/Media-Provider-Manager",
+        "sha": "76254c04c2643fedc2f65e3a3736fea8a297dbe5",
+        "version": "",
+        "pre_release": ""
+    },
     "TiebaLite": {
         "repo": "HuanCheng65/TiebaLite",
         "branch": "4.0-dev",

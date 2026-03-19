@@ -85,12 +85,6 @@
         "version": "0.1.2",
         "pre_release": "false"
     },
-    "Gloom": {
-        "repo": "MateriiApps/Gloom",
-        "sha": "e77343b035bf606296bced7db7b6fc368cd0a5d0",
-        "version": "",
-        "pre_release": ""
-    },
     "Hail": {
         "repo": "aistra0528/Hail",
         "sha": "e85bb3347a59685516f89f61ec5eab9cae84e008",
@@ -161,12 +155,6 @@
         "repo": "subframe7536/maple-font",
         "sha": "disable",
         "version": "v7.9",
-        "pre_release": "false"
-    },
-    "Media-Provider-Manager": {
-        "repo": "MaterialCleaner/Media-Provider-Manager",
-        "sha": "76254c04c2643fedc2f65e3a3736fea8a297dbe5",
-        "version": "beta11",
         "pre_release": "false"
     },
     "Mihomo": {
