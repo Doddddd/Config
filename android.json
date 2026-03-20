@@ -214,13 +214,13 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "6590fd62f4e91b6c0d068c88b4500c9dfad83a27",
+        "sha": "14fefc738405804bf13f3dc09849ac446d013ce0",
         "version": "v3.36",
         "pre_release": "false"
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "c457b0e7d3a8ca8ad7a0541c180f791890481b4e",
+        "sha": "dba5fea66f6c65c375a5280a4a3b4029f6cca38e",
         "version": "1.4.6",
         "pre_release": "true"
     },
