@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "42eeb9633ba21bf35f10d269e0f0732b9560dbba",
+        "sha": "c49a7e55e9d00d00ea66dcf930c3898fa6009774",
         "version": "v2.0.6279",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "5bc928f06691632befcc021b68739f2bdeda3a64",
+        "sha": "29dfffb4dadc0bfada68c2ee9c692248a16f3669",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
@@ -147,7 +147,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "9035a9480440e48b146d29693a6196c54d8f3b9c",
+        "sha": "3021ef46ee1242b5618b47d3bed99f26fb2f07c9",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "b58d2a5d4bbb6249f80a0122367e53737bd952ef",
+        "sha": "e930f38608c691b01c5f7e20c05b8a46566ab169",
         "version": "v0.19.4",
         "pre_release": "false"
     },
