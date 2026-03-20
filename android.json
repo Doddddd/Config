@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "22f12b726626d13f2e4bc6e193f854fc8119488b",
+        "sha": "acdcd603c5e1e280ef5ae0ddee37733d888d60e7",
         "version": "v2.11.24",
         "pre_release": "disable"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "2f9edb551fb2255c11ccd8452a080e87b9c963eb",
+        "sha": "b58d2a5d4bbb6249f80a0122367e53737bd952ef",
         "version": "v0.19.4",
         "pre_release": "false"
     },
