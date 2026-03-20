@@ -238,7 +238,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "2e37ada1ad2ab3ea297e7b4376bac84fe4cf439c",
+        "sha": "5c5030c5434dc465d1e277b19222456544553482",
         "version": "1.96.2-td916d8651-ga82504d6b",
         "pre_release": "false"
     },
