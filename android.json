@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "acdcd603c5e1e280ef5ae0ddee37733d888d60e7",
+        "sha": "c8fbb363eaf6ee774baf7423bb5840e30ec2018b",
         "version": "v2.11.24",
         "pre_release": "disable"
     },
@@ -166,7 +166,7 @@
     "Mihon": {
         "repo": "mihonapp/mihon",
         "sha": "e930f38608c691b01c5f7e20c05b8a46566ab169",
-        "version": "v0.19.4",
+        "version": "v0.19.5",
         "pre_release": "false"
     },
     "NewPipe": {
@@ -220,7 +220,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "dba5fea66f6c65c375a5280a4a3b4029f6cca38e",
+        "sha": "7004acae46b66b9befd0c9985691a0305fda1229",
         "version": "1.4.6",
         "pre_release": "true"
     },
