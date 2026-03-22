@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "61c631302454e4f51dacb4d54e9844757a9dd002",
+        "sha": "6a44f870d58baab325859a2a146cf9d4f83ebf5a",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "bc3230832704116b7eb0e5c3ad3edf4656d998fd",
+        "sha": "34afdabcfe175bf04e07eb7c567f998c8c173cb6",
         "version": "v0.19.5",
         "pre_release": "false"
     },
