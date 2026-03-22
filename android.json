@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v119",
+        "version": "v120",
         "pre_release": "false"
     },
     "Animeko": {
@@ -44,8 +44,8 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "750e82d512b8737774474b8299421d12326a7742",
-        "version": "v2.0.6279",
+        "sha": "52a6b509ca552cfc6d8d298d8780835b85e1cf05",
+        "version": "v2.0.6339",
         "pre_release": "true"
     },
     "Box": {
@@ -99,13 +99,13 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "29dfffb4dadc0bfada68c2ee9c692248a16f3669",
+        "sha": "ef7efe64cd1a18df26b114049361577577048273",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4f89ded271e9ed6647b7c33a17bbd6ca0f3958b7",
+        "sha": "d11b78a9455f0aa6266c76f9f5eff6aa35c01590",
         "version": "3.7.2-alpha01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6a44f870d58baab325859a2a146cf9d4f83ebf5a",
+        "sha": "7e568dd344977ceac6b11e1ff3e57d5626057e86",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "89ff336959f3fa435148b21ea7364f219d0f316e",
-        "version": "v3.37",
+        "sha": "3bce67a69a556819ff83d491c64ec55c31e7aea5",
+        "version": "v3.38",
         "pre_release": "false"
     },
     "RustDesk": {
