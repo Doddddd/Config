@@ -111,13 +111,13 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "e24fa0e58f81fd386b28c10d5e3940d3d073e7cd",
+        "sha": "2eb3ad9659f7ff612e204f44968b7917206c43c9",
         "version": "V1.4",
         "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "02adbab7d61f6bbe01296864a966124c84ccb628",
+        "sha": "61c631302454e4f51dacb4d54e9844757a9dd002",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "236b524445756290a99da728f1969e1e80f0229c",
+        "sha": "8f00ca568071e9724a5cf724301ac2d74d0e570c",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
