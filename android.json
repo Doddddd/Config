@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "53d39374ebb1b20d95754f8091f3225de134e98e",
+        "sha": "fff09c1672e2b0d5195f8dd83c69202b0d0c70a1",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "7e568dd344977ceac6b11e1ff3e57d5626057e86",
+        "sha": "2e19c75dce475b417bdf9ec5ac2225efeb4646a5",
         "version": "v3.1.0",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8f00ca568071e9724a5cf724301ac2d74d0e570c",
+        "sha": "1724f0d2024703ac14cab840c1d8385ddf2b3eba",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
