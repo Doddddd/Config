@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "406a6e6fcbc544e1d9739f72de8b749f2c2bcaf9",
+        "sha": "9902be00abb18bc597723799568c986a94588152",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "7c5034275fe1c2307e66fb59bf2258c09adb1bad",
+        "sha": "209805359ed8c276cb59696dc4fe6d06d013a8d2",
         "version": "v0.19.7",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "c540f4e0e664acb8095dd303f976cdb05de6b598",
+        "sha": "3b6b8269f50118fcff9f73b3ad1c78ed9b7d35ad",
         "version": "1.96.2-td916d8651-ga82504d6b",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bb807496dac5bba7ab8007846727b8c4cbd75475",
+        "sha": "f0fe141ff94a3276f01563e5ca668e2fabce5f45",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
