@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "02f5e2aa60be2b56172defcd8017e58e6b86df24",
+        "sha": "b2f3c76b4f70246362b4d5cf1ebfb78da2d7adc9",
         "version": "v3.2.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "30ab7bddb29cfbab77082240c2f2685b624b6556",
+        "sha": "ac09dd429990cb365520ef6c87024f3f46c4e28f",
         "version": "v1.6.0",
         "pre_release": "false"
     },
