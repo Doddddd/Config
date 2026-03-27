@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "34296cb686d89cc8a000b2df4858ece01d9dcc27",
+        "sha": "afb133ecbb77e5fd582cfe15872c763b04828605",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ed19edb240e4ee49d9f1f7f083424731e707160c",
+        "sha": "d4e6619937d61a3b89c4a0473a13e348551d2537",
         "version": "4.8",
         "pre_release": "false"
     },
@@ -106,7 +106,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "8568d5b3570a4960e672e14e4f8fa75ba09e2718",
-        "version": "3.7.2-alpha02",
+        "version": "3.8.0-rc01",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b3d034dab1965a1413ebff8b0eb6bd675603c369",
+        "sha": "3b6e510fc480b9370aff8e072284186756d63174",
         "version": "v3.2.1",
         "pre_release": "false"
     },
@@ -232,8 +232,8 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "3b6b8269f50118fcff9f73b3ad1c78ed9b7d35ad",
-        "version": "1.96.2-td916d8651-ga82504d6b",
+        "sha": "17c3085e60bc87fdeff369bda268c67b6faaedd3",
+        "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
     "Telegram": {
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e9a527e26de49a39a1219cc38434ba6a62618dae",
+        "sha": "4d6a8fa79db309befb93c98ec52b93b35b2e5a21",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
