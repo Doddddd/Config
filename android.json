@@ -218,12 +218,6 @@
         "version": "v3.39",
         "pre_release": "false"
     },
-    "RustDesk": {
-        "repo": "rustdesk/rustdesk",
-        "sha": "f02cd9c0f6a9fdf359ea7a28919b8fb93c86ed21",
-        "version": "1.4.6",
-        "pre_release": "true"
-    },
     "Sui": {
         "repo": "RikkaApps/Sui",
         "sha": "2f5fd2a04bc061eb2a8431cc3ede9066954f5a7c",
