@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "c8fbb363eaf6ee774baf7423bb5840e30ec2018b",
+        "sha": "7c52b36aaa52097778eae77a7ac928f781bf648a",
         "version": "v2.11.24",
         "pre_release": "disable"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "2d34d0c498bd2d9d4b2518b1aab78c0d595ad2a1",
+        "sha": "b3d034dab1965a1413ebff8b0eb6bd675603c369",
         "version": "v3.2.1",
         "pre_release": "false"
     },
