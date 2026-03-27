@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "fe3a618c8fd18842305d2f8ec2880fcc67ec1679",
+        "sha": "a99c9c1dc9723f8b72b878261da05b39de2aa7d4",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d67c2ac52412ba6cc2f74096eae3688ef44b7473",
+        "sha": "8568d5b3570a4960e672e14e4f8fa75ba09e2718",
         "version": "3.7.2-alpha02",
         "pre_release": "true"
     },
@@ -117,8 +117,8 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "be13df74cba9cc0a5e7c2db67050bde77748ff4b",
-        "version": "v3.2.0",
+        "sha": "73a45cb85f118977402a24f35a096fcf349612bc",
+        "version": "v3.2.1",
         "pre_release": "false"
     },
     "Legado": {
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "517e1874dc10596ab7b202534d61bc614daf0ffc",
+        "sha": "cb8afe12efa7afe2bc53732b62a0f2eaff0756b8",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "209805359ed8c276cb59696dc4fe6d06d013a8d2",
+        "sha": "09ee38bb7ae239c0eb56b1a0b4b42aebbba07d01",
         "version": "v0.19.7",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b4b3764e5f1eeea9da48475ab10d761eebbf32dc",
+        "sha": "ace286753cb7563a4f84805414aaa9497a6e32c3",
         "version": "2.0.1.1",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "RustDesk": {
         "repo": "rustdesk/rustdesk",
-        "sha": "285e29d2dc0d54b6565c5b3de269b919895042a5",
+        "sha": "f02cd9c0f6a9fdf359ea7a28919b8fb93c86ed21",
         "version": "1.4.6",
         "pre_release": "true"
     },
@@ -262,13 +262,13 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f0fe141ff94a3276f01563e5ca668e2fabce5f45",
+        "sha": "8f00b223406306744a3e96fd8030563ecc3fb6b9",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "289a79d66c8856198cb8e5f356e1839d4dcbebdd",
+        "sha": "f61b3867dfd316048e671a36bcf70f4bca0f923a",
         "version": "v4.0.0-beta.3",
         "pre_release": "true"
     },
