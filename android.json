@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "73a45cb85f118977402a24f35a096fcf349612bc",
+        "sha": "523c3759f81e3fe2c4f3dbd73490b2b004dc58e4",
         "version": "v3.2.1",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "cb8afe12efa7afe2bc53732b62a0f2eaff0756b8",
+        "sha": "c294bda1e7f5ebf9223701da073146b8f99b9ce3",
         "version": "2.5.3",
         "pre_release": "false"
     },
