@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6d008bc5be19c8c3ccb9ea8ef4b283e39ae26f25",
+        "sha": "2d34d0c498bd2d9d4b2518b1aab78c0d595ad2a1",
         "version": "v3.2.1",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "d0a0b4a54134dd53131838ff84d06ae63febf97a",
+        "sha": "5fafccba33feef4896f40496963736238f4dda49",
         "version": "v0.28.4",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8f00b223406306744a3e96fd8030563ecc3fb6b9",
+        "sha": "e9a527e26de49a39a1219cc38434ba6a62618dae",
         "version": "THUNDERBIRD_18_0b2",
         "pre_release": "true"
     },
