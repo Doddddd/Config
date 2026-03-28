@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "9902be00abb18bc597723799568c986a94588152",
+        "sha": "44062c7627bbe931802557e5e2d23917ce636bb8",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8568d5b3570a4960e672e14e4f8fa75ba09e2718",
+        "sha": "abd79d036fc0a4019c4a155f8a05deba4b478beb",
         "version": "3.8.0-rc01",
         "pre_release": "true"
     },
@@ -117,8 +117,8 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "3b6e510fc480b9370aff8e072284186756d63174",
-        "version": "v3.2.1",
+        "sha": "45910a5dff1ecf275d7f1f3d5bf774af073d915b",
+        "version": "v3.2.2",
         "pre_release": "false"
     },
     "Legado": {
