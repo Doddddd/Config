@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v120",
+        "version": "v121",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "afe09028531a2fbca687aecb0d0de121825a046d",
+        "sha": "0497dc3c379eeb1f9299b2256a19070a014cc856",
         "version": "v5.4.0-beta05",
         "pre_release": "true"
     },
@@ -26,14 +26,14 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "fff09c1672e2b0d5195f8dd83c69202b0d0c70a1",
+        "sha": "801c14ce91e60df6d137eed6bba0bcd11132f839",
         "version": "v4.0.10",
         "pre_release": "false"
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "404a7b63c8e0b8071ebfe06a5a248f7b6fce30ea",
-        "version": "v2.7",
+        "sha": "2037b9b2f7a2008816b28c44271ec4555d31d155",
+        "version": "v2.8",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "afb133ecbb77e5fd582cfe15872c763b04828605",
+        "sha": "4bc448a7a3e8e06b6d8a8f6c9f89fb7ded1df544",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "7c52b36aaa52097778eae77a7ac928f781bf648a",
-        "version": "v2.11.24",
+        "sha": "ac6f7fe19addd45aeb6249e4edef8edb73e00d3c",
+        "version": "v2.11.25",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "44062c7627bbe931802557e5e2d23917ce636bb8",
+        "sha": "7a4da7396c3a9a9ef0f243b7fcad43809935bd05",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,14 +99,14 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "ef7efe64cd1a18df26b114049361577577048273",
+        "sha": "fb3bc51f8fbf2fdec5b543d1f426628f85174586",
         "version": "beta-v0.612-60",
         "pre_release": "true"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "abd79d036fc0a4019c4a155f8a05deba4b478beb",
-        "version": "3.8.0-rc01",
+        "sha": "e6a50fc27d35ede3818b82b8ac478ab4ffb2ca30",
+        "version": "3.8.0-rc02",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "45910a5dff1ecf275d7f1f3d5bf774af073d915b",
+        "sha": "9e6de0ad8877566d47601a78fe4a99ca93b7b39e",
         "version": "v3.2.2",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "c294bda1e7f5ebf9223701da073146b8f99b9ce3",
+        "sha": "448792f75d8c2d4bdf1c4fa1dc561b0a7bcc2e2f",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -147,7 +147,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "122a0a33495d365604dd8b7bf2a2e255f33a2f80",
+        "sha": "9dc9b2029261b047e6a87c79bb7c19b3f80d96a9",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -160,19 +160,19 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.21",
+        "version": "v1.19.22",
         "pre_release": "disable"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "09ee38bb7ae239c0eb56b1a0b4b42aebbba07d01",
+        "sha": "25d4bf5e2ffdcb84f6469f5e0a81108777a98e85",
         "version": "v0.19.7",
         "pre_release": "false"
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "5fafccba33feef4896f40496963736238f4dda49",
+        "sha": "25c12ef81ea3b5674db7a7cadc1f78814f7bade7",
         "version": "v0.28.4",
         "pre_release": "false"
     },
@@ -190,14 +190,14 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "ace286753cb7563a4f84805414aaa9497a6e32c3",
-        "version": "2.0.1.1",
+        "sha": "8ad130567e0f4b1d1be400281c49964e67193c2c",
+        "version": "2.0.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "9ef07af00b303afed245e47fa60044cf240d6b0b",
-        "version": "0.9.86",
+        "sha": "2fd38e02a536ad90e959e0777f533c2a561900ef",
+        "version": "0.9.87",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "dc67bf461dea6e61d7911052adb5aef74644a0e0",
+        "sha": "ec4f4c5f38fde6cfbb7ee40cf6887b826f67fb1e",
         "version": "v3.39",
         "pre_release": "false"
     },
@@ -256,8 +256,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "4d6a8fa79db309befb93c98ec52b93b35b2e5a21",
-        "version": "THUNDERBIRD_18_0b2",
+        "sha": "d708b7c91b95af26d9ce53e220de27fb0b67baa6",
+        "version": "THUNDERBIRD_18_0b3",
         "pre_release": "true"
     },
     "TiebaLite": {
