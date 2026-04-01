@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "2fd38e02a536ad90e959e0777f533c2a561900ef",
+        "sha": "cc20dc8ef4fd9dca5cb88e4acf887e8c7cc3895d",
         "version": "0.9.87",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d708b7c91b95af26d9ce53e220de27fb0b67baa6",
+        "sha": "c3b11912affde0c6398fe3ec2ff63580621eeeda",
         "version": "THUNDERBIRD_18_0b3",
         "pre_release": "true"
     },
