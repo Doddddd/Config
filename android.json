@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1c0fa9c76895092a5510b18e3ce6675b984e9a7f",
+        "sha": "1e43fba3c3e6f20ca7177af9dbd4e30285c213b2",
         "version": "3.8.0-rc03",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "1835fe32f653227beb2debf8df83a54a99e8b6e9",
+        "sha": "f73db5861b14480c3b434f13f101bc12d852be48",
         "version": "v3.2.2",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "1da664f73b3e737234cdb5719e17b543ff99f987",
+        "sha": "6843b9175ef242ec7d040a196a728dedbd441ba1",
         "version": "THUNDERBIRD_18_0b3",
         "pre_release": "true"
     },
