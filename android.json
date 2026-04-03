@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "4bc448a7a3e8e06b6d8a8f6c9f89fb7ded1df544",
+        "sha": "613dab48e983e339dfbb5fed50c8c2ed00477148",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "db8dd85b6393193761330e416f3e6962587b05da",
+        "sha": "b897103af0e7293464c0e6d3eb23a52beb2cf14e",
         "version": "2.0.2",
         "pre_release": "false"
     },
