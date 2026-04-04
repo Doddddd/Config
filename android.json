@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "2037b9b2f7a2008816b28c44271ec4555d31d155",
+        "sha": "2daaa32927fc4c993879a32bf06dbcf0a39186d8",
         "version": "v2.8",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "25c12ef81ea3b5674db7a7cadc1f78814f7bade7",
+        "sha": "44bf345ba98cc8f07ae165687aeeee4c90f8f7ce",
         "version": "v0.28.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "fe0b14ab975a29cfec169359a4a7cc82645c20de",
+        "sha": "eec1236b8b5904b46d79bb716e29f073c6fe9b34",
         "version": "1.12.0",
         "pre_release": "false"
     },
