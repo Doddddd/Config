@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v121",
+        "version": "v122",
         "pre_release": "false"
     },
     "Animeko": {
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "90a1ac71eb3fcb57cdb4e9dc3a8c2367dc1fcddc",
+        "sha": "f010464eee26a9872ae11339161219f84d78773b",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ee2a5dcbb6446591bf9aa2cd018b0479615db883",
+        "sha": "2f9b77994abc6ead7185a8695e32cc5b81a6d100",
         "version": "3.8.0-rc04",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "50bfa20b914d8be9cd75187071857a37ca98fe99",
+        "sha": "cef4109580a7caf3d535f4bb22e184be90fc4d94",
         "version": "0.9.89",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "TiebaLite": {
         "repo": "zzc10086/TiebaLite",
-        "sha": "f61b3867dfd316048e671a36bcf70f4bca0f923a",
+        "sha": "a627b05f81752aa70011121d60d2fd9a32b33d27",
         "version": "v4.0.0-beta.4",
         "pre_release": "true"
     },
