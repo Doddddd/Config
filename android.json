@@ -106,7 +106,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "67a3f7f856f468308023b31857262c4a0cdde82e",
-        "version": "3.8.0-rc03",
+        "version": "3.8.0-rc04",
         "pre_release": "true"
     },
     "InxLocker": {
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "5d76c0f09367c9f0a1edc5c28264d0bf887eb2d9",
+        "sha": "50bfa20b914d8be9cd75187071857a37ca98fe99",
         "version": "0.9.89",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "ce8c61c47ec48a84014c8d1d0592f0e22a9dbb22",
+        "sha": "f1af68fbdae22bd4786b3a376aa0112f5739b25e",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
