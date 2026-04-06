@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "92ba2a376f3907df4863fe376647471d069b407f",
+        "sha": "15f4bef8bc9d22160e78834f473da363f7bf41af",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -118,7 +118,7 @@
     "KernelSU": {
         "repo": "tiann/KernelSU",
         "sha": "835d527fbc4664c6fddd9b753e6d32a7ec66a781",
-        "version": "v3.2.2",
+        "version": "v3.2.3",
         "pre_release": "false"
     },
     "Legado": {
