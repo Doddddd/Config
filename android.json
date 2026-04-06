@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "0497dc3c379eeb1f9299b2256a19070a014cc856",
-        "version": "v5.4.0-beta05",
-        "pre_release": "true"
+        "sha": "8add5bf559e1b1dd23de77790a7597279762cc21",
+        "version": "v5.4.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -123,7 +123,7 @@
     },
     "Legado": {
         "repo": "gedoor/legado",
-        "sha": "0486da3c0255bb5b2d13427c7c4cb829ac37dd0d",
+        "sha": "a694b9cba830fcbe470667b3f0ef25fe5435bb1e",
         "version": "beta",
         "pre_release": "true"
     },
