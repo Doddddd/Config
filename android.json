@@ -62,8 +62,8 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "d4e6619937d61a3b89c4a0473a13e348551d2537",
-        "version": "4.8",
+        "sha": "c691400c070f45e1fb8f0dcfcf8c136868e81eb1",
+        "version": "4.9",
         "pre_release": "false"
     },
     "DataBackup": {
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2200869a15fcf8b700ce75790161ae6f49da9464",
+        "sha": "e7b94601a14ebcb65a8358c7e509615d867d5463",
         "version": "THUNDERBIRD_18_0b3",
         "pre_release": "true"
     },
