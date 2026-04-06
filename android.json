@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "8cd9598da2aa6e329007c515dc7d3ed79587ff0b",
+        "sha": "fab38650ad71a08bc4a5093ad4132cbb9dcbc186",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2f9b77994abc6ead7185a8695e32cc5b81a6d100",
+        "sha": "dc8eb3cdd064e831d89881c6bc624e6547b3f4d3",
         "version": "3.8.0-rc04",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0e4dafcadd4f0fec5577be599880644781280321",
+        "sha": "a5c357e616ce4f830be1f030c0d0442d7bf536ee",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "cef4109580a7caf3d535f4bb22e184be90fc4d94",
-        "version": "0.9.89",
+        "sha": "5067bb25734190dc5c5601c1c8df204c46d9b1a1",
+        "version": "0.9.100",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "eec1236b8b5904b46d79bb716e29f073c6fe9b34",
+        "sha": "e96895345ecb1e12f6e40e30987d9695eb76e914",
         "version": "1.12.0",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "f1af68fbdae22bd4786b3a376aa0112f5739b25e",
+        "sha": "009e97356f966bb81eceba113d210230bf383122",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -256,8 +256,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e7b94601a14ebcb65a8358c7e509615d867d5463",
-        "version": "THUNDERBIRD_18_0b3",
+        "sha": "0652ffb46f5e8cbfb90e57b4617709ae78253d5c",
+        "version": "THUNDERBIRD_18_0b4",
         "pre_release": "true"
     },
     "TiebaLite": {
