@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "dc8eb3cdd064e831d89881c6bc624e6547b3f4d3",
+        "sha": "8386bda30c00bbf06f48b03d29f3942c1383d1ed",
         "version": "3.8.0-rc04",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "e96895345ecb1e12f6e40e30987d9695eb76e914",
+        "sha": "5c14879c1233008ff9969d6caae481a4e26943ad",
         "version": "1.12.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "3f0dec3574a6617ff7ff0b78d30b29cfffd71b20",
+        "sha": "30ebb2dee381d292ade0f2868cfde0f9f20b89fe",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
