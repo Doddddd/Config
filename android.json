@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "e5efc02468a747c96f6cb7c6a7183d2809fa2542",
+        "sha": "2794bb4b64ece3343ef41110fddb8fcb2ef33082",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
