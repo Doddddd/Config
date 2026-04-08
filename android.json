@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "3c1cf5b9eba88764c3dc8e5be5a1c80fd72ed312",
-        "version": "v2.11.25",
+        "sha": "afd1da50b7a3f49bf1387784c58741fad2693246",
+        "version": "v2.11.26",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -160,7 +160,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.22",
+        "version": "v1.19.23",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "27fe528467406f07e4fd4630f6490696db8e0788",
-        "version": "v3.39",
+        "sha": "fb2b6d5b744c64c07171388f86355bcba0e849e8",
+        "version": "v3.40",
         "pre_release": "false"
     },
     "Sui": {
