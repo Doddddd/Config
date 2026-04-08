@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "a56f544f4688efe726d1edf430d87c4f5dd03f58",
+        "sha": "f9ca15eea45a6c67a0a9d9d19230ab789df8571d",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
@@ -147,7 +147,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "9dc9b2029261b047e6a87c79bb7c19b3f80d96a9",
+        "sha": "2f4bb0149e021e7bc360012f4d49cc30d5ce008f",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "51163dd9854b132a7d2c1ec365d56aa6b625d938",
-        "version": "2.0.2",
+        "sha": "63416607887f813508a14ab64e1050a86c8a2ce1",
+        "version": "2.0.3",
         "pre_release": "false"
     },
     "PixEz": {
