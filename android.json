@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "2a1859d7d7000f4f92f13c4ca41996d2d83df857",
+        "sha": "ed3b5305f1b62c7ac1b05539d17609ccfddf4ae5",
         "version": "v0.19.7",
         "pre_release": "false"
     },
@@ -226,13 +226,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "5c14879c1233008ff9969d6caae481a4e26943ad",
+        "sha": "509ace1a38b3b52c7bdbf9298d5694386d8c6cba",
         "version": "1.12.0",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "2794bb4b64ece3343ef41110fddb8fcb2ef33082",
+        "sha": "e7fca1ad1ec2f21a90eced70a5e75d3a12620a9b",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "89469b3334f6cdf2078f0cb6e93b11b11a3dc14c",
+        "sha": "df345fbba5281f8e1a022f9ab5cb94214d4ef298",
         "version": "THUNDERBIRD_18_0b4",
         "pre_release": "true"
     },
