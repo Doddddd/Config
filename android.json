@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "ac6f7fe19addd45aeb6249e4edef8edb73e00d3c",
+        "sha": "3c1cf5b9eba88764c3dc8e5be5a1c80fd72ed312",
         "version": "v2.11.25",
         "pre_release": "disable"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "69d9a0c056e919bcf4650c62b50cc159473038d0",
+        "sha": "da2e3bb42b48e6cc0c20c2f71ad4bf0f682e3152",
         "version": "3.8.0-rc04",
         "pre_release": "true"
     },
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "bdf1731b449bb54e642a4b118541572225a971c5",
+        "sha": "27fe528467406f07e4fd4630f6490696db8e0788",
         "version": "v3.39",
         "pre_release": "false"
     },
