@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5fb7c93680e5fadfcee34a5d0250115a68bab764",
+        "sha": "2c707eacbba5099ee6c49b77cce12a87f6e78775",
         "version": "3.8.0-rc04",
         "pre_release": "true"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "fb2b6d5b744c64c07171388f86355bcba0e849e8",
-        "version": "v3.40",
+        "sha": "153208e04a7de0d81f7e42b5d787a08940fa839e",
+        "version": "v3.41",
         "pre_release": "false"
     },
     "Sui": {
