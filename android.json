@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "de6e402d9769679c253c2054c66efac809621469",
-        "version": "2.0.3",
+        "sha": "db30aa8041bf06675b91d38a274dbdf237eeb91b",
+        "version": "2.0.3.1",
         "pre_release": "false"
     },
     "PixEz": {
