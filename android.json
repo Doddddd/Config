@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "613dab48e983e339dfbb5fed50c8c2ed00477148",
+        "sha": "b5fcd10e958a755c34625997570c5e566dbb82b2",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -105,9 +105,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2c707eacbba5099ee6c49b77cce12a87f6e78775",
-        "version": "3.8.0-rc04",
-        "pre_release": "true"
+        "sha": "70b0385db50c85a55a72ca0893e81ab2c854dea9",
+        "version": "3.8.0",
+        "pre_release": "false"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a372827b924f8284ed16153ac4a2a7460c55f962",
+        "sha": "939e36ce1c997bf3393a732172770459488a9227",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "448792f75d8c2d4bdf1c4fa1dc561b0a7bcc2e2f",
+        "sha": "0c702ff3be503bc72e45a1e73d5b037e411ff47d",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "b7cdfb1b30ef6e8f0e1e19892146d34a8b818ae8",
+        "sha": "c4a606112a994fc211e74ceaa6bc39430cb6622d",
         "version": "v0.19.7",
         "pre_release": "false"
     },
