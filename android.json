@@ -13,8 +13,8 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "201a1d3779f264591ebd198bf1e5d827fdd2b567",
-        "version": "v5.4.0",
+        "sha": "ae185b56017c8b74cb88671198da649363fbfa2e",
+        "version": "v5.4.1",
         "pre_release": "false"
     },
     "AuroraStore": {
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "8453bfc07db2b5f7cdca41960547260661bd17b6",
+        "sha": "37b8ba6d5c1a417a1ba8a8c77c6a78688a2a12b1",
         "version": "v2.11.26",
         "pre_release": "disable"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "69684a3f08787e0e3ec7c57884552811397595e1",
+        "sha": "ca4424cc96ff980a98b10a2fe6e7899079c723f0",
         "version": "3.8.0",
         "pre_release": "false"
     },
