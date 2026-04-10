@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "afd1da50b7a3f49bf1387784c58741fad2693246",
+        "sha": "8453bfc07db2b5f7cdca41960547260661bd17b6",
         "version": "v2.11.26",
         "pre_release": "disable"
     },
@@ -147,7 +147,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "48909358663cb289e3856cf73c4c3594e89e6999",
+        "sha": "4a1a069ad274be9657024059aeeed9891871f1da",
         "version": "v30.7",
         "pre_release": "false"
     },
