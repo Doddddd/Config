@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "9c8c2fec214bf5d590a658a70c54fb87d2eb5c27",
+        "sha": "ce3565f9d4703da03b740a2251a15bbc25061472",
         "version": "3.8.0",
         "pre_release": "false"
     },
@@ -171,9 +171,9 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "",
-        "version": "",
-        "pre_release": ""
+        "sha": "1ce58117423104e9e7114306f8d47bac058f1a99",
+        "version": "0.0.7",
+        "pre_release": "true"
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
