@@ -169,6 +169,12 @@
         "version": "v0.19.9",
         "pre_release": "false"
     },
+    "Monogram": {
+        "repo": "monogram-android/monogram",
+        "sha": "",
+        "version": "",
+        "pre_release": ""
+    },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
