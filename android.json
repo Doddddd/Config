@@ -166,8 +166,8 @@
     "Mihon": {
         "repo": "mihonapp/mihon",
         "sha": "bc4fc765b2b5f5625d4348779e484e51d761e069",
-        "version": "v0.19.7",
-        "pre_release": "false"
+        "version": "v0.19.8",
+        "pre_release": "true"
     },
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
