@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ca4424cc96ff980a98b10a2fe6e7899079c723f0",
+        "sha": "9aaa80d0a448ec7fb5d63dc03c8295aa00514e63",
         "version": "3.8.0",
         "pre_release": "false"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "db30aa8041bf06675b91d38a274dbdf237eeb91b",
-        "version": "2.0.3.1",
+        "sha": "cbc4f58323165bb86ae1cd509558ecc798ab2c59",
+        "version": "2.0.3.2",
         "pre_release": "false"
     },
     "PixEz": {
@@ -256,14 +256,14 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "3bc6551a05a86b60a215e20f8d9e38916b8aa64b",
+        "sha": "558960db37598f37bcf8971d1159606f2c37d06c",
         "version": "THUNDERBIRD_18_0b4",
         "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
-        "sha": "a627b05f81752aa70011121d60d2fd9a32b33d27",
-        "version": "v4.0.0-beta.4",
+        "sha": "cc1507b5d1d29253314bf6f13f997ad73a8b3f50",
+        "version": "v4.0.0-beta.4.3",
         "pre_release": "true"
     },
     "TMoe": {
@@ -274,7 +274,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "f5e8ecc0aa9942f4037b621b214a5deaacecdf1e",
+        "sha": "f2f9bf25f821a7ab17a78521ab12624498236c35",
         "version": "v2.19.1",
         "pre_release": "false"
     },
