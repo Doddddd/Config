@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v122",
+        "version": "v123",
         "pre_release": "false"
     },
     "Animeko": {
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "15f4bef8bc9d22160e78834f473da363f7bf41af",
+        "sha": "3f2e5bc0b1c593ff22dcb10b4210435e1c883b6e",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "68ba009bcb42be6650fbf909782385d034610caf",
+        "sha": "f0853ce928a94477120777b20364c2b1b428dbdb",
         "version": "3.8.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "cfe6d81a58e2d679ea8a5533aeb6f0d7e51e8999",
+        "sha": "260fafed3c607c552665e094383f327787f332f7",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -135,7 +135,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "f3d9d6b04b618f6326d888cbb922c37b1b0d28f8",
+        "sha": "472771ea9b227a82018377c12768c3e1dd41beb6",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -171,7 +171,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "d5abbd129bcf7ef672d75db501ec459ab52924d4",
+        "sha": "6735e446a225475e57e6a483a2a04f4af66e8883",
         "version": "0.0.7",
         "pre_release": "true"
     },
@@ -220,8 +220,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "153208e04a7de0d81f7e42b5d787a08940fa839e",
-        "version": "v3.41",
+        "sha": "4444692092848beea2abdef594205a34f0f78688",
+        "version": "v3.42",
         "pre_release": "false"
     },
     "Sui": {
@@ -280,7 +280,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "f2f9bf25f821a7ab17a78521ab12624498236c35",
+        "sha": "bbeb734cf2b0f79530500066f4675c2196baca6a",
         "version": "v2.19.1",
         "pre_release": "false"
     },
