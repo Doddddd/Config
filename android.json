@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a12bf05794b38d64534f831a1e2df4b91796aa55",
+        "sha": "20b7bd26f30397b896d723ee3cfa9fc0577956fa",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -171,7 +171,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "1ce58117423104e9e7114306f8d47bac058f1a99",
+        "sha": "d5abbd129bcf7ef672d75db501ec459ab52924d4",
         "version": "0.0.7",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "7dfb2b3017edd892d3bccb54407180994be2b77e",
+        "sha": "1ce5bdb37b6e9cb08afd09a746a16578a3131535",
         "version": "0.9.100",
         "pre_release": "false"
     },
