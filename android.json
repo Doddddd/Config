@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2292a6dda71f348ac4420029bc8c851539c79d5d",
+        "sha": "68ba009bcb42be6650fbf909782385d034610caf",
         "version": "3.8.0",
         "pre_release": "false"
     },
@@ -179,7 +179,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "44bf345ba98cc8f07ae165687aeeee4c90f8f7ce",
-        "version": "v0.28.4",
+        "version": "v0.28.5",
         "pre_release": "false"
     },
     "OverlayFS": {
