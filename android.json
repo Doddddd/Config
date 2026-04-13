@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "6753667c85165ba4a672438d34753be3e9e37f52",
+        "sha": "b1386868c77c07ba71ebe757aeec681c07f470ff",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
@@ -171,7 +171,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "6735e446a225475e57e6a483a2a04f4af66e8883",
+        "sha": "d0d8b4c5b5e24b3160112ec0cd36f20a3e86c2ee",
         "version": "0.0.7",
         "pre_release": "true"
     },
