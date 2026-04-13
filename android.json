@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "e85bb3347a59685516f89f61ec5eab9cae84e008",
+        "sha": "83cdf6cc38073f595937e2adb8e9987319b6941c",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -171,8 +171,8 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "0587350ecacfdf602c752b894f0fe465248dc490",
-        "version": "0.0.7",
+        "sha": "ce916122b74aeb963f5a96af2bf92c9e00c2e978",
+        "version": "0.0.8",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "3d39ab8a604e09b0c22ac066fde33732b4d09f24",
+        "sha": "bf32e8f28eb30ae0ece32e39e03d6be2a3f6e7a7",
         "version": "THUNDERBIRD_18_0b4",
         "pre_release": "true"
     },
