@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "a61cca96ab3d6564ad6644519cc9674d7a7f2574",
+        "sha": "6e589ecbace78ece33a8a63fcbc77dc69f08724c",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "da9980d79f7f7c1e5f1ea92e8046e20fc1208bb8",
+        "sha": "630f9258dccc4976d5cad25974c4070b566946f4",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f0853ce928a94477120777b20364c2b1b428dbdb",
+        "sha": "b186cef55a418917b0ae2b35d858c6b6975ffd91",
         "version": "3.8.0",
         "pre_release": "false"
     },
@@ -171,7 +171,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "ce916122b74aeb963f5a96af2bf92c9e00c2e978",
+        "sha": "32bee7532a9c8c5cd492fd0e0621b4929c9676b5",
         "version": "0.0.8",
         "pre_release": "true"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bf32e8f28eb30ae0ece32e39e03d6be2a3f6e7a7",
+        "sha": "bb18114dea824ee28b7dba7384112de8a5a17b2f",
         "version": "THUNDERBIRD_18_0b4",
         "pre_release": "true"
     },
