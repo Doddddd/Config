@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "857afd94a5e95664c62f0a5ff213e03f59c4f931",
+        "sha": "bcb387f6d2d33abb6c8d4f6946c48bc5af356385",
         "version": "v5.4.3",
         "pre_release": "false"
     },
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "29b2cd1b4b81b4ef0b6d6b650a20fba34fe74209",
+        "sha": "2dc5886c5217964992e53e2bafd25edb8eaf0e9e",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -105,9 +105,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "aee2cfd02da82f96332c4fda618c37c339af50df",
-        "version": "3.8.0",
-        "pre_release": "false"
+        "sha": "0a03210eeb7c27cd3c3d6de543069ffab48fbf33",
+        "version": "3.8.1-alpha01",
+        "pre_release": "true"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
