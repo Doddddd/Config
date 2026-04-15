@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "c3b620374eaa1c2d8035878b318c574129335ee5",
+        "sha": "f422bde857175594063eb1ac624f1bbe40bdacf1",
         "version": "v5.5.0-alpha02",
         "pre_release": "true"
     },
@@ -111,9 +111,9 @@
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "",
-        "version": "",
-        "pre_release": ""
+        "sha": "fe52d373e365a943020f8b6283237494f8094e77",
+        "version": "v0.5.0",
+        "pre_release": "false"
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
