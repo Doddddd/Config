@@ -109,6 +109,12 @@
         "version": "3.8.1-alpha01",
         "pre_release": "true"
     },
+    "InstaEclipse": {
+        "repo": "ReSo7200/InstaEclipse",
+        "sha": "",
+        "version": "",
+        "pre_release": ""
+    },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
         "sha": "8fc3a8c42fcd8b11b0093ecfcd6f8cd495dcb6ad",
