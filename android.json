@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "95b05b7b15e47cb5f0da2217675a6e2b80c2759d",
+        "sha": "6d94aa7b3b10bf70c079656203a4a281093e1892",
         "version": "3.8.1-alpha01",
         "pre_release": "true"
     },
@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7fe14ac1616cf6e96c00eee2767c4bbb176e4fa5",
+        "sha": "66165501de727f271bf7029237117462943ea989",
         "version": "0.0.8",
         "pre_release": "true"
     },
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "23dcc5907a7b1e89fa9198c4affd20097bf19945",
+        "sha": "7dd96cabc736f05b3d93c6e75bfe22d284a529e8",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
