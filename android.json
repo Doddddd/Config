@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "37b8ba6d5c1a417a1ba8a8c77c6a78688a2a12b1",
+        "sha": "066486323b8b6e8c4088a5e896a61459a78dcd0a",
         "version": "v2.11.26",
         "pre_release": "disable"
     },
@@ -286,7 +286,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "3e2e6ebd562c385ab44e9986354521baf51ddf5f",
+        "sha": "aa5653ae64fb8994de5eabec33a470fb5da2faf1",
         "version": "v2.19.1",
         "pre_release": "false"
     },
