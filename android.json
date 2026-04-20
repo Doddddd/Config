@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v123",
+        "version": "v124",
         "pre_release": "false"
     },
     "Animeko": {
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "a16f71d3e4b7b90623e46b1a90c69a5c1347cd84",
+        "sha": "6cb8538405d75d53fcc8ab71cf025a71753ba191",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -105,14 +105,14 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6d94aa7b3b10bf70c079656203a4a281093e1892",
+        "sha": "c6115e4c6fa6d2aaf6f9da9f64c888e9a4d9ecf8",
         "version": "3.8.1-alpha01",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "fe52d373e365a943020f8b6283237494f8094e77",
-        "version": "v0.5.0",
+        "sha": "80cbbbcaa9cbe26de5bb39f8e8938e4cb2af74d9",
+        "version": "v0.5.1",
         "pre_release": "false"
     },
     "InxLocker": {
@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "66165501de727f271bf7029237117462943ea989",
+        "sha": "5450d510053c5571fce8b06ef730e38e4457f8ce",
         "version": "0.0.8",
         "pre_release": "true"
     },
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "4444692092848beea2abdef594205a34f0f78688",
-        "version": "v3.42",
+        "sha": "6ff2bcdbd0169b5a4a82221a37a5d46e8888574e",
+        "version": "v3.43",
         "pre_release": "false"
     },
     "Sui": {
