@@ -100,8 +100,8 @@
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
         "sha": "fb3bc51f8fbf2fdec5b543d1f426628f85174586",
-        "version": "beta-v0.612-60",
-        "pre_release": "true"
+        "version": "archive-final7-original",
+        "pre_release": "false"
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
@@ -153,7 +153,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "42fa348357f54f701ebe9678f5072f35cc147b08",
+        "sha": "36511c6d794e072342f4539ca772a2c3f825d547",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "add633bc66a4266b7e609095b6e2213e390150b8",
+        "sha": "bffdfae1f62964a644b2882ecd291a366a9d5743",
         "version": "2.0.4",
         "pre_release": "false"
     },
@@ -287,8 +287,8 @@
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
         "sha": "aa5653ae64fb8994de5eabec33a470fb5da2faf1",
-        "version": "v2.19.1",
-        "pre_release": "false"
+        "version": "v2.19.2",
+        "pre_release": "true"
     },
     "Zhiliao": {
         "repo": "shatyuka/Zhiliao",
