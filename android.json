@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "6cb8538405d75d53fcc8ab71cf025a71753ba191",
+        "sha": "8ca5a222550108abbe970bc4bf19748bca31566e",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "e46e91db303ec19b28e98b85cb420934c92a10cc",
+        "sha": "7423f11c681308d85e47a0f823972b8b60e3d436",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f34bd3109fe6632d0b81584e5377c2be658f6be8",
+        "sha": "b4994c6e15c2b43d0af287f17f35065f09fda470",
         "version": "3.8.1-alpha01",
         "pre_release": "true"
     },
@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "0c702ff3be503bc72e45a1e73d5b037e411ff47d",
+        "sha": "d76759d895bcd5c689acb5d1384179b475eec6e9",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "7dd96cabc736f05b3d93c6e75bfe22d284a529e8",
+        "sha": "83a9630eab92e10b3fe0f308cdeaa689dc61e37c",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "6386ad7aec304b3b7e3b9c28b52afefaa33f4e73",
+        "sha": "d4195a669dfbf6d5e9f85ed83369d01d2610fae3",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
