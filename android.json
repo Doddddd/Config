@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "75109c1e9eb579104696d2aa4ebdc414cd281576",
+        "sha": "5ddfa1fa3742f8c4e581121050eb2dfaebcad60d",
         "version": "0.0.8",
         "pre_release": "true"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "632ce14e79b2be23898fa4421572f97d6b1c124a",
+        "sha": "436cc4a1af5bef3e28b32abae06326da3bd6adca",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
