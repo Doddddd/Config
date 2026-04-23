@@ -184,7 +184,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "dd917ca2407acec933423c983675ee744e10070f",
+        "sha": "9bd9a5c6e972ea8d4f9663060c601903c4f80d44",
         "version": "v0.28.5",
         "pre_release": "false"
     },
