@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "b7a16707f5c00b948928b2e521d7a13e2d7586cf",
+        "sha": "d95b792a29714539baa4b7e3741f56b50e897598",
         "version": "0.0.9",
         "pre_release": "true"
     },
@@ -286,7 +286,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "aa5653ae64fb8994de5eabec33a470fb5da2faf1",
+        "sha": "0cd39086a68e5cc5a2893852b24536091d98b016",
         "version": "v2.19.2",
         "pre_release": "true"
     },
