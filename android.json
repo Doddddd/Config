@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "8ca5a222550108abbe970bc4bf19748bca31566e",
+        "sha": "c81cf49c61d9ec01901d82000cf3de5a6b85e891",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "7423f11c681308d85e47a0f823972b8b60e3d436",
+        "sha": "608108fc4b108d5a729659a25569388e07e7a55d",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "630f9258dccc4976d5cad25974c4070b566946f4",
+        "sha": "49d8807101c8a2987c3d0746c2c8c6a4a3a8054c",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d81ebdd8304446ae88cbfc719e18f4d130e8804e",
+        "sha": "560755073a7c7b7214814d871bdffdc86a80f836",
         "version": "3.8.1-alpha01",
         "pre_release": "true"
     },
@@ -171,13 +171,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d68347f5fbc897c78ff255c1c343f90c161ca6f6",
+        "sha": "5b32a990a2380da119713f07169b1b7296a0ccb0",
         "version": "v0.19.9",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "12c1de3b297030755f89a17d994620c02f51583e",
+        "sha": "b7a16707f5c00b948928b2e521d7a13e2d7586cf",
         "version": "0.0.9",
         "pre_release": "true"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "36a434cfbb2556117104c26ce620d8d177635ef7",
+        "sha": "a9dad8353e03dab514fcf0e44709b6d7b1b16ed9",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
