@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e13afa64dd72917c9941cdac346ca91424b4a66e",
+        "sha": "10cd70262a24d5aef0ad24a1126d91810e474af4",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -184,7 +184,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "9bd9a5c6e972ea8d4f9663060c601903c4f80d44",
+        "sha": "7b98b4058acd117cb0e93f6ce18734a82526c30b",
         "version": "v0.28.5",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a9dad8353e03dab514fcf0e44709b6d7b1b16ed9",
+        "sha": "364880057ae7595ce773a3efe7dbc6f6616686db",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
