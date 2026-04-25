@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "38ccd7d5fc07cb7ddc353835ec57e88f43488301",
+        "sha": "a2f3ec94aa2a079cbcbcf54aaaa5f1d1f1a8a4e4",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -202,8 +202,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "326291de23a6cd2f4a8b58afc9cb2d3f85d2a8bc",
-        "version": "2.0.4",
+        "sha": "baef1655d60d9b7c61dc20ecc32ef4405deb6c81",
+        "version": "2.0.5",
         "pre_release": "false"
     },
     "PixEz": {
