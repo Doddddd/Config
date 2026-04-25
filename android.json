@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "560755073a7c7b7214814d871bdffdc86a80f836",
+        "sha": "98fc160f3372b1cca304a8570e633e24b6425b3a",
         "version": "3.8.1-beta01",
         "pre_release": "true"
     },
@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5b32a990a2380da119713f07169b1b7296a0ccb0",
+        "sha": "4faf89fc6fd9c5ab5786029ed1aebabeb0fd8e73",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -286,7 +286,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "0cd39086a68e5cc5a2893852b24536091d98b016",
+        "sha": "16a3f3540b4e7a7de52596adcf21a5772315185c",
         "version": "v2.19.2",
         "pre_release": "true"
     },
