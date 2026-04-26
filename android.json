@@ -19,14 +19,14 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "b1386868c77c07ba71ebe757aeec681c07f470ff",
+        "sha": "75ba09af32516fe6c7bd0c5fd9e85a0e4d4c53de",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "c81cf49c61d9ec01901d82000cf3de5a6b85e891",
+        "sha": "00ddba54bbf8a83fe5610bc33972807e68b5ac81",
         "version": "v4.0.10",
         "pre_release": "false"
     },
