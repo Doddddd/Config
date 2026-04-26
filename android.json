@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "608108fc4b108d5a729659a25569388e07e7a55d",
+        "sha": "d0d27d03d6f840dd72b74f3d37e5acea998ba4fb",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "483e85f1697cf3f845e050d6187bc90edd11e330",
+        "sha": "543244335f3eb83a985d48d6d988997ba32272ef",
         "version": "3.8.1-beta01",
         "pre_release": "true"
     },
