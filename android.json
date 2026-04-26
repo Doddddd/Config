@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "56026226f35c5e17e81090c0996a9e1055ae6a0c",
+        "sha": "ed6153c006e7b3d13b571659f8f1a99dc27eaf28",
         "version": "v5.5.0-alpha02",
         "pre_release": "true"
     },
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "2daaa32927fc4c993879a32bf06dbcf0a39186d8",
+        "sha": "2aaeb3b7012b022aab0f41913256efd9e40136e6",
         "version": "v2.8",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "ed6fbe1795752b7c4652d27529c5c089f193c4a9",
+        "sha": "762683f6bdb30466e81da435fa5519698e3727c5",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "422d15a8b2f1fcef170af0845440df95db927243",
+        "sha": "39700dcc801c74cd0ab2c67c41bea62b0dd322f7",
         "version": "3.8.1-beta01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "e50e3b06f2bdd58b92fbe37ccec186de6d12fbbe",
+        "sha": "7fb5fd3e29245ac0413871444522b1b96bbb62d7",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "6ff2bcdbd0169b5a4a82221a37a5d46e8888574e",
+        "sha": "a7e76c2e961837bbe591578818895b46ad1a9fff",
         "version": "v3.43",
         "pre_release": "false"
     },
