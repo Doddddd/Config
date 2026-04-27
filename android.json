@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v124",
+        "version": "v125",
         "pre_release": "false"
     },
     "Animeko": {
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "543244335f3eb83a985d48d6d988997ba32272ef",
+        "sha": "7e6547ec59e4cfdb0d073834c3121d3e20fea94d",
         "version": "3.8.1-beta01",
         "pre_release": "true"
     },
@@ -141,7 +141,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "a0206a7cbbf1e75f3646579146bb632e358e0561",
+        "sha": "7398e4b7de784cb3941c5133500e9549de1a02e5",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "c03b747f13061339073faf58ed0003ad5edf47cb",
+        "sha": "d0768021ee358aeecb2b470dffc89ba15f22e81e",
         "version": "0.0.9",
         "pre_release": "true"
     },
