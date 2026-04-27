@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "d0768021ee358aeecb2b470dffc89ba15f22e81e",
+        "sha": "a22552a77747d4459d6c2ad8ed31967862cca6de",
         "version": "0.0.9",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "baef1655d60d9b7c61dc20ecc32ef4405deb6c81",
+        "sha": "dccb5d4bf5e9a04a15757d7d4a74df280619ff95",
         "version": "2.0.5",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "cc1507b5d1d29253314bf6f13f997ad73a8b3f50",
+        "sha": "f5ba12061a9d13d62c41afd6117a21f7bc677f92",
         "version": "v4.0.0-beta.4.3",
         "pre_release": "true"
     },
