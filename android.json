@@ -275,7 +275,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "a18039b4be5431aa978ab05d4382af9d8fd8f90e",
+        "sha": "0c1ae5dcae9475cfcb09c294151a1721a53d9887",
         "version": "v4.0.0-beta.4.3",
         "pre_release": "true"
     },
