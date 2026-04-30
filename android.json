@@ -202,8 +202,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "9752ae2f33771d472d9ceae5ed3da3db19c8bc1f",
-        "version": "2.0.5",
+        "sha": "7b6d8bef994c5a50c2b476978e739dee651129df",
+        "version": "2.0.6",
         "pre_release": "false"
     },
     "PixEz": {
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ed42c9b42c3a16b2d7c2512d01c20b7c5db3a7a2",
+        "sha": "37b20c7db88276f494e69527ae61e42739a33ea0",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
