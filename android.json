@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "2aaeb3b7012b022aab0f41913256efd9e40136e6",
-        "version": "v2.8",
+        "sha": "ff271cabf48ce62ac3e48f028158111d5fc0d4e4",
+        "version": "v2.9",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "51baa4dac7e13225f8a74d10a8027f964689e84e",
+        "sha": "00677af522705d03c5c8bd6628afd847893dc4a0",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "762683f6bdb30466e81da435fa5519698e3727c5",
+        "sha": "9ea5b01c65c22c778e5b998700ad431a44141d29",
         "version": "0.1.2",
         "pre_release": "false"
     },
