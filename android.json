@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "ff271cabf48ce62ac3e48f028158111d5fc0d4e4",
+        "sha": "5b59759b24844bbbdf7396895ab2f4d539345cec",
         "version": "v2.9",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "00677af522705d03c5c8bd6628afd847893dc4a0",
+        "sha": "de95fdce610a09b2dd07cdd6f9c1468d667ddb09",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "7fb5fd3e29245ac0413871444522b1b96bbb62d7",
+        "sha": "8f496b901b1b1e0167da0331d4e4b521fc68df48",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -185,7 +185,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "a44e65e7094b7df479aa274228cc2ab68e7d330f",
-        "version": "v0.28.5",
+        "version": "v0.28.6",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "a7e76c2e961837bbe591578818895b46ad1a9fff",
-        "version": "v3.43",
+        "sha": "7da492e0de9d8f782a689440561daf49cd61b0d6",
+        "version": "v3.44",
         "pre_release": "false"
     },
     "Sui": {
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "f9327657c19caa7e8c97217b20912ef221c18af5",
+        "sha": "92b1afbae840e84afca27d16411fc7f2f32e275c",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
