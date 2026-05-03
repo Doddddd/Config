@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "d41f69e95e24301d52dba52fd43109978b9aaa6e",
+        "sha": "583092735ffa6a4dce6bbadab75f3e0306b6d370",
         "version": "2.0.6",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "20077da4a6fe99a9de767d37418bfd1520b8544a",
+        "sha": "2a40693b909ea17dd5e3336f4e4a9ce2ee4a0d36",
         "version": "v2.19.2",
         "pre_release": "true"
     },
