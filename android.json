@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "9ea5b01c65c22c778e5b998700ad431a44141d29",
+        "sha": "134880d267d9aad3cce758987c7d9cc04237d547",
         "version": "0.1.2",
         "pre_release": "false"
     },
