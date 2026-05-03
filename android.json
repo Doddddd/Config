@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5aab33cb970545ca9e9c8295771385c8eef23dbd",
+        "sha": "90584e954712abdb16d22a19288228657b6b723a",
         "version": "3.9.0-beta02",
         "pre_release": "true"
     },
@@ -275,7 +275,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "0c1ae5dcae9475cfcb09c294151a1721a53d9887",
+        "sha": "bd9a630b2a0061cdc4ba1a3532136606be80bec0",
         "version": "v4.0.0-beta.4.3",
         "pre_release": "true"
     },
