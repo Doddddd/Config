@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v125",
+        "version": "v126",
         "pre_release": "false"
     },
     "Animeko": {
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "90584e954712abdb16d22a19288228657b6b723a",
+        "sha": "007e9a73f1decae7afb788a1e30625c020234edb",
         "version": "3.9.0-beta02",
         "pre_release": "true"
     },
@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "c971ff93ee42efdc1a5fec6f730297d9fa06a0e5",
+        "sha": "859c64f29a5fec569706890d4e2c3b2e004275e1",
         "version": "0.0.9",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "80490fc60d3303449e0219dea414e987ea2c3ebc",
+        "sha": "70ab9e2b568046a94506a20ac4aeaa9d21820319",
         "version": "v12.4.0",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "2a40693b909ea17dd5e3336f4e4a9ce2ee4a0d36",
+        "sha": "a5cced35f07f09e2a35ad0322c7af79165945347",
         "version": "v2.19.2",
         "pre_release": "true"
     },
