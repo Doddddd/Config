@@ -208,13 +208,13 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "0b9c8d1198c790cc3f03923e0265a0d9f895a6ed",
+        "sha": "c5de160db09f43440c06587b4fbc7c5f5890c8cb",
         "version": "0.9.100",
         "pre_release": "false"
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "2f9fc226708368993e1c25660aa12044c27888f3",
+        "sha": "1f6ab81c138bfdbbffb85a4715cb866bd6cdc78f",
         "version": "v1.6.0",
         "pre_release": "false"
     },
