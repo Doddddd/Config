@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "007e9a73f1decae7afb788a1e30625c020234edb",
+        "sha": "fa6eb3b03df2c0a01035c118fee8faf867825b24",
         "version": "3.9.0-beta02",
         "pre_release": "true"
     },
@@ -153,7 +153,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "9d0b5298afd54b320767af7019645f03e96f362f",
+        "sha": "14ea5cfb4a5771c742f7c3fd1e685bdbfac7aa8c",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "92b1afbae840e84afca27d16411fc7f2f32e275c",
+        "sha": "ea5bd4c78cd36682a5a294b15e6cf9ca97d58893",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "0e3428d3e3c938cd8accf426d6233a07aae32c23",
+        "sha": "60091bcfc68bdc42b3d728d32c68c35e113d8ca8",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
