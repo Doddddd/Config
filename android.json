@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "5b59759b24844bbbdf7396895ab2f4d539345cec",
-        "version": "v2.9",
+        "sha": "987187d66f6115174fa8031bc573fe3fe44abe3a",
+        "version": "v2.10",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -226,7 +226,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "7da492e0de9d8f782a689440561daf49cd61b0d6",
+        "sha": "e5cecdf0c0087cb8971f26a3821d846751013ffa",
         "version": "v3.44",
         "pre_release": "false"
     },
