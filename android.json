@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "e1e9aedf3f911600b75ccc7642505d09bb0f97b0",
-        "version": "v3.44",
+        "sha": "3bf43dca65e4e0a177a1a487823eb97244490d0c",
+        "version": "v3.45",
         "pre_release": "false"
     },
     "Sui": {
