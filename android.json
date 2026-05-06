@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "3584853bb8dc497682745a622bbd797feec29b0e",
+        "sha": "91de846a01a025b77ad08694ab931de16c67f3a4",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "fa6eb3b03df2c0a01035c118fee8faf867825b24",
+        "sha": "f8c273b2c758bec735ab8e9da85a3aebbdf1ee3b",
         "version": "3.9.0-beta02",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "e5cecdf0c0087cb8971f26a3821d846751013ffa",
+        "sha": "e1e9aedf3f911600b75ccc7642505d09bb0f97b0",
         "version": "v3.44",
         "pre_release": "false"
     },
@@ -268,14 +268,14 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "60091bcfc68bdc42b3d728d32c68c35e113d8ca8",
+        "sha": "13d7a9b71c9e9c7e1c3ca5d16d4a61356f424952",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "bd9a630b2a0061cdc4ba1a3532136606be80bec0",
+        "sha": "deff9fc3a198a52ccc3dd4d209fee930b8a13e54",
         "version": "v4.0.0-beta.4.3",
         "pre_release": "true"
     },
