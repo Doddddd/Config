@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5b8adfbdb03250daab7ac32a4a6af014fef02eee",
+        "sha": "bb877e4b261412a73e7d0f003dc2223d8fe28292",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "7512caab3e8b497d2fb4faf9cba04a7f3f3dea4c",
+        "sha": "eae8250c4f618b8149d6fd47c83f9a3ddf89904a",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
