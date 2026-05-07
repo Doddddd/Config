@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f8c273b2c758bec735ab8e9da85a3aebbdf1ee3b",
+        "sha": "746a831ebcd2ec92fc1c2832be6a038e89e5d091",
         "version": "3.9.0-beta02",
         "pre_release": "true"
     },
@@ -177,7 +177,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "725f1d3929588ffeffbdd9debc85d8601e18dbc3",
+        "sha": "c5da27363e7240cd5eb4c440284cb8a0d04b4186",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -268,15 +268,15 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "eae8250c4f618b8149d6fd47c83f9a3ddf89904a",
+        "sha": "280f07363d2862a8ee98cc67a20d519513b06365",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "deff9fc3a198a52ccc3dd4d209fee930b8a13e54",
-        "version": "v4.0.0-beta.4.3",
+        "sha": "9f880ad2d614546a81a0a0a40c043c60598e73c7",
+        "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
     "TMoe": {
