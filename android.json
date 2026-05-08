@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "91de846a01a025b77ad08694ab931de16c67f3a4",
+        "sha": "c0660eb66c4bea0b6158a5b155e6602672bf026d",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "885128997120db8205ff172941fd0615b999db5c",
+        "sha": "a097966eeee97da0ba819561d9b376ffb0759a33",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
@@ -105,8 +105,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "746a831ebcd2ec92fc1c2832be6a038e89e5d091",
-        "version": "3.9.0-beta02",
+        "sha": "8b86c171ad035cce103e87dbf339bf9c77b8b9dc",
+        "version": "3.9.0-rc01",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "84857f918c88a59218794cc8fef33683bfe693b8",
+        "sha": "799269c4477e140c2a07d9150e5c7777ee5e6505",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "280f07363d2862a8ee98cc67a20d519513b06365",
+        "sha": "1e0bda6c76c6c1218842661fe8592b2fb079ea15",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
