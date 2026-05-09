@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "987187d66f6115174fa8031bc573fe3fe44abe3a",
+        "sha": "889f082e99d6f020df3edf1634fc10615201ff20",
         "version": "v2.10",
         "pre_release": "false"
     },
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "a097966eeee97da0ba819561d9b376ffb0759a33",
+        "sha": "1d42dfa477dde49842f2f58f8ce305e860a4cc61",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4c22111ec552161244e04f7a913a66a010e1ac2c",
+        "sha": "000e7e71b018386470a47c6493d7d63584e7acb4",
         "version": "3.9.0-rc01",
         "pre_release": "true"
     },
@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "bb877e4b261412a73e7d0f003dc2223d8fe28292",
+        "sha": "9c3519046f1c186f3bf46e379b3bf468600d89e3",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "5ad2dd8574b794ac3beb6e2abbfef3d9f664fcf9",
-        "version": "v3.45",
+        "sha": "2011992d76755a5d2c4595a1a226d34a487e2ac5",
+        "version": "v3.46",
         "pre_release": "false"
     },
     "Sui": {
@@ -268,7 +268,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "17a9170f1a772dc561002300657c062cb70b4fe6",
+        "sha": "607e9fff3176b4d56bded26c12740ff60ed5a8a7",
         "version": "THUNDERBIRD_18_0",
         "pre_release": "false"
     },
