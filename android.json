@@ -14,7 +14,7 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "66c74e7f6093bc738f6edb6cd1fdba15725b5bf6",
-        "version": "v5.5.0-alpha02",
+        "version": "v5.5.0-alpha03",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -202,8 +202,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "fab34df9730ad4b05a84286fcde7744d8806f276",
-        "version": "2.0.7",
+        "sha": "1a45b5cb4ac8a1e082d72040c8a12b954b267bbb",
+        "version": "2.0.7.1",
         "pre_release": "false"
     },
     "PixEz": {
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "f97d1bb0dd359a3238f1015159097f96ec899332",
+        "sha": "4882504e354c042a4d81782b24483909382d3ac1",
         "version": "v1.6.0",
         "pre_release": "false"
     },
