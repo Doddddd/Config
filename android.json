@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "889f082e99d6f020df3edf1634fc10615201ff20",
+        "sha": "f29a196642aad673a22a66a9d41525eed7e6fa0e",
         "version": "v2.10",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "d74153f93658e56b6bda1fef8a0cc536a6c37b24",
+        "sha": "00955fe75d8d9347798099c4711f7c1df3707094",
         "version": "v2.19.2",
         "pre_release": "true"
     },
