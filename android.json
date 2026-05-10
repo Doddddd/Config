@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "f29a196642aad673a22a66a9d41525eed7e6fa0e",
+        "sha": "993ba966775bf717e0c8a276fb9d9a4be7a780e5",
         "version": "v2.10",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "799269c4477e140c2a07d9150e5c7777ee5e6505",
+        "sha": "f97d1bb0dd359a3238f1015159097f96ec899332",
         "version": "v1.6.0",
         "pre_release": "false"
     },
