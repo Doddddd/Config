@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "a5cced35f07f09e2a35ad0322c7af79165945347",
+        "sha": "59ee36a0da117563b435e239302b08b2538720c4",
         "version": "v2.19.2",
         "pre_release": "true"
     },
