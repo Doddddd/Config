@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v126",
+        "version": "v127",
         "pre_release": "false"
     },
     "Animeko": {
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "993ba966775bf717e0c8a276fb9d9a4be7a780e5",
+        "sha": "f6d5a31e37a4198ad69249460d1b828648648842",
         "version": "v2.10",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0544f475962fd7f27d27ae24a7ab3ee2a8d7538a",
+        "sha": "f9c7823e3e9a6034c236a3b275132878cbae7f9f",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "2011992d76755a5d2c4595a1a226d34a487e2ac5",
+        "sha": "7fd5332d1861b6849bb0590fd0171e301d6d17f5",
         "version": "v3.46",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "00955fe75d8d9347798099c4711f7c1df3707094",
+        "sha": "431cfc053a3e436cb8bd0d483fd3f9cdb8204d84",
         "version": "v2.19.2",
         "pre_release": "true"
     },
