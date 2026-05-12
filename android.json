@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f2ffc99d936770f6849b1ab48e6d81fae937b1e2",
+        "sha": "c1b1295173d7bf1adeae4be0ce32a865a75cb69a",
         "version": "v5.5.0-alpha03",
         "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "c0660eb66c4bea0b6158a5b155e6602672bf026d",
+        "sha": "5223ae4c714c44c7197c7d4ffd99237d0bb9a894",
         "version": "4.8.1",
         "platform": "gitlab",
         "pre_release": "false"
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "a0f7ade882f525f6c82daa82f2c699dc45aa0437",
+        "sha": "c35081bba4ca16781606b99e1106310e5ffbbf1c",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,8 +105,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6add213d61462e0e3dad6d25e966fb5440a8849d",
-        "version": "3.9.0-rc01",
+        "sha": "486f1fef213cd4e8b500715a67a1deb5c5d17f69",
+        "version": "3.9.0-rc02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0efe3cf0b6402c9cdcbe7f39a4c7131ee2a7a733",
+        "sha": "3f388ef137c78e1ca0c92c0ada3b8717cdcc4302",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "9c3519046f1c186f3bf46e379b3bf468600d89e3",
+        "sha": "b4a3ec0b32c123637b5fe5f394b2a2ca58368c19",
         "version": "v0.19.9",
         "pre_release": "false"
     },
