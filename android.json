@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "d7c16ecd428105d2edcd84b216511ae722c007bb",
+        "sha": "a616468c1196ed90103bbf14b0f119b1b99e61d9",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "486f1fef213cd4e8b500715a67a1deb5c5d17f69",
+        "sha": "d5a50e619dbd0bac57fca5f9289e845b27bea2e1",
         "version": "3.9.0-rc02",
         "pre_release": "true"
     },
