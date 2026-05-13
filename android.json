@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f2da6acdf7d74ae46f6bd3fb2d5120708bf3d93b",
+        "sha": "91b0bc8faf2afc75ac1bd5a80d1393087333d519",
         "version": "3.9.0-rc02",
         "pre_release": "true"
     },
@@ -147,7 +147,7 @@
     },
     "LSPosed": {
         "repo": "re-zero001/LSPosed-Irena",
-        "sha": "99561d6409709878067047261eb18bfa56a6290c",
+        "sha": "76a786e597cdc56d317afe6b5712686864a62a67",
         "version": "1.9.2",
         "pre_release": "false"
     },
