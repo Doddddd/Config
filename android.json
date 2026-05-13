@@ -14,7 +14,7 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "15def0f3b5dd77744f7abc2501da1628015ed617",
-        "version": "v5.5.0-alpha03",
+        "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "6332a9b52962411cdb314b54e89a51598fc31381",
+        "sha": "930d04fed5d17e2d85f4a9129059dac2450df5d7",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
