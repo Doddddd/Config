@@ -19,10 +19,10 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "1d0e1892597da06ccefd169884269d9ea88ff5d5",
-        "version": "4.8.1",
+        "sha": "e9be2c8293e02cc362d603df6b12b019fdb849f2",
+        "version": "4.8.3",
         "platform": "gitlab",
-        "pre_release": "false"
+        "pre_release": "true"
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "ea5bd4c78cd36682a5a294b15e6cf9ca97d58893",
+        "sha": "34265e12cb3b946a24acfcb3b42eaf3487ed091e",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
