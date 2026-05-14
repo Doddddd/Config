@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "00ddba54bbf8a83fe5610bc33972807e68b5ac81",
+        "sha": "512e19d0eb45efdde48a688295faedcbfc4f93a5",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "930d04fed5d17e2d85f4a9129059dac2450df5d7",
+        "sha": "cb9aa9edb00c05a96d8ef1aa5e9f8a2114cb0cb2",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "c54964b2681d8da6a83fff180606d5be08103d22",
+        "sha": "c2ab378077df491902d15985f73551a224b7e282",
         "version": "2.5.3",
         "pre_release": "false"
     },
