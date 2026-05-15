@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "de95fdce610a09b2dd07cdd6f9c1468d667ddb09",
+        "sha": "793ba7bca018a46226eae30d080ac80a794a66bb",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "24769e144f8170cd9a9cd832f0d3a6c903bb79b9",
+        "sha": "b33fdf14afa1b0d06b5ceb38f836b03d3a805d55",
         "version": "2.0.7.1",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "2997a7caec0cc0e479f7fff71431a18e0d513c09",
+        "sha": "bd08af0c53e9b442cf8f350b7237939b170e4a47",
         "version": "v2.19.2",
         "pre_release": "true"
     },
