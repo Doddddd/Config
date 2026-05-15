@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "70ab27e76014e5e528de5393b82d29aae00c8e6c",
+        "sha": "e603717c9c80ca0d76417ea12279ed0044cc388e",
         "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "512e19d0eb45efdde48a688295faedcbfc4f93a5",
+        "sha": "b27a09319824b4fbbb190c6d453cdea379de614e",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "793ba7bca018a46226eae30d080ac80a794a66bb",
+        "sha": "d868e7158dcecc17222e89d39618f06e0d931be2",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -135,7 +135,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "c2ab378077df491902d15985f73551a224b7e282",
+        "sha": "e5e52f459bcf72eef1224b2d1bed387059d770bc",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -202,8 +202,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b33fdf14afa1b0d06b5ceb38f836b03d3a805d55",
-        "version": "2.0.7.1",
+        "sha": "ad6c0e0d157650a76d22c3634cd93f433ed6eeb0",
+        "version": "2.0.7.2",
         "pre_release": "false"
     },
     "PixEz": {
@@ -220,7 +220,7 @@
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "19d49733d44eaa8f6ae3ad94589dd682c00437cc",
+        "sha": "59e6f66bcf2be2e0098b87c29624ecbccd496cb8",
         "version": "0.16.1",
         "pre_release": "false"
     },
