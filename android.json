@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "8f7814b2fcca0e0f3683af9dc9bd86b3b231979d",
+        "sha": "92a3aaf85af58547a84d89cefe3feb172d24ea61",
         "version": "v2.11.27",
         "pre_release": "disable"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "ad6c0e0d157650a76d22c3634cd93f433ed6eeb0",
+        "sha": "859f14423e42fda46b6ac39d796ba83114b4f64b",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
