@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "bc5de1d96f14cf16ddd2ce57b04ccb6938511066",
+        "sha": "56df8ec47ea6aeae196c04124a0ca07011262764",
         "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c7260aa8d34bc98d9a8beeb69426022377c0843a",
+        "sha": "5659f99a5583d50111d3aa63319d24d702c06526",
         "version": "3.9.0",
         "pre_release": "false"
     },
