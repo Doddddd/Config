@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "c35081bba4ca16781606b99e1106310e5ffbbf1c",
+        "sha": "cc608d0736e665f0997ba8dd599ba175b5fa6ce6",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,9 +105,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "91b0bc8faf2afc75ac1bd5a80d1393087333d519",
-        "version": "3.9.0-rc02",
-        "pre_release": "true"
+        "sha": "c7260aa8d34bc98d9a8beeb69426022377c0843a",
+        "version": "3.9.0",
+        "pre_release": "false"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "89479c5cd50518b9808475ec954ad093efa2f3f8",
+        "sha": "a1a039726f306cbe166e14abac81472d2aa1ff0c",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -147,8 +147,8 @@
     },
     "LSPosed": {
         "repo": "re-zero001/LSPosed-Irena",
-        "sha": "76a786e597cdc56d317afe6b5712686864a62a67",
-        "version": "1.9.2",
+        "sha": "cd1a1d96ab5e4bd33597888ade59eed06bf1872a",
+        "version": "2.0.0",
         "pre_release": "false"
     },
     "Magisk": {
@@ -171,7 +171,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "b4a3ec0b32c123637b5fe5f394b2a2ca58368c19",
+        "sha": "48179083f161b1971256d3fb2c60d736a917b26f",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -226,8 +226,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "7fd5332d1861b6849bb0590fd0171e301d6d17f5",
-        "version": "v3.46",
+        "sha": "efc2f39b2ec73763298d77e26052155211039aa5",
+        "version": "v3.47",
         "pre_release": "false"
     },
     "Sui": {
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "9a2f5a5e8604001724211b64fc89d7f7e5e7299b",
+        "sha": "2997a7caec0cc0e479f7fff71431a18e0d513c09",
         "version": "v2.19.2",
         "pre_release": "true"
     },
