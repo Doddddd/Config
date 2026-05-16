@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "56df8ec47ea6aeae196c04124a0ca07011262764",
+        "sha": "f386341a196a8aa834a6aee09f4799ff9dd235d6",
         "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
@@ -244,7 +244,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "34265e12cb3b946a24acfcb3b42eaf3487ed091e",
+        "sha": "68dd0a5170999fa33c884cb58a8d1679234cc9a3",
         "version": "1.96.4-t8cf541dfd-g980f12083",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "bd08af0c53e9b442cf8f350b7237939b170e4a47",
+        "sha": "a4337e820c266215ac02434a8d07034a783ab8e8",
         "version": "v2.19.2",
         "pre_release": "true"
     },
