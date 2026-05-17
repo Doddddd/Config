@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "7171ac5d1dd0a83f6bfcb3e60c68ed1962848fdf",
+        "sha": "3b753fae31e791062e98023a8038c6e9697e3694",
         "version": "v2.11",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "4882504e354c042a4d81782b24483909382d3ac1",
+        "sha": "48ec9fa52a6e9eb209b0c044c544475c370aed45",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "cb7153cac1280dcca7bef65869aeb51b5a93fb09",
+        "sha": "9fa043a1875a3f58815f05e9dfccccbd304ea8ef",
         "version": "v2.19.2",
         "pre_release": "true"
     },
