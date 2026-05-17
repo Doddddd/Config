@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "a69c23c808435141edd119f4498abb8d49514e52",
+        "sha": "7171ac5d1dd0a83f6bfcb3e60c68ed1962848fdf",
         "version": "v2.11",
         "pre_release": "false"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "92a3aaf85af58547a84d89cefe3feb172d24ea61",
-        "version": "v2.11.27",
+        "sha": "686ded246901dfbf22b3e9bc1feb0fc338903207",
+        "version": "v2.11.28",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -166,7 +166,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.24",
+        "version": "v1.19.25",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "a1623ea394efc6059c36d6be394714b523f6a88a",
+        "sha": "cb7153cac1280dcca7bef65869aeb51b5a93fb09",
         "version": "v2.19.2",
         "pre_release": "true"
     },
