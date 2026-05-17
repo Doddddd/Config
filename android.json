@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "41e66d71668b70b414b0c7c5a44c44015af57ee8",
+        "sha": "0be324c3431602689eeba9fa4205f113b89160ee",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "3a1e6ce9abf369082559b83406bdef02301a1bb4",
+        "sha": "c764807daceaaa179a53f3c5d1ad90789221fc82",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "9fa043a1875a3f58815f05e9dfccccbd304ea8ef",
+        "sha": "3fd089fbf87bf94017bc508707141e584812bce6",
         "version": "v2.19.2",
         "pre_release": "true"
     },
