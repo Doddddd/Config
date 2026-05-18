@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v127",
+        "version": "v128",
         "pre_release": "false"
     },
     "Animeko": {
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "bf714d23454897f564e1cc7802f500a1851f0c4c",
+        "sha": "835aacf64cfb359ed3ee3e1261e3be4005a552f9",
         "version": "3.9.0",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "9f880ad2d614546a81a0a0a40c043c60598e73c7",
+        "sha": "bd6ea190a99e88ed86bb13dbb36ea4bbb6edd2d8",
         "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "3fd089fbf87bf94017bc508707141e584812bce6",
+        "sha": "255564844e53c69ac43604ac5b737e5e4e8adbb9",
         "version": "v2.19.2",
         "pre_release": "true"
     },
