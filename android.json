@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7d5f97d5760db0e75974c32132a85409b76162c7",
+        "sha": "1b7c5e6322a2a98f763ec6dfd106baf1e1173807",
         "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
@@ -287,7 +287,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "255564844e53c69ac43604ac5b737e5e4e8adbb9",
+        "sha": "e5e7c99ae216d474640600a848ebc00c39247e40",
         "version": "v2.19.2",
         "pre_release": "true"
     },
