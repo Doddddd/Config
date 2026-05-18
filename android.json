@@ -99,7 +99,7 @@
     },
     "Hydrogen": {
         "repo": "zhihulite/Hydrogen",
-        "sha": "fb3bc51f8fbf2fdec5b543d1f426628f85174586",
+        "sha": "806179fbcb61a1be3d6049a11e50636cb6f64350",
         "version": "archive-final7-original",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "0c308a7001bf3ad01b69e5e8ddad433b8a0ab8f5",
+        "sha": "cc169db12b74d39c90575653ce407dfac519f4ca",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
