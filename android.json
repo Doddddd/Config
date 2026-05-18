@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "1b7c5e6322a2a98f763ec6dfd106baf1e1173807",
+        "sha": "c60f02bdaf03ba7a700a8abb1964ff2f5fcaa0dd",
         "version": "v5.5.0-beta01",
         "pre_release": "true"
     },
@@ -214,7 +214,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "48ec9fa52a6e9eb209b0c044c544475c370aed45",
+        "sha": "063935af7db2f8baed11fe39333b4052579bc925",
         "version": "v1.6.0",
         "pre_release": "false"
     },
