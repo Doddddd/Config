@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "b27a09319824b4fbbb190c6d453cdea379de614e",
+        "sha": "3a1a7ae1c84c9ddfdb839a580583df793057066e",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "835aacf64cfb359ed3ee3e1261e3be4005a552f9",
+        "sha": "b69f6a80f36bc8a74eaf0db15edb3bf4765281bd",
         "version": "3.9.0",
         "pre_release": "false"
     },
