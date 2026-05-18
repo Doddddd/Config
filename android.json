@@ -97,12 +97,6 @@
         "version": "V3.6.1",
         "pre_release": "false"
     },
-    "Hydrogen": {
-        "repo": "zhihulite/Hydrogen",
-        "sha": "13e6f0cbe3f8232b5983b9b502c1aef19c0eca59",
-        "version": "archive-final7-original",
-        "pre_release": "false"
-    },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "b69f6a80f36bc8a74eaf0db15edb3bf4765281bd",
