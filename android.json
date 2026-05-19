@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "3b753fae31e791062e98023a8038c6e9697e3694",
+        "sha": "a8c56573fd927a1b57e83b3fb0843b07df15b8d2",
         "version": "v2.11",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e5e52f459bcf72eef1224b2d1bed387059d770bc",
+        "sha": "79f0d38f8f7e7b02c62d7d6e6dd967d480bd3600",
         "version": "2.5.3",
         "pre_release": "false"
     },
