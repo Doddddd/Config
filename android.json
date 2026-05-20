@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "80d63f966650b58ccd40dc5df960fe0249fda78f",
-        "version": "3.9.0",
-        "pre_release": "false"
+        "sha": "15f9bd30f6f83025345201f6487473586c15c2e7",
+        "version": "3.9.1-alpha01",
+        "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "44658b6949328dab732cd49c125bdd582f4a5fef",
+        "sha": "7a936a9b517af9bba6392225875b983ac1f0b0b9",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "79f0d38f8f7e7b02c62d7d6e6dd967d480bd3600",
+        "sha": "1cbdd74091dd5bcc8fcdc2bd76ab9aeb06d212e0",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "e5e7c99ae216d474640600a848ebc00c39247e40",
+        "sha": "ec1f0ed9e28166c0e9367fb04bb368ffd59c928f",
         "version": "v2.19.2",
         "pre_release": "true"
     },
