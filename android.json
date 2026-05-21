@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "2b25cef26a0bea05fecb6c8017d615992e270149",
+        "sha": "0ee29f2d364cef2e7ce392455bf6c69573ab1c85",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8c473ed958b93d66e185881c9e5ee276247a2d3d",
+        "sha": "4a823eb3e3878161a437b18e49bcac3514406913",
         "version": "THUNDERBIRD_19_0b2",
         "pre_release": "true"
     },
