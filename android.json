@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e97c20cd551bc772cdf7e38b628f038c27fdbfc0",
+        "sha": "2b25cef26a0bea05fecb6c8017d615992e270149",
         "version": "2.5.3",
         "pre_release": "false"
     },
