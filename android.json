@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "fa4156c2c841a481d4d18388f425fce5596fbe02",
+        "sha": "1a4a3a864cfd826149840d727957d3b4b262b186",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "45202c26705e9afdb10cc4185e88243d0b0f220f",
-        "version": "3.9.1-alpha01",
+        "sha": "037822d1753e39c5a9cddd312a2b8f6f540376ac",
+        "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
     "InstaEclipse": {
