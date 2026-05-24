@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "d4fe544450248b32d93f46cd339c47e678875d5e",
+        "sha": "8101ae400d2ca30be42f557124ef77fccc5e6667",
         "version": "v5.5.0-beta02",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3bba6c76523db9776a8f4053ce6ad6c5e3eea56c",
+        "sha": "45202c26705e9afdb10cc4185e88243d0b0f220f",
         "version": "3.9.1-alpha01",
         "pre_release": "true"
     },
@@ -179,7 +179,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "a44e65e7094b7df479aa274228cc2ab68e7d330f",
-        "version": "v0.28.6",
+        "version": "v0.28.7",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "74193b2fb93fd172397835caa8f0031ec394bc04",
+        "sha": "67941eefbee42a051eaf313ffd43fcfd12d956d4",
         "version": "v2.19.2",
         "pre_release": "true"
     },
