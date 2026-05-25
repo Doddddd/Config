@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "3a1a7ae1c84c9ddfdb839a580583df793057066e",
+        "sha": "9c048a001dcf5c429708a4528a5dd8a4082a8d06",
         "version": "v4.0.10",
         "pre_release": "false"
     },
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "9cb957d073f361847dba397baec6756096cc670d",
+        "sha": "e4a932de3a40f6b15f3315bc65f2adf1d1741ed0",
         "version": "v2.19.2",
         "pre_release": "true"
     },
