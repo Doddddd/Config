@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "a8c56573fd927a1b57e83b3fb0843b07df15b8d2",
+        "sha": "8d4c3c0d420b2c494f8ee5963319bc6de24c301f",
         "version": "v2.11",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "3b68fe467dbb8a839fec600eae242ecf23076344",
+        "sha": "56756c5c85cdecc64c25d2ceab5c62eb41d26fd6",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
@@ -281,8 +281,8 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "54a5da6245b6962f202a83f2640a51321a995783",
-        "version": "v3.0.0",
+        "sha": "46479773403995004d68a3c323d64c9f0d51a4a8",
+        "version": "v3.0.1",
         "pre_release": "true"
     },
     "Zhiliao": {
