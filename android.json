@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "b1bdf61bf016068b10f1544ab47c3415692d0f6d",
-        "version": "v5.6.0-alpha01",
-        "pre_release": "true"
+        "version": "v5.5.2",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -208,7 +208,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "b27b9304127ba1500dcfb5d2c90323e9be38939e",
+        "sha": "f7b9926a6ada07b56148745cd300e5381d74173b",
         "version": "v1.6.0",
         "pre_release": "false"
     },
