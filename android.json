@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "1d84f21ac6b351d8c0fea0ab755f61c1901be62b",
-        "version": "v3.0",
+        "sha": "c4710fd9f4772fc23ca9b13cfa8bae6152fb23dd",
+        "version": "v3.1",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "1bf6ff19163d0a175c6c16696dca329e7fcdf9f1",
+        "sha": "b43637ac8ad61163faae5fdce5d0512b4eabaa4d",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "efc2f39b2ec73763298d77e26052155211039aa5",
+        "sha": "37352230c41aa8e64f84521caedc8b428faad840",
         "version": "v3.47",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "68dd0a5170999fa33c884cb58a8d1679234cc9a3",
+        "sha": "8fb1ef91c62dc7535a579b53a2e088e408c8fa09",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d78aa2d5e613bb9a690073c34a5805144fcc0ef6",
+        "sha": "2ddcad9a3063effc5c8f4aa6d25d8c67002f1497",
         "version": "THUNDERBIRD_19_0b2",
         "pre_release": "true"
     },
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "46479773403995004d68a3c323d64c9f0d51a4a8",
+        "sha": "a87fa69c763795175c0aeb212cd9642753e5df84",
         "version": "v3.0.1",
         "pre_release": "true"
     },
