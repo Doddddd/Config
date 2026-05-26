@@ -111,7 +111,7 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "8fc3a8c42fcd8b11b0093ecfcd6f8cd495dcb6ad",
+        "sha": "e3676b6c3ac1ed64b5e06fbf027168c55d2481c2",
         "version": "V1.4",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "56756c5c85cdecc64c25d2ceab5c62eb41d26fd6",
+        "sha": "41c8e1a53896d439eb1b2045119be1f8232ac327",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
