@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "b8f087ee535c232715860c594b8891ee335a7832",
+        "sha": "60687a194e6f6cc77f4659cf79a7267334afafdf",
         "version": "v5.6.0-alpha01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "1a4a3a864cfd826149840d727957d3b4b262b186",
+        "sha": "a0ad5607820b69135c7b25be0b628cfe4ee0c292",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "632ded8aa914f50ef904601c0567adb5c8164d3e",
+        "sha": "09cf89d5cf149d0f7d32a0ab00da453f1c087810",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "96a72dd0107d660adcb273ab1911e1e77d87e562",
+        "sha": "1bf6ff19163d0a175c6c16696dca329e7fcdf9f1",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "c5de160db09f43440c06587b4fbc7c5f5890c8cb",
+        "sha": "04573b6067b482e54315b7ede333686a000b4df9",
         "version": "0.9.100",
         "pre_release": "false"
     },
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "73b156bf34bf36409c76249f1a226c294afec556",
+        "sha": "54a5da6245b6962f202a83f2640a51321a995783",
         "version": "v3.0.0",
         "pre_release": "true"
     },
