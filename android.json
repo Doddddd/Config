@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "bdccc7dd09f89457b66c432d28eaabe59babd0ac",
+        "sha": "c675dd0febcba77e6bc585caeb4f98851b048d3d",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -111,8 +111,8 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "e3676b6c3ac1ed64b5e06fbf027168c55d2481c2",
-        "version": "V1.4",
+        "sha": "d8492393b1a549b1c06abc5d8347102f50715658",
+        "version": "V1.5",
         "pre_release": "false"
     },
     "KernelSU": {
@@ -221,7 +221,7 @@
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
         "sha": "37352230c41aa8e64f84521caedc8b428faad840",
-        "version": "v3.47",
+        "version": "v3.48",
         "pre_release": "false"
     },
     "Sui": {
@@ -263,8 +263,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "2ddcad9a3063effc5c8f4aa6d25d8c67002f1497",
-        "version": "THUNDERBIRD_19_0b2",
-        "pre_release": "true"
+        "version": "THUNDERBIRD_19_0",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "a87fa69c763795175c0aeb212cd9642753e5df84",
+        "sha": "275ce90a94a5c9aecfcb7d0699ab97f19d1b06a3",
         "version": "v3.0.1",
         "pre_release": "true"
     },
