@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "5aa08691320de966f07c6c42cb575bb3cb98ca99",
+        "sha": "292f1b8b985780ba83f4443475461a9c6829cc7a",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "8fb1ef91c62dc7535a579b53a2e088e408c8fa09",
+        "sha": "3551106989ea0b71e481f96b000aa5db8e2fcabc",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
