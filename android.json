@@ -220,8 +220,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "37352230c41aa8e64f84521caedc8b428faad840",
-        "version": "v3.48",
+        "sha": "d1e2b1c23cd121b4601a46f2f2b4069988dcb31f",
+        "version": "v3.49",
         "pre_release": "false"
     },
     "Sui": {
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "275ce90a94a5c9aecfcb7d0699ab97f19d1b06a3",
+        "sha": "4e957fbdaf35a8e45871973e1eed470974a1c58d",
         "version": "v3.0.1",
         "pre_release": "true"
     },
