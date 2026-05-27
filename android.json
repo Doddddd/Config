@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "51783078f19115244b3cd0d2aebc5bf20239bb4d",
+        "sha": "1974ad6b0d78311f41882d7b60e55bee7c7274ad",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -262,7 +262,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2ddcad9a3063effc5c8f4aa6d25d8c67002f1497",
+        "sha": "d132f0bb04c5445d03bee7ea4bd082178a0afcba",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
