@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "a0ad5607820b69135c7b25be0b628cfe4ee0c292",
+        "sha": "df9b30e0098702e5d25d22a70ecdaabec507209d",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "33dcf82d19b2288c85fe13fea709b585991035d2",
+        "sha": "9ab31068345d5811160d74ff0dec79c51b1ce9c3",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e13068bf687e1a6e3533e48d51538421a0d49593",
+        "sha": "2c96ca557e61c445ed9fcb23138d3db3dd5e1d5e",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "3551106989ea0b71e481f96b000aa5db8e2fcabc",
+        "sha": "409cbb84458d8010e518070c2ba5ab92db8c17c2",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -281,7 +281,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "4e957fbdaf35a8e45871973e1eed470974a1c58d",
+        "sha": "3db5e24cd1939d0b17141dd9135c0d32fa101774",
         "version": "v3.0.1",
         "pre_release": "true"
     },
