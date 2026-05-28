@@ -121,12 +121,6 @@
         "version": "v3.2.4",
         "pre_release": "false"
     },
-    "Legado": {
-        "repo": "gedoor/legado",
-        "sha": "9bb0569269ed557753fc3866250970de6d454fcf",
-        "version": "beta",
-        "pre_release": "true"
-    },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
         "sha": "2c96ca557e61c445ed9fcb23138d3db3dd5e1d5e",

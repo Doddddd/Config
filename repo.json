@@ -5,6 +5,12 @@
         "version": "",
         "pre_release": ""
     },
+    "Legado": {
+        "repo": "gedoor/legado",
+        "sha": "9bb0569269ed557753fc3866250970de6d454fcf",
+        "version": "beta",
+        "pre_release": "true"
+    },
     "LSPosed": {
         "repo": "LSPosed/LSPosed",
         "sha": "df74d83eb03a44cc6ad268841ac2ada28d077c77",
