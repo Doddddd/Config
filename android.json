@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "df9b30e0098702e5d25d22a70ecdaabec507209d",
+        "sha": "c613f09e97e3df66c4d191375aa152eec93b1382",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "092c908e7335f1b95a25957cecd2804bb6c9ae20",
+        "sha": "3456cad6c6b83c33acd888262e24dd2ea1cb65d4",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
