@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "b1bdf61bf016068b10f1544ab47c3415692d0f6d",
-        "version": "v5.5.2",
+        "sha": "be350c54e56d365aa2696066075a4c788f11d6d0",
+        "version": "v5.6.0",
         "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "0b0a537841edff7b9b783f7ad9a6c0e7995b696b",
+        "sha": "04463ef437e2904992fb1a3d710a13034dfe4a1f",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "397e5e53860f4972d1d9c19614b8da8c817cb40a",
+        "sha": "0f59dcffc5b338b836bd7dbf582af06d409f9156",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -129,7 +129,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "7398e4b7de784cb3941c5133500e9549de1a02e5",
+        "sha": "53cb73f12ce20578665bc7e011baf86ce989dcfd",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "1d9dcd84d988f6b080b753f405b9f1a358b3845b",
+        "sha": "092c908e7335f1b95a25957cecd2804bb6c9ae20",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "3d1eaecb19a808e5d8b6051ac73b52af58960ece",
+        "sha": "85e9ebc3d6d9e8bc30728d1e1188fdbc0d461340",
         "version": "v3.0.1",
         "pre_release": "true"
     },
