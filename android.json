@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "35f17b24b205e9c78203c1067718de1437d2de7d",
+        "sha": "d481bb07bc97c33f217ca0abb854cc4e670cfe5b",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2e350dbd6eb909baa6001a538170db79724500a9",
+        "sha": "78e7ff7827980081c7470ae77a6eb01bdd295dd4",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "9e0fd385fb013fb5f680854f07c6e20690b7bdeb",
+        "sha": "240ba99d106226ca900b3faae19521de638a953e",
         "version": "v3.0.1",
         "pre_release": "true"
     },
