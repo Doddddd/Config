@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "04463ef437e2904992fb1a3d710a13034dfe4a1f",
+        "sha": "e3aaf9d8c0714ef25c4b9030eeabf8bee38a64c1",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ae3aa7926ac36dd9b80ae5ec14de8be434e1baaa",
+        "sha": "0b564f1f20f7e1f1acd23cd2e85c25b7df3f4cbd",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "6a75061dbb5ad99a4eea776ec9a3efc8046c8d57",
+        "sha": "d4d9fc3405a1d585083f81e6a89730749416ca5d",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "a107b92075dc2dc32dbacf8a46ff74433eb1ec4f",
+        "sha": "109c7e6ffe8814868f8fc1065431eb71a12ee2f0",
         "version": "0.9.100",
         "pre_release": "false"
     },
