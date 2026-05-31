@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d481bb07bc97c33f217ca0abb854cc4e670cfe5b",
+        "sha": "23fb7aee09cd4d5d2e5b44b7558962a14bdbf76c",
         "version": "3.9.1-alpha02",
         "pre_release": "true"
     },
@@ -129,7 +129,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "729f151a24773e546ecf8d12355a6d665336e395",
+        "sha": "a9baf266b3d709f5e59f613d7770bde88553a73d",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "109c7e6ffe8814868f8fc1065431eb71a12ee2f0",
+        "sha": "ee3d1f35bb9e5e5a96029bc01677820e5f65c17b",
         "version": "0.9.100",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "240ba99d106226ca900b3faae19521de638a953e",
+        "sha": "19912139c60bae994d2c65c0cb9d5f1c39697420",
         "version": "v3.0.1",
         "pre_release": "true"
     },
