@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "d4d9fc3405a1d585083f81e6a89730749416ca5d",
+        "sha": "bee04fb2b0ba99a7f5d14415c42ea80da31b5623",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "ee3d1f35bb9e5e5a96029bc01677820e5f65c17b",
+        "sha": "3407ec8a6d613a0f6a52fff153d3ff458de5fdea",
         "version": "0.9.100",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "0aa1af6f28cea6d934db580c994dfbfab56ed842",
+        "sha": "4ae9c79627a8fe36b5c9f4c7f9f8d9da233853e0",
         "version": "v3.0.1",
         "pre_release": "true"
     },
