@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v129",
+        "version": "v130",
         "pre_release": "false"
     },
     "Animeko": {
@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "e3aaf9d8c0714ef25c4b9030eeabf8bee38a64c1",
+        "sha": "4c49fdc50c69c33f4238f5c2a42e9bd0661fad24",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "b37570c1b757e0619eee7adcbaf8a2d2f7ef34cd",
-        "version": "v2.11.28",
+        "sha": "c05032b734fb2957d0c36bbc08ff899d83959d81",
+        "version": "v2.11.29",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "c613f09e97e3df66c4d191375aa152eec93b1382",
+        "sha": "fed1e7a84f970359a5ea01255f39336038faae48",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -81,13 +81,13 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "068b74e7d8ab64dd42c249633ec8c2f9abc4913e",
+        "sha": "e205195f382268b754c6277da691fbc8e77c1206",
         "version": "0.1.2",
         "pre_release": "false"
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "292f1b8b985780ba83f4443475461a9c6829cc7a",
+        "sha": "2e83c38162eacaed49f567591ced19373a6e353f",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "6dd3ea59f9c463d0d1a788dcf1f86989fdcf92d9",
+        "sha": "f193015304cee78096a108455ad902abe20afbe4",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -154,7 +154,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.25",
+        "version": "v1.19.26",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "bddb304b9bbe3a30824858c8309dbfdb9a996dc1",
-        "version": "0.9.100",
+        "sha": "c1e61ca3996b74837ff187875c683b710cf875c6",
+        "version": "0.9.101",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "d1e2b1c23cd121b4601a46f2f2b4069988dcb31f",
+        "sha": "32d751e3621f6e629a47a6b9d6705b5710cff5a1",
         "version": "v3.49",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "4cb132d658f5010a004e7511ff3999e5bb1ff9c8",
+        "sha": "5cfc744a20ff3007319dc6b28dc8f4f8d7cafbbb",
         "version": "v3.0.1",
         "pre_release": "true"
     },
