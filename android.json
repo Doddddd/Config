@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "fb9568a62856a7d91c5c507ed6c05c7dab161ed5",
+        "sha": "2de59b0c9b908bafc12d6dfbca2f73d15f8f20d4",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "32d751e3621f6e629a47a6b9d6705b5710cff5a1",
-        "version": "v3.49",
+        "sha": "ca8d89181948d59df5d9ef06ad6bc6899bcbf1aa",
+        "version": "v4.0",
         "pre_release": "false"
     },
     "Sui": {
