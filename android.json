@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "fed1e7a84f970359a5ea01255f39336038faae48",
+        "sha": "5d9ef36526cb3f3b77436854483705dd61d798ca",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "5cfc744a20ff3007319dc6b28dc8f4f8d7cafbbb",
+        "sha": "04424a8935fc6b51432207df83aee9244af122da",
         "version": "v3.0.1",
         "pre_release": "true"
     },
