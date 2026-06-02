@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "c05032b734fb2957d0c36bbc08ff899d83959d81",
+        "sha": "71cb215daa8f8fb3ce2a2bdc400459744d883f0b",
         "version": "v2.11.29",
         "pre_release": "disable"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7818a6791f3b457a5e0ead542d43e363319b99f7",
-        "version": "3.9.1-alpha02",
+        "sha": "0fa17f5729cb7adbbd8842f8633638ef89d339c5",
+        "version": "4.0.0-beta02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "f193015304cee78096a108455ad902abe20afbe4",
+        "sha": "dfd7e0ec82661dc46612ce29b0e03426ec2d8186",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "ca8d89181948d59df5d9ef06ad6bc6899bcbf1aa",
+        "sha": "670058dfa90023fc95b04f0c97f907646de37ae8",
         "version": "v4.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "892082e75d8104819b44b30961f53c866a9884ae",
+        "sha": "e4f5b867b05bc62e940ecdd6cfce308aee34c140",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a0f25274f1264e98baf88456838ab88a88157800",
+        "sha": "00297cacb6d38161472ad2295d99b72328f87d36",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
