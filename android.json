@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "4c49fdc50c69c33f4238f5c2a42e9bd0661fad24",
+        "sha": "192eec4173a3baeba6d33cc8826c654ad4153bf7",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "3b9a14c50a68715f92f657b5cd4839f28eeac3dd",
+        "sha": "702ac383770bd89e59d8b4eb331503dafdd491ec",
         "version": "v3.1",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b607e4c46b82a09617c37558e2897e0111579b3f",
+        "sha": "b347c100b702685116ff2b951d800c752088b7e5",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0b564f1f20f7e1f1acd23cd2e85c25b7df3f4cbd",
+        "sha": "748211c19b0a284d87612f63c3419e0ecab0cb8e",
         "version": "v0.19.9",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "c5da27363e7240cd5eb4c440284cb8a0d04b4186",
+        "sha": "0984cb662ae4d7729d42dd536215ef542a3d46e8",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e619946b9c2858aff43d09bf2e91dfee249f9709",
+        "sha": "66a191b018e31a9a5350a865d0c317ea29d8ff3a",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "670058dfa90023fc95b04f0c97f907646de37ae8",
+        "sha": "85496924cc7666ba5c1dd2dbffea400b45973c72",
         "version": "v4.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "e4f5b867b05bc62e940ecdd6cfce308aee34c140",
+        "sha": "dc78d7ac446aaa856fdae0abe0f9bdf42ea5b2f5",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "08e2507bfb327e649bf2f82c997fdde38f7ab2e6",
+        "sha": "49e1eab7e2df55ac83ec02e6e3f8c370ac4843c1",
         "version": "THUNDERBIRD_19_0",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "04424a8935fc6b51432207df83aee9244af122da",
+        "sha": "4549b443febb2a594dfd7fe527dadecf7a01ce18",
         "version": "v3.0.1",
         "pre_release": "true"
     },
