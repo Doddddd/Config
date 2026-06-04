@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "192eec4173a3baeba6d33cc8826c654ad4153bf7",
+        "sha": "f1c5a1deb840e0a25d02993a8f60b41ab8f2e502",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "23781422a39f3d3667dc786421376a73ba9b7075",
+        "sha": "2e3fcfe5cbbf7bf920e94ebd8b6de094516cda7a",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "b446d2a6b1844f24b2d4912ba8be8b4648549f41",
+        "sha": "cd27b1075093736d242a9cf6f226380b7faf58b4",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -208,8 +208,8 @@
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "59e6f66bcf2be2e0098b87c29624ecbccd496cb8",
-        "version": "0.16.1",
+        "sha": "091c9207527a10a135b307c9f7747306da36f686",
+        "version": "0.16.2",
         "pre_release": "false"
     },
     "RSAF": {
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "dc78d7ac446aaa856fdae0abe0f9bdf42ea5b2f5",
+        "sha": "fb8aebdfe53959f72438b912019fd1b3e2881cd9",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -256,8 +256,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9d0e7dd836440874965183b7727ae698149cf3f4",
-        "version": "THUNDERBIRD_19_0",
+        "sha": "13a7624cd13a151534aac1e7baf63f509fccadae",
+        "version": "THUNDERBIRD_19_1",
         "pre_release": "false"
     },
     "TiebaLite": {
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "4549b443febb2a594dfd7fe527dadecf7a01ce18",
+        "sha": "a9edde8e17c27afcf0285db8d15650ebc7c42e4c",
         "version": "v3.0.1",
         "pre_release": "true"
     },
