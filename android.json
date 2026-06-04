@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "cd27b1075093736d242a9cf6f226380b7faf58b4",
+        "sha": "95bc599ac0b3581743fc62aba64d40a55913daaa",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "508384c016a0235d27515851ab432ed00523b718",
+        "sha": "7b01c33657df017e7b39abf66fc8b82b2b9ed67f",
         "version": "2.0.7.2",
         "pre_release": "false"
     },
