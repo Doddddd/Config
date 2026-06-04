@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "71cb215daa8f8fb3ce2a2bdc400459744d883f0b",
+        "sha": "6390d46b6837b556380ae4a5611475fd65d430e0",
         "version": "v2.11.29",
         "pre_release": "disable"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2e3fcfe5cbbf7bf920e94ebd8b6de094516cda7a",
+        "sha": "283b274f43c2ed314e7ec5182a03f3f42e62df7c",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "80574a55e692018842f0f092ed350dbb75e1e4f9",
+        "sha": "01e408db2225bcee9b8cec7266febb09e9800174",
         "version": "THUNDERBIRD_19_1",
         "pre_release": "false"
     },
