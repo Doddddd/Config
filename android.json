@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "dfd7e0ec82661dc46612ce29b0e03426ec2d8186",
+        "sha": "c220e54883bf76045f8b6681648c2608727c5fd9",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -275,8 +275,8 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "a9edde8e17c27afcf0285db8d15650ebc7c42e4c",
-        "version": "v3.0.1",
+        "sha": "699768c5fce02f3828be7e1faed9d43b98743841",
+        "version": "v3.0.2",
         "pre_release": "true"
     },
     "Zhiliao": {
