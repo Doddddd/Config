@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "849c426b2d3bf18c4b5454410d6f0dea70ea949a",
+        "sha": "04f2084fe8dd08cacdcd90a4e2a1f6cb39fbfd52",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "88f0ab1dea02fe0b1edfe2ab0183affcb49573e8",
+        "sha": "50070997de8aa11576e58162d4aaea7ab2bf505b",
         "version": "2.0.8",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e676b57d454e32489352c66a5c49a8d27e21aa35",
+        "sha": "66ba9a3a7407ea211d823da49efdce34383107c6",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "add66f1c0c2731784e56d0f55039e6ed7e4eed06",
+        "sha": "4958b0329e1f6919a334973d304345d1996e4466",
         "version": "v3.0.3",
         "pre_release": "true"
     },
