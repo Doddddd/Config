@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "6390d46b6837b556380ae4a5611475fd65d430e0",
+        "sha": "5b0d0736e3aec40274c3a9330d5aed170e611faa",
         "version": "v2.11.29",
         "pre_release": "disable"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "283b274f43c2ed314e7ec5182a03f3f42e62df7c",
+        "sha": "b6bca48df83e0a9ffda6207d1d02f512b2e7f28b",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "95bc599ac0b3581743fc62aba64d40a55913daaa",
+        "sha": "c612a6ca8d3decb81580059e2d134fa01f5c6cb3",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -250,14 +250,14 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "30ebb2dee381d292ade0f2868cfde0f9f20b89fe",
+        "sha": "401bbe54b8f4e68302b1ff70678015a24628fb1d",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "01e408db2225bcee9b8cec7266febb09e9800174",
-        "version": "THUNDERBIRD_19_1",
+        "sha": "d253351822932448fd87d841db68be134138c7a7",
+        "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
     "TiebaLite": {
@@ -275,8 +275,8 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "699768c5fce02f3828be7e1faed9d43b98743841",
-        "version": "v3.0.2",
+        "sha": "361d7a86ce909761fce8f0e05b200237813b9010",
+        "version": "v3.0.3",
         "pre_release": "true"
     },
     "Zhiliao": {
