@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6d0731e762c2876f5b6238a2e8caa58979efe0a1",
+        "sha": "49a594363491289dd9d6b50906eb4122dedce3d2",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "24ca4ac273b4397217a640db0276328847b0b80c",
+        "sha": "dfd7c3c4c0b65905f2d6f5ddee604bac043eb941",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "0984cb662ae4d7729d42dd536215ef542a3d46e8",
+        "sha": "23dd5098b0159c9b273f2026156e17ba182263cb",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "85496924cc7666ba5c1dd2dbffea400b45973c72",
-        "version": "v4.0",
+        "sha": "d524ee90fd931f67b727afb4bb59abe27e25358e",
+        "version": "v4.1",
         "pre_release": "false"
     },
     "Sui": {
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "fb8aebdfe53959f72438b912019fd1b3e2881cd9",
+        "sha": "b83495b798f6b3475064895de50ce57069cad132",
         "version": "1.98.2-taaf7caef1-g9cc6630cd",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "4958b0329e1f6919a334973d304345d1996e4466",
+        "sha": "55063ef3532415874143a61350633624966042f3",
         "version": "v3.0.3",
         "pre_release": "true"
     },
