@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "5d9ef36526cb3f3b77436854483705dd61d798ca",
+        "sha": "75a584b566cf7e5d56d4968760a896d87ccfa022",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "04f2084fe8dd08cacdcd90a4e2a1f6cb39fbfd52",
+        "sha": "e8663398661fa9e1f2fb2384cf8a8268cb5b0338",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "c44e92dcc8e39d03c85345a59c65165d74bd9299",
-        "version": "2.0.8",
+        "sha": "3b9403a3291a3bde724416a780d8a1c31c2462c6",
+        "version": "2.0.8.1",
         "pre_release": "false"
     },
     "PixEz": {
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "55063ef3532415874143a61350633624966042f3",
+        "sha": "f9e96ed334cebedfdcb7cca75dcdaf840e25c6a3",
         "version": "v3.0.3",
         "pre_release": "true"
     },
