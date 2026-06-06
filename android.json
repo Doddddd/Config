@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "ffda42db3773b4ac86f1f5e5b1e0123d14bfca92",
+        "sha": "d628f332d523fa6601848d679f74e5e66e2e36a6",
         "version": "v2.11.29",
         "pre_release": "disable"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "50070997de8aa11576e58162d4aaea7ab2bf505b",
+        "sha": "c44e92dcc8e39d03c85345a59c65165d74bd9299",
         "version": "2.0.8",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "509ace1a38b3b52c7bdbf9298d5694386d8c6cba",
+        "sha": "e6372b3751888fb012d4a1a802f12c57122111c4",
         "version": "1.12.0",
         "pre_release": "false"
     },
