@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a4697928eb3d7c8181deb1672df2cb74712221c2",
+        "sha": "e445387e3d2cd8495a65bfe9d5fd272c3ed69cc5",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "c612a6ca8d3decb81580059e2d134fa01f5c6cb3",
+        "sha": "f87c4d55e3fb710c9689eb41c862e8bd8b8d504f",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -263,7 +263,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "bd6ea190a99e88ed86bb13dbb36ea4bbb6edd2d8",
+        "sha": "b77b084249234fb85fe42ce33f9d2e75ad2cd64b",
         "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
