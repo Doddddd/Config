@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "e205195f382268b754c6277da691fbc8e77c1206",
+        "sha": "d0364b83874f56089551d07a22edc82f78bcf124",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "aec31844bc3b225c85664ec0318f2657e46eeec3",
+        "sha": "a4697928eb3d7c8181deb1672df2cb74712221c2",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "c1e61ca3996b74837ff187875c683b710cf875c6",
+        "sha": "04142d3c07e6d58b2b4092b638e06b954376d880",
         "version": "0.9.101",
         "pre_release": "false"
     },
