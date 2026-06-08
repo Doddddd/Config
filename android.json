@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "dfd7c3c4c0b65905f2d6f5ddee604bac043eb941",
+        "sha": "b47424e8f4a8c145f0cfba8c6513d3a71753c182",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "08c3a6c950d7e75c088fe99ad58329fd5cd04fa2",
+        "sha": "61cc12393adc14130c0344fa70d07b9f64ba1825",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "530ed13dbbd9de00d505571548c8234bbc3fb6f5",
+        "sha": "23b599c03fd02cced9e997d74150b0a2777162b0",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
