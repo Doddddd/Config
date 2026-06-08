@@ -111,8 +111,8 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "20ae6ac0835a3f402d133e46f206792721d9009b",
-        "version": "V1.5",
+        "sha": "d47ec22b561665ff2f1bd11aa21c9c5a6356e6c2",
+        "version": "57-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "ad7befcb98c47e2e820087d395b85331b776a39e",
+        "sha": "08c3a6c950d7e75c088fe99ad58329fd5cd04fa2",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "66ba9a3a7407ea211d823da49efdce34383107c6",
+        "sha": "530ed13dbbd9de00d505571548c8234bbc3fb6f5",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
