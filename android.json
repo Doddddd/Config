@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v130",
+        "version": "v131",
         "pre_release": "false"
     },
     "Animeko": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "75a584b566cf7e5d56d4968760a896d87ccfa022",
+        "sha": "694c917a35b4f31e33f5f8b7a670b4f552ae5b92",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "e445387e3d2cd8495a65bfe9d5fd272c3ed69cc5",
+        "sha": "a3a3e33802b16c51df0a8d664317086751bf4257",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "23dd5098b0159c9b273f2026156e17ba182263cb",
+        "sha": "ad7befcb98c47e2e820087d395b85331b776a39e",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "2ce2df2795e14b91adad2b4c0d44489fe56a3ee5",
+        "sha": "cfeb4a904a4397a71c55f387eb188a693344234b",
         "version": "v3.0.3",
         "pre_release": "true"
     },
