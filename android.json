@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a3a3e33802b16c51df0a8d664317086751bf4257",
+        "sha": "b762eadd9566453a12670774d931c0cbfc358e7a",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "d8492393b1a549b1c06abc5d8347102f50715658",
+        "sha": "20ae6ac0835a3f402d133e46f206792721d9009b",
         "version": "V1.5",
         "pre_release": "false"
     },
