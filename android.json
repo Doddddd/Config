@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "f1c5a1deb840e0a25d02993a8f60b41ab8f2e502",
+        "sha": "d76fc400dae461d3c534a8e936809f7c32e8a459",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "694c917a35b4f31e33f5f8b7a670b4f552ae5b92",
+        "sha": "b603ac40917aca51b16cb8469989454e2f24caf0",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b762eadd9566453a12670774d931c0cbfc358e7a",
+        "sha": "fefc24a28e784d092ed5bcadd268f80254c5de78",
         "version": "4.0.0-beta03",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "61cc12393adc14130c0344fa70d07b9f64ba1825",
+        "sha": "17799defd2174587041dbe0331fb54bd9f6418a2",
         "version": "0.1.0",
         "pre_release": "true"
     },
