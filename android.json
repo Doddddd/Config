@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "8421ad5f1553cb40da7e1f84b5ec2832dd4feff2",
+        "sha": "5dec21c2bb18e7147df07fbcf5e57b48beb44580",
         "version": "v3.2.4",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "b47424e8f4a8c145f0cfba8c6513d3a71753c182",
+        "sha": "9504df9cd2dceac017ed66bb5960db9212af51a2",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "22fc256d8a3d0637db64a1a2b669a1de9ab4180f",
+        "sha": "90d79b236f8bf0a421b7d2819ede9e749e768cd8",
         "version": "2.0.8.1",
         "pre_release": "false"
     },
