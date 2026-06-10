@@ -38,7 +38,7 @@
     },
     "BiliRoaming": {
         "repo": "yujincheng08/BiliRoaming",
-        "sha": "b0fd682058c3f6826186b030a7d12a3acb4aa029",
+        "sha": "09088c3a7bfc8382c9e53b9b804e657d5aceee86",
         "version": "v1.7.0",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f44d69351706cd7a40760ef19f96cfe04d2c7055",
-        "version": "4.0.0-beta03",
+        "sha": "ad54d3e4b66aef04f815fa17ced9a10756a93739",
+        "version": "4.0.0-beta04",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "17799defd2174587041dbe0331fb54bd9f6418a2",
+        "sha": "c1a3c78ca01229e1aaa38bb34644d1e2e921fdb7",
         "version": "0.1.0",
         "pre_release": "true"
     },
@@ -173,7 +173,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "a44e65e7094b7df479aa274228cc2ab68e7d330f",
-        "version": "v0.28.7",
+        "version": "v0.28.8",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "68b64acbd9e22f478310bb2335bce2a83f4629fe",
+        "sha": "194d60f0015eece24156e88f07dea60fbda84df9",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "23b599c03fd02cced9e997d74150b0a2777162b0",
+        "sha": "86d31378637916061aab7330a9f4695839671bea",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
