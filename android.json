@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "7477643fee1a4df2689a9a2fbca5ea87d3a02f98",
-        "version": "v5.6.0",
-        "pre_release": "false"
+        "version": "v5.7.0-alpha01",
+        "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -165,8 +165,8 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "c1a3c78ca01229e1aaa38bb34644d1e2e921fdb7",
-        "version": "0.1.0",
+        "sha": "f5fc6a86a5f196e7aa8e37a91a0f2e93edfdd0da",
+        "version": "0.1.1",
         "pre_release": "true"
     },
     "NewPipe": {
