@@ -111,13 +111,13 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "d47ec22b561665ff2f1bd11aa21c9c5a6356e6c2",
-        "version": "57-1.6",
+        "sha": "3e93cafa7ed498cf7da74b0ebbb0ed325f9b8c1f",
+        "version": "59-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "5dec21c2bb18e7147df07fbcf5e57b48beb44580",
+        "sha": "46ad8dcbf8733324a973b5067eb286ceccddec78",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "378518c0fd2b6e5134c284f69351a7de7a3c70d8",
+        "sha": "5f1d76a73a7b821542d46c96935def9158e7ff1f",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "6cf41d137776c23b5c9c94c956d73f3e4925ba00",
+        "sha": "9e1a747ffbb82d82bff0d5fe88d13e198909b855",
         "version": "2.0.8.1",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "86d31378637916061aab7330a9f4695839671bea",
+        "sha": "fcaa3b76aadf9c859867ee2bb7f0f6ab8a3a7b2a",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
