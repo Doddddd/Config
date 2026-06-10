@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "9504df9cd2dceac017ed66bb5960db9212af51a2",
+        "sha": "2b4e24b4ebf5954c8d446c2f00cb78997648efcf",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f87c4d55e3fb710c9689eb41c862e8bd8b8d504f",
+        "sha": "378518c0fd2b6e5134c284f69351a7de7a3c70d8",
         "version": "v0.19.9",
         "pre_release": "false"
     },
