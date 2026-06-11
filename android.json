@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "25cd6afcbc71bb14a74f8b7ffbda63fa8c759352",
+        "sha": "fef311b371287b09a79817f3adc017ed254e5e53",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
@@ -111,13 +111,13 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "4967af2b60341f446d083bb65db124d64a4a5ce6",
+        "sha": "85f9802fdc471602cb67b518dd483c13ef8beb86",
         "version": "62-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "46ad8dcbf8733324a973b5067eb286ceccddec78",
+        "sha": "6a0d7a499ebf337ac2aaa71a5fbd04b1f0da999c",
         "version": "v3.2.4",
         "pre_release": "false"
     },
