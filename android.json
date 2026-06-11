@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "d0364b83874f56089551d07a22edc82f78bcf124",
+        "sha": "4dda210837eb2dda3298933c466080c9b62bc29f",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6b4080a9d025c758d23a09614a9e0577eb2e1db1",
+        "sha": "ab4dcdfa7ca254af56b1f8174c014350bbfaf9ba",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
@@ -111,7 +111,7 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "3e93cafa7ed498cf7da74b0ebbb0ed325f9b8c1f",
+        "sha": "77091316d49c606796ed58755accbba999d7bf25",
         "version": "59-1.6",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "2b4e24b4ebf5954c8d446c2f00cb78997648efcf",
+        "sha": "4049e7c2ef54df40e8baf2a9a60ef43444647db4",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5f1d76a73a7b821542d46c96935def9158e7ff1f",
+        "sha": "63a71fa4474a6ee99e77db61cd473adb4ca685a3",
         "version": "v0.19.9",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "f5fc6a86a5f196e7aa8e37a91a0f2e93edfdd0da",
+        "sha": "ee31453f66e175ecf7912f0a4b693f6a3b0e859a",
         "version": "0.1.1",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "194d60f0015eece24156e88f07dea60fbda84df9",
+        "sha": "286bee17f8a3d82394b7a093190523ef235ced74",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -275,8 +275,8 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "cfeb4a904a4397a71c55f387eb188a693344234b",
-        "version": "v3.0.3",
+        "sha": "b636ffbebd242fb664069a848ca88203ee137a66",
+        "version": "v3.0.4",
         "pre_release": "true"
     },
     "Zhiliao": {
