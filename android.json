@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "fef311b371287b09a79817f3adc017ed254e5e53",
+        "sha": "1012c483b9d3ffa3e33f5ce63d3196e9735005f9",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
@@ -111,13 +111,13 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "85f9802fdc471602cb67b518dd483c13ef8beb86",
-        "version": "62-1.6",
+        "sha": "4cc836a0bbb8c62818ff1c5f423b79096e298215",
+        "version": "68-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6a0d7a499ebf337ac2aaa71a5fbd04b1f0da999c",
+        "sha": "179ad3da28e0fe19e3a826b5618f0bf9de8e7a27",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "2c052144ae916e531e566aa497dd9abb4365afbf",
+        "sha": "187217c7eae214d939ff0a7097a168a164aaea30",
         "version": "0.1.1",
         "pre_release": "true"
     },
