@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "4dda210837eb2dda3298933c466080c9b62bc29f",
+        "sha": "736d782bd802d5ea0fa4772fa75e5cbebcf28408",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "a44e65e7094b7df479aa274228cc2ab68e7d330f",
+        "sha": "84142c1468321c25aaf0394a78768f43b715bf06",
         "version": "v0.28.8",
         "pre_release": "false"
     },
