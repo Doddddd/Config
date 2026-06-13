@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "187217c7eae214d939ff0a7097a168a164aaea30",
+        "sha": "b7fba7343351076c1fe9139243e433bf4594c295",
         "version": "0.1.1",
         "pre_release": "true"
     },
@@ -263,7 +263,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "b77b084249234fb85fe42ce33f9d2e75ad2cd64b",
+        "sha": "d667d65a117176c17f7d27dc526decdbf61ed1a3",
         "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
