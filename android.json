@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "d76fc400dae461d3c534a8e936809f7c32e8a459",
+        "sha": "3ab3943f1ea897d0939090aa9cd660c4e7f08c5c",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -38,7 +38,7 @@
     },
     "BiliRoaming": {
         "repo": "yujincheng08/BiliRoaming",
-        "sha": "b2b8fed9bf494cd82f054d7f05237042a7ceb154",
+        "sha": "f963f1857f954720c7a5eefc18de71d07037a2e1",
         "version": "v1.7.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "2b8660fb9039842497ffb37bfc55db01f9879f23",
+        "sha": "ad27956a3074d9372fe630a10536fb152a115b3c",
         "version": "v1.6.0",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "74f7feb6e877cd452c89d1d9cde38f978838c341",
+        "sha": "ede11e53aad3a78158a9096f0350b67f31eb2a1c",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "238543c15e162caeb3312d12d2c050d831fcb01c",
+        "sha": "497a09cf5c55b4f5e8b9454c66cc469bc7b3bfbb",
         "version": "v3.0.4",
         "pre_release": "true"
     },
