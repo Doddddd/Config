@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "4049e7c2ef54df40e8baf2a9a60ef43444647db4",
+        "sha": "f14265bbcfd745782ac54da9496b20800e1bfc36",
         "version": "2.5.3",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "b7fba7343351076c1fe9139243e433bf4594c295",
+        "sha": "7597aa4212237f01bcb94ef2a702e971f9169b9c",
         "version": "0.1.1",
         "pre_release": "true"
     },
