@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1012c483b9d3ffa3e33f5ce63d3196e9735005f9",
+        "sha": "8d250cda50a88e64a1754c67119ac33f374e1251",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7597aa4212237f01bcb94ef2a702e971f9169b9c",
+        "sha": "d6420bb0cea4b4dbea77804d5309a6aee3b22c35",
         "version": "0.1.1",
         "pre_release": "true"
     },
