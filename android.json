@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "2e83c38162eacaed49f567591ced19373a6e353f",
+        "sha": "d68766007f96df845d02b44dd2b249d2832e298f",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "179ad3da28e0fe19e3a826b5618f0bf9de8e7a27",
+        "sha": "3db7a2fc3761071d7254d7087e6c000af35f6022",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "509eee5dfb81266ea7056587f695910506248a8a",
+        "sha": "4c37f4c764afc47e0be6c63b1389b54f240b03f5",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "84142c1468321c25aaf0394a78768f43b715bf06",
+        "sha": "079f5f1d70467422a350f9b48663ad4541e5f951",
         "version": "v0.28.8",
         "pre_release": "false"
     },
