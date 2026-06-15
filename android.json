@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "fa6e135144a5e734abdbc1a406dc17569102f895",
+        "sha": "26756ca33eb1351fc843107afaacde201d807c68",
         "version": "v5.7.0-alpha01",
         "pre_release": "true"
     },
@@ -26,14 +26,14 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "66f286922acdb38e09181901171abacf96a9d7c9",
+        "sha": "79c107b704127d6cc70d586f05e393de67f46604",
         "version": "v4.0.10",
         "pre_release": "false"
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "702ac383770bd89e59d8b4eb331503dafdd491ec",
-        "version": "v3.1",
+        "sha": "ae7f55722847239f99601ffe11ea3d5bab317066",
+        "version": "v3.2",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8d250cda50a88e64a1754c67119ac33f374e1251",
+        "sha": "94f0a91f9c1d59e9ec822a3e15a14a50866ab8e2",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "4c37f4c764afc47e0be6c63b1389b54f240b03f5",
+        "sha": "f00cac265f6723738c42a236d87cfaae6968b1ea",
         "version": "v0.19.9",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "d6420bb0cea4b4dbea77804d5309a6aee3b22c35",
+        "sha": "acf58a11c9fb2e576c99b25bdfbb54e3fd37ff04",
         "version": "0.1.1",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "04142d3c07e6d58b2b4092b638e06b954376d880",
+        "sha": "cb834b4e7dc1d4b0c30e9bb13a9241731046ef80",
         "version": "0.9.101",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "497a09cf5c55b4f5e8b9454c66cc469bc7b3bfbb",
+        "sha": "5a0092e7de632065f4219c48399e84adc35541a9",
         "version": "v3.0.4",
         "pre_release": "true"
     },
