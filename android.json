@@ -26,8 +26,8 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "79c107b704127d6cc70d586f05e393de67f46604",
-        "version": "v4.0.10",
+        "sha": "4b90ab65fe0557e9db6559e82338700824d27426",
+        "version": "v4.1.0",
         "pre_release": "false"
     },
     "BCR": {
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "d524ee90fd931f67b727afb4bb59abe27e25358e",
-        "version": "v4.1",
+        "sha": "b21332c3b2186619debfba6b0bfb3788179b5a9c",
+        "version": "v4.2",
         "pre_release": "false"
     },
     "Sui": {
