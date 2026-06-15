@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "d68766007f96df845d02b44dd2b249d2832e298f",
+        "sha": "8908db4613b58ac2b5f685a2ac899308c0ea68f6",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "94f0a91f9c1d59e9ec822a3e15a14a50866ab8e2",
+        "sha": "baab398a2338b8ba9f8f411b47a15e5adda78999",
         "version": "4.0.0-beta04",
         "pre_release": "true"
     },
