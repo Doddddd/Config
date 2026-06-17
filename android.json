@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "26756ca33eb1351fc843107afaacde201d807c68",
+        "sha": "ac13f70ba7b01f08454f12bf09d7343cc961eb09",
         "version": "v5.7.0-alpha01",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a7c7240eeefc1adc18e1ae354f12f55fbedfd0a4",
+        "sha": "1ea20f4a375b50082558e5f6275ba018f50fdfe5",
         "version": "4.0.0-rc02",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d156496cfa5aadbbfb6f1702b86f780c79fe2c07",
+        "sha": "6552ffe3158f8127ca265f8621ad326be9e173cb",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -232,13 +232,13 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "b83495b798f6b3475064895de50ce57069cad132",
-        "version": "1.98.2-taaf7caef1-g9cc6630cd",
+        "sha": "d8f28f4673e1a99e55a7d45943c40117a078b296",
+        "version": "1.98.4-t9e69045b2-g0b6f6554d",
         "pre_release": "false"
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "9fea7264725bbac16e5bd5f18fe22d7c6e8a3117",
+        "sha": "9b50143d8896d255d03155598937e4f3e28afd86",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "3d69ab5681a029c3bd5fedcc1b2aaada4c10476b",
+        "sha": "c9593549fd008583b31e420a5511c4ededa488e5",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
