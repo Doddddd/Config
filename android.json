@@ -123,8 +123,8 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "5cadc4ab5fec42c5aa43af3aeeae4702bb882509",
-        "version": "2.5.3",
+        "sha": "30a693964ce7b9cec85dcd570e05ff3c540cb9f1",
+        "version": "2.5.4",
         "pre_release": "false"
     },
     "LogFox": {
