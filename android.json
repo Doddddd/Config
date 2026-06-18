@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ddd9e2d6f9dad52efaa64eccb5b316c50af4fa3d",
-        "version": "4.0.0-rc02",
-        "pre_release": "true"
+        "sha": "e892adf228df8e8f87c50c99674a616ada2820e7",
+        "version": "4.0.0",
+        "pre_release": "false"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "6552ffe3158f8127ca265f8621ad326be9e173cb",
+        "sha": "ee6a9876ec2260be4b4c04831dc24f3b53f819ea",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "cb834b4e7dc1d4b0c30e9bb13a9241731046ef80",
+        "sha": "3f99ce222902124737a6bad0d31e298c9f833a64",
         "version": "0.9.101",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "892670b37798df3fe2404d315b9ba0c18e884d7b",
+        "sha": "f68f3e8f5b365dd981322120adf4e2b6904520a2",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
