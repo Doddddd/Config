@@ -38,7 +38,7 @@
     },
     "BiliRoaming": {
         "repo": "yujincheng08/BiliRoaming",
-        "sha": "f963f1857f954720c7a5eefc18de71d07037a2e1",
+        "sha": "7c792dc8fea321ff6a308ce3424668f81019df58",
         "version": "v1.7.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b8aa443fdece215c91e1f365190751a5cffd3514",
+        "sha": "c82e1a58054ead07563d4eb2e29cb3f7bbb68873",
         "version": "4.0.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f0f4539b34cb28efdef2ed96ab2a1dfe112eaab8",
+        "sha": "6c97d1dd0011e9d14cdf6082d84a98c5c802eec5",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "03d3e604f0096079f60b96e1f69594bb4436194e",
+        "sha": "dd77d47119feac88f5adf87c9d2d4f9453ba8ccc",
         "version": "0.1.2",
         "pre_release": "true"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "b7b84d89ec8d26156c48bad936c026d3aca9c8e3",
+        "sha": "cecb0f4d13168ed0e1c24927a6c5d64891ae54aa",
         "version": "THUNDERBIRD_19_2",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "5a0092e7de632065f4219c48399e84adc35541a9",
+        "sha": "ed3090893a08b3467578fb654fc91d1e63b48fec",
         "version": "v3.0.4",
         "pre_release": "true"
     },
