@@ -275,8 +275,8 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "d4e38a33dbccf0239a5e446b7e3b5c67947fc6ad",
-        "version": "v3.0.5",
+        "sha": "2997ced6a8f23215c7be265bf86b33d3b7764c08",
+        "version": "v3.0.6",
         "pre_release": "true"
     },
     "Zhiliao": {
