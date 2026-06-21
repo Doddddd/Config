@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "78d1142701ac52181654b814fdbf25b3fef6de9e",
+        "sha": "2cd14255fdbad5fad3195fe36d0776b580607d59",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "28ca2bce25d0dc2672267268302ed9358576016d",
+        "sha": "1ca8032012564dd7a7729d2f1ec4be425a371d42",
         "version": "4.0.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5f80403c5d734c80c344a34a93a3f10765c1cda5",
+        "sha": "c7e782c17940e575c1a4e3c92282b27c2ee20981",
         "version": "v0.19.9",
         "pre_release": "false"
     },
