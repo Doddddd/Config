@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "2cd14255fdbad5fad3195fe36d0776b580607d59",
+        "sha": "78caa55ccc1535d8d13a7806312b8bfa92c78f89",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1ca8032012564dd7a7729d2f1ec4be425a371d42",
+        "sha": "ff5e983c3d327042c2add3b31b4105708bc4174f",
         "version": "4.0.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e4a0568f760dd19184b8beb309607fc347892ddd",
+        "sha": "6698a98fc1cb8d5e16b1874d454bb6dbf9a70114",
         "version": "2.5.4",
         "pre_release": "false"
     },
