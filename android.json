@@ -13,8 +13,8 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8d1354510148c3bfda2c216a24cf0ea4a4eba9d9",
-        "version": "v5.7.0-beta01",
+        "sha": "2e6fb87db89c8a277f2592db2fb2b51b4422ed14",
+        "version": "v5.7.0-beta02",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "5517191c11507cef4d15a9daf60a713cfc16b7b7",
+        "sha": "fda952bffe54c52d63f210358d47610cd9175cea",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "c7e782c17940e575c1a4e3c92282b27c2ee20981",
+        "sha": "903add50c97dc9697b930f2cc57b75eb28ff9f99",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "01977379e58dea11f13c83d94d5b1bb171d87a31",
+        "sha": "c29b4b1576a4e1507dd32b2fabac6141c88dff45",
         "version": "0.9.102",
         "pre_release": "false"
     },
