@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "34cec76076aa9a2e8f7315240ac35f68fa7392d1",
-        "version": "4.0.0",
-        "pre_release": "false"
+        "sha": "67bccb3f53aa7a9332468a98b6c1c56bff0dfe37",
+        "version": "4.1.0-alpha01",
+        "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
