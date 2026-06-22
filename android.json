@@ -100,7 +100,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "67bccb3f53aa7a9332468a98b6c1c56bff0dfe37",
-        "version": "4.1.0-alpha01",
+        "version": "4.1.0-alpha02",
         "pre_release": "true"
     },
     "InstaEclipse": {
