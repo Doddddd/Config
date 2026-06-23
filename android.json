@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ac5b9826013c747e2f95a041ff1042953f8e2731",
+        "sha": "ddb51d91adcd4864e7af56dbf87e7bd861bcafa2",
         "version": "K9MAIL_20_0",
         "pre_release": "false"
     },
