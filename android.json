@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "97807cbbf1503671b168595d79c7646efeade901",
+        "sha": "544f42cebba060b01ecf18f6ec9eea3715035ca8",
         "version": "4.1.0-alpha02",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f3dcb849846cf8d699b9d9df573740a50868b043",
+        "sha": "b0bc817b4e966aa6aa830834eaf6ef765d821d40",
         "version": "v3.2.4",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "c29b4b1576a4e1507dd32b2fabac6141c88dff45",
+        "sha": "05f24bddba15ca12f3e03efa749d2635a34fbf72",
         "version": "0.9.102",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "e6372b3751888fb012d4a1a802f12c57122111c4",
+        "sha": "d71503b8d39d2723db69736c5a480c1a989dd234",
         "version": "1.12.0",
         "pre_release": "false"
     },
@@ -256,9 +256,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "675ac862a2d9a3b9e9e6eed8eba914aa6fb6bfb6",
-        "version": "THUNDERBIRD_19_2",
-        "pre_release": "false"
+        "sha": "ac5b9826013c747e2f95a041ff1042953f8e2731",
+        "version": "THUNDERBIRD_21_0b1",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
