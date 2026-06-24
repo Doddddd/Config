@@ -118,7 +118,7 @@
     "KernelSU": {
         "repo": "tiann/KernelSU",
         "sha": "b0bc817b4e966aa6aa830834eaf6ef765d821d40",
-        "version": "v3.2.4",
+        "version": "v3.2.5",
         "pre_release": "false"
     },
     "LibChecker": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "06497622f648f360797af71b4dffac714d50cb88",
+        "sha": "735cea35f9a52c98a470d02f43de1dba2036655c",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ddb51d91adcd4864e7af56dbf87e7bd861bcafa2",
+        "sha": "af7d7bd2f718ed9c51e98133dc4977c8f83aa767",
         "version": "K9MAIL_20_0",
         "pre_release": "false"
     },
