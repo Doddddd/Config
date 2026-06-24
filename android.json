@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "e1f290f0e9547df33e9fe1d781f622814d3bc5c2",
+        "sha": "a08e0aba0fef7ab0ed98fc046fce728c27163806",
         "version": "v1.6.0",
         "pre_release": "false"
     },
