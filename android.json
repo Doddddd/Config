@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "9b0ea0b648b97d8deff1f64803fbd5eacb48981a",
+        "sha": "9d5009c2aacb37eadc1de449ff7d3b5baab8c932",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "544f42cebba060b01ecf18f6ec9eea3715035ca8",
-        "version": "4.1.0-alpha02",
+        "sha": "2282b3a11dca2646dc2e82217401a0ffaa620f2a",
+        "version": "4.1.0-beta02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -129,7 +129,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "a9baf266b3d709f5e59f613d7770bde88553a73d",
+        "sha": "472df120c62f9290483299e2b9f8bffaf198b51a",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "05f24bddba15ca12f3e03efa749d2635a34fbf72",
-        "version": "0.9.102",
+        "sha": "7ab9d69b3f839a9175997e802a73325d74b0bc4f",
+        "version": "0.9.103",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -244,8 +244,8 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "70ab9e2b568046a94506a20ac4aeaa9d21820319",
-        "version": "v12.4.0",
+        "sha": "884c3eaf21e32f6b7b9406b959e87e8c1b2cebbc",
+        "version": "v12.8.1",
         "pre_release": "false"
     },
     "Termux": {
