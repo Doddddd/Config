@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "17e7ea3f0b19ff9a9701fb88df40a2ed8c97b810",
-        "version": "4.1.0-beta02",
+        "sha": "ea2984774dcf1974a8ba99c8713548769f9b0926",
+        "version": "4.1.0-rc01",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "7049e5c63ab686ccc2f67b520127ee297bd4749b",
+        "sha": "5d15bf5e59b5790c12631640e5e914d456035657",
         "version": "2.0.9.2",
         "pre_release": "false"
     },
