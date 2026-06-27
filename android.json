@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "00d90dae83bf9c109fdacff3dd36e26486757180",
-        "version": "v3.2",
+        "sha": "153edfc276f7b790b60c6accbeafd3982fe2ae0a",
+        "version": "v3.3",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "736d782bd802d5ea0fa4772fa75e5cbebcf28408",
+        "sha": "1d13d2e9923cc6b4588415df3715cef4890b6aad",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "186ea05c55c805bf503b7a16ed63722e248145cd",
+        "sha": "17e7ea3f0b19ff9a9701fb88df40a2ed8c97b810",
         "version": "4.1.0-beta02",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "6c6a07c0c05f35e36b3bc84239cf91edbec95d67",
+        "sha": "19f1d00fcbef6ab7783066ff9ae8e377f696b231",
         "version": "v0.19.9",
         "pre_release": "false"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "7ab9d69b3f839a9175997e802a73325d74b0bc4f",
-        "version": "0.9.103",
+        "sha": "2b91dd0922a5326c3476a5dce1e4fc55f67ec7dc",
+        "version": "0.9.104",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "9463df462ee615c48a2838db5ff3b46c0e9fb83f",
-        "version": "v4.2",
+        "sha": "fa31399313141779e0be5f60c770f6e8545b6045",
+        "version": "v4.3",
         "pre_release": "false"
     },
     "Sui": {
