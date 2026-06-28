@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ea2984774dcf1974a8ba99c8713548769f9b0926",
+        "sha": "9c2bdef685dfb6d64c00ab387c83761740d911b3",
         "version": "4.1.0-rc01",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "cb02b646ab9195e68f5d1af2e760ff064de78424",
+        "sha": "47a5b9113ee7974dbc80ebe58b044085bf6055b8",
         "version": "0.9.104",
         "pre_release": "false"
     },
@@ -214,7 +214,7 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "fa31399313141779e0be5f60c770f6e8545b6045",
+        "sha": "806e731a4760885c76fb58c660287226226675e6",
         "version": "v4.3",
         "pre_release": "false"
     },
