@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "36941b9f4a5799a934bc29416b43f4d189a0b89b",
+        "sha": "3e2936410301bb80a4e8412b7d5d3a6e2da5494b",
         "version": "v3.2.5",
         "pre_release": "false"
     },
