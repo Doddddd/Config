@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e399ca861eb55f01aa064654b16cc554e5a5be79",
+        "sha": "3da05a953f0cbe50c3067e4e586d7b9b996e57ed",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -203,7 +203,7 @@
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
         "sha": "5310e4c1ea88bad4b08d485b922970d612460d84",
-        "version": "v1.6.0",
+        "version": "v1.6.1",
         "pre_release": "false"
     },
     "ReadYou": {
