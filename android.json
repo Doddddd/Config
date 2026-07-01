@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "5d541f587877954c4f4eb83825c3ab283b1336b9",
+        "sha": "e1fdc14974e6a26eb154108ea665ab2497214404",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "34dbecff48e22bf773dccdd56bb8abfe6a9d60b3",
+        "sha": "e435f88f5adcbeec2f6c85c1d4612ddff6c27807",
         "version": "4.1.0-rc01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f02f369c3c37e1a1047a730be5a2b84af39c29a9",
+        "sha": "d396ed0d4b4fe180df8b86b1ccda4439c898c707",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "a82ccea6f54d018d3a60b08eaed2a79bd0a07c88",
+        "sha": "d8c3440d3793573c1ea52b85d00a6ced03983668",
         "version": "v0.20.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "5310e4c1ea88bad4b08d485b922970d612460d84",
+        "sha": "8b04763c310f24ab1753ce314a905b9fe3d90bdc",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -233,7 +233,7 @@
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "582940f78d31337997993db317bb7dd372cf691a",
-        "version": "1.98.4-t9e69045b2-g0b6f6554d",
+        "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
     "Telegram": {
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9149955334192ddcb6c3d2cedcb105620de4b4e2",
+        "sha": "7c20667142bf27cbcc9a3111e2d4f16c3e0fe7b2",
         "version": "THUNDERBIRD_21_0b2",
         "pre_release": "true"
     },
