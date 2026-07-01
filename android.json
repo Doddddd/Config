@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "8b04763c310f24ab1753ce314a905b9fe3d90bdc",
+        "sha": "21cb6830fcf7c037204d9f9e12acbb00510de112",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "0867fb13ed58de3cd63cc69973c61f4fe4e8ccba",
+        "sha": "8aa774abc945a4360e0bf01e9a31bca33092cdc1",
         "version": "1.12.0",
         "pre_release": "false"
     },
