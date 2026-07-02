@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "e1fdc14974e6a26eb154108ea665ab2497214404",
+        "sha": "1f54f88e6bff9ee0ee105947b431db6a3854b67f",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "402b0ae87f248c3e8e95668631390d53c9924c46",
+        "sha": "568cd41755cbae9d94d4b81884f0931cb80c794c",
         "version": "2.5.4",
         "pre_release": "false"
     },
