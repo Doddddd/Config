@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "76f12e891bc12becc37121c279889adc0ae0c4f0",
-        "version": "4.1.0-rc01",
+        "sha": "062bbe526f03fdff22ac8d7257459cc9001bbd29",
+        "version": "4.1.0-rc03",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "dd77d47119feac88f5adf87c9d2d4f9453ba8ccc",
+        "sha": "7a94965cef11be2f1405544826bc7445e3353fef",
         "version": "0.1.2",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "c9f952e3af96fb204948d500edad94fe35b1e9c9",
+        "sha": "c23909fe820c5cf0e4bfea47f43e650d62609d7f",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "8aa774abc945a4360e0bf01e9a31bca33092cdc1",
+        "sha": "fc551e8fc1924d6f91c5930b5faad1ca7b0bf0a7",
         "version": "1.12.0",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "89fb80a4077abb7cf15a7888eb75bbc9d2d2bc0f",
+        "sha": "682d4712a3e09b2d2ed6d079e12125e07daddad3",
         "version": "THUNDERBIRD_21_0b2",
         "pre_release": "true"
     },
