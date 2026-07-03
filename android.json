@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "062bbe526f03fdff22ac8d7257459cc9001bbd29",
+        "sha": "127229aa9e6ea72627953e422574b5b73b2fc420",
         "version": "4.1.0-rc03",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d8c3440d3793573c1ea52b85d00a6ced03983668",
+        "sha": "dfed97edc80cef01df7e13dd3ccdc27280fcf534",
         "version": "v0.20.0",
         "pre_release": "false"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "6abe0377a5ad9e4eeab5904c5119041e53e144e2",
-        "version": "v4.3",
+        "sha": "00e7c6cc46c797be4a2fa1882220c77a336d8e2f",
+        "version": "v4.4",
         "pre_release": "false"
     },
     "Sui": {
