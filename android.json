@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "153edfc276f7b790b60c6accbeafd3982fe2ae0a",
+        "sha": "345e4603b64fba6b1afe34e8101f0dab19277c21",
         "version": "v3.3",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "dd54a5b24d69a42e68f4ed913f9ae1314319d28c",
+        "sha": "23da89cc918f9cef0217e80d02537b7769d17482",
         "version": "4.1.0-rc03",
         "pre_release": "true"
     },
@@ -208,13 +208,13 @@
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "091c9207527a10a135b307c9f7747306da36f686",
+        "sha": "eca65050c70165e18149d058920bd43d8a94d8bc",
         "version": "0.16.2",
         "pre_release": "false"
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "00e7c6cc46c797be4a2fa1882220c77a336d8e2f",
+        "sha": "22616e37e91468d71b380accb0087dc38f29d16b",
         "version": "v4.4",
         "pre_release": "false"
     },
