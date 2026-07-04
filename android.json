@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "345e4603b64fba6b1afe34e8101f0dab19277c21",
-        "version": "v3.3",
+        "sha": "43c03f1c959813e2138f3fbf85b24e74aeb6c21f",
+        "version": "v3.4",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "23da89cc918f9cef0217e80d02537b7769d17482",
+        "sha": "a2d309c29a568c21e53edad93f1ef8069578f310",
         "version": "4.1.0-rc03",
         "pre_release": "true"
     },
@@ -159,14 +159,14 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0772f72021a3264948b8eb13ea83638e05c47b53",
+        "sha": "27284a40ab0b7b9ac362e0bbc5484d738424d92e",
         "version": "v0.20.0",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7a94965cef11be2f1405544826bc7445e3353fef",
-        "version": "0.1.2",
+        "sha": "83551d05aefa232182bc7aae612f2b463344d223",
+        "version": "0.2.0",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b540647222ca07ea8cc622b715b2bc90dff0720d",
+        "sha": "8c8eb18aedbfb66f829c46865610c96dd9df1f65",
         "version": "2.0.9.2",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "11108e7cb3cdc2bfbed30d619cba6872654df5a8",
+        "sha": "af1b133aae668de64d6159ff31c93d6c4ad5bd80",
         "version": "v3.0.7",
         "pre_release": "false"
     },
