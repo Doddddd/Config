@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "bc7c8d575e1b1aeca5fe7aeb9704b132c9a0598c",
+        "sha": "2e083a40812d134e035307c01a556d36b0bc176b",
         "version": "v5.7.0",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "61a9e049295ff43a5a640c248b391d51c68d0942",
+        "sha": "c481695c8f183cb33b94d7f9e7c28f5daca40f3b",
         "version": "2.0.12",
         "pre_release": "false"
     },
