@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "e52da251a9d8684ca904427e424c42d83edb4498",
+        "sha": "ab5341f81c36ee98e287bec82df5c8ed5a3515b8",
         "version": "v4.1.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "94b3b5eaa2688aed0b1fcc29f92ee06110bdd73a",
+        "sha": "c3bf7a78c074079a605ed7de86d8b7f58bea183b",
         "version": "v0.20.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "c23909fe820c5cf0e4bfea47f43e650d62609d7f",
+        "sha": "ced3461be8f3b41f1faf48beb591fc7376c3251f",
         "version": "v1.6.1",
         "pre_release": "false"
     },
