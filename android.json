@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "1d13d2e9923cc6b4588415df3715cef4890b6aad",
+        "sha": "35229d1258f441dbeec9b8c9162f727edfe3f202",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "fd5832e9d7ae49949f313cea7b9f6e981d142557",
+        "sha": "cb01ae81b29769f10e332925c76757fe252f2647",
         "version": "4.1.0-rc03",
         "pre_release": "true"
     },
