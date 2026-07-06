@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "b5cdd6ad7cc244adb9b16f7e6a45de0cda207440",
+        "sha": "364925b771543029d0802bffb0a45efba4ee7df7",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b9c3069e8485c864537e717def9b2c1764cdde80",
+        "sha": "09c6d09aaa73008f5c797de593c25e77fe88c945",
         "version": "v3.2.5",
         "pre_release": "false"
     },
