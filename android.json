@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v133",
+        "version": "v134",
         "pre_release": "false"
     },
     "Animeko": {
@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cb01ae81b29769f10e332925c76757fe252f2647",
-        "version": "4.1.0-rc03",
-        "pre_release": "true"
+        "sha": "8dea14c75ef03d267d1d00f27bff2196882f828c",
+        "version": "4.1.0",
+        "pre_release": "false"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "824f2f235d37dac7f06b31869a138ee7a9309a43",
+        "sha": "b9c3069e8485c864537e717def9b2c1764cdde80",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "c3bf7a78c074079a605ed7de86d8b7f58bea183b",
+        "sha": "b8e5f22c0142861b5ee09e384e4ec244f8d7440f",
         "version": "v0.20.0",
         "pre_release": "false"
     },
