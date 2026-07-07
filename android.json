@@ -26,8 +26,8 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "a622e354644803e0db2008223db5ccd4aff75067",
-        "version": "v4.1.0",
+        "sha": "2ebf66c3a15becd43e2f40e910e7061fa0583ded",
+        "version": "v4.1.2",
         "pre_release": "false"
     },
     "BCR": {
