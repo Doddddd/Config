@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "57749ede5a79d8eaf2babeffb7040ae7ebd6e634",
+        "sha": "48a9cf3cdb70e33ff36588f348acb2eaf1b3c301",
         "version": "v5.7.0",
         "pre_release": "false"
     },
@@ -105,7 +105,7 @@
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "a5fbba73dd97f99a0c4b03b55d4850fc1dd9d9a7",
+        "sha": "bbfece4ad9a8bff5931ca519338cddfefae50cf0",
         "version": "v0.6.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "41f4579c742059075d695356c5b5484546662719",
+        "sha": "66b390c62abc62aa5411ecec5cbde8f3229b5016",
         "version": "v0.20.0",
         "pre_release": "false"
     },
