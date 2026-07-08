@@ -105,8 +105,8 @@
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "a9036c4f20d7c683bde7a4f000ffaa4a9c466650",
-        "version": "v0.5.2",
+        "sha": "a5fbba73dd97f99a0c4b03b55d4850fc1dd9d9a7",
+        "version": "v0.6.0",
         "pre_release": "false"
     },
     "InxLocker": {
