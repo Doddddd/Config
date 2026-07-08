@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "48a9cf3cdb70e33ff36588f348acb2eaf1b3c301",
+        "sha": "6bd668451da1512ef901bd1e3df49e2a4f8e3917",
         "version": "v5.7.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "fe46cdfc5f0d8ceccb5e393ced9883535a6022d9",
+        "sha": "9667d990830e03464eadef86898e17f81d669a02",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "cd712b8b17b1564b5020cf5e59cc3255d2a8292f",
+        "sha": "4be487ef41f610b143e6d41fccca21ec0b783077",
         "version": "THUNDERBIRD_20_1",
         "pre_release": "false"
     },
