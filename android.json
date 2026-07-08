@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "c481695c8f183cb33b94d7f9e7c28f5daca40f3b",
+        "sha": "e10298f60c5a072ac7db42de11f6579048a89a23",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8c24ec2e57ed7f0c0a1ee061dd9bad2f5819838d",
+        "sha": "968921780d42103f45ac0d1003e11f151a9725c1",
         "version": "4.1.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "d1a5aa61336a0887a876d8a79503b4d2fae7779b",
+        "sha": "fe46cdfc5f0d8ceccb5e393ced9883535a6022d9",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0787678c1274f573e1072ba7e013d0a7aae19d47",
+        "sha": "41f4579c742059075d695356c5b5484546662719",
         "version": "v0.20.0",
         "pre_release": "false"
     },
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "22616e37e91468d71b380accb0087dc38f29d16b",
-        "version": "v4.4",
+        "sha": "4f052fdeb119d1936d04bc8934e69c8e290b7048",
+        "version": "v4.5",
         "pre_release": "false"
     },
     "Sui": {
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5f507c2fdb73843c4248d4ab7cb1d2f84de9447b",
+        "sha": "cd712b8b17b1564b5020cf5e59cc3255d2a8292f",
         "version": "THUNDERBIRD_20_1",
         "pre_release": "false"
     },
