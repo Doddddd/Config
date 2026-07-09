@@ -14,7 +14,7 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "6bd668451da1512ef901bd1e3df49e2a4f8e3917",
-        "version": "v5.7.0",
+        "version": "v5.7.1",
         "pre_release": "false"
     },
     "AuroraStore": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "152d38a5d6878f633f067a59f7779b52d91857a5",
+        "sha": "47b3c84b43526c838c4b04210d4a097bac1baa29",
         "version": "4.1.0",
         "pre_release": "false"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "af9e5f58ef62297865da98eebf5c6429298fa92d",
+        "sha": "e6832ed548ada2fa16fcbd6c8e98bbd1868f4401",
         "version": "v3.2.5",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "9667d990830e03464eadef86898e17f81d669a02",
+        "sha": "d3e5507a544ee658fd8c6fdc17998647e6902846",
         "version": "2.5.4",
         "pre_release": "false"
     },
