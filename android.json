@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "e10298f60c5a072ac7db42de11f6579048a89a23",
+        "sha": "7395fe0062c7589735cb310218908ab89c0c24c2",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "66b390c62abc62aa5411ecec5cbde8f3229b5016",
+        "sha": "ab58a9952e55485d81193f13ffc262725d8cae32",
         "version": "v0.20.0",
         "pre_release": "false"
     },
@@ -244,8 +244,8 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "884c3eaf21e32f6b7b9406b959e87e8c1b2cebbc",
-        "version": "v12.8.1",
+        "sha": "89d7729903066c9001463182b45448f7d54218af",
+        "version": "v12.8.2",
         "pre_release": "false"
     },
     "Termux": {
