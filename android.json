@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "47b3c84b43526c838c4b04210d4a097bac1baa29",
-        "version": "4.1.0",
-        "pre_release": "false"
+        "sha": "7aca62bd12b9d22807e13035ddf3e56b57f54ed6",
+        "version": "4.2.0-alpha01",
+        "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "8407439b8a15fd2efc68693605c5e9a639df2494",
+        "sha": "75f506836cab153458297452000bb526b1cc63a2",
         "version": "v0.20.0",
         "pre_release": "false"
     },
