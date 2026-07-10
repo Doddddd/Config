@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f784197f16892b3f668254aa6a9b4938ed2a13f5",
+        "sha": "a1e4a1d044151cb1e9d64114ea0a82573c0486e2",
         "version": "v5.7.1",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "6cdeb7de6a2233195596ffc8e1120bd72fa6641a",
+        "sha": "9c8b5a77ae4c68e08ff0ccc233cb7c6b8ca9aa94",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "75f506836cab153458297452000bb526b1cc63a2",
-        "version": "v0.20.0",
+        "sha": "217b20123ce9bfe690e5e63d6447304e67790e13",
+        "version": "v0.20.1",
         "pre_release": "false"
     },
     "Monogram": {
@@ -214,8 +214,8 @@
     },
     "RSAF": {
         "repo": "chenxiaolong/RSAF",
-        "sha": "4f052fdeb119d1936d04bc8934e69c8e290b7048",
-        "version": "v4.5",
+        "sha": "83a87a6bb5b7fbcea9bdd825b0e2751768333074",
+        "version": "v4.6",
         "pre_release": "false"
     },
     "Sui": {
@@ -226,13 +226,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "fc551e8fc1924d6f91c5930b5faad1ca7b0bf0a7",
-        "version": "1.12.0",
+        "sha": "dfc0910912d0b45f03f7835c76cc3724d09ddd06",
+        "version": "1.13.0",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "6c00181935efe697f52d2b7a37eb6c2b487f4f26",
+        "sha": "0f542bd8cd40668cf751402e0ea8b1936cc34699",
         "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
@@ -275,7 +275,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "af1b133aae668de64d6159ff31c93d6c4ad5bd80",
+        "sha": "9b6354c69cbe42c87c8d3a28add8405c3ae79b8d",
         "version": "v3.0.7",
         "pre_release": "false"
     },
