@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "aaf3458aa1f25df6340dafb9159d57a210e51629",
+        "sha": "5f2abdea96db6924f117ced2a68d1fda0ed2b6c1",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "dbff91c2dde8893af950137828398d41dd6b7047",
+        "sha": "ccfee6dc67d79a1404eb71c67b67b4f6c7b65a4a",
         "version": "v3.2.5",
         "pre_release": "false"
     },
