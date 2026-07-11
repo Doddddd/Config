@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "75aff6d037eec4318f990a3deabd8a80e29782bf",
+        "sha": "9e08cda3246b9e8a27652f31ff708d51ba0ada43",
         "version": "v6.0.0-alpha01",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "c691400c070f45e1fb8f0dcfcf8c136868e81eb1",
+        "sha": "ea15496d4bafc90122c8ae6980b0ce30fbfeb6ab",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8f7157fbb3bd3005853ba704e685da4cafb3f2d4",
-        "version": "4.2.0-alpha01",
+        "sha": "017d82038f43461c008fd5738dbe88b565807d91",
+        "version": "4.2.0-alpha02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "b4635c41a8dd5e30edf480b0c9bdc80d0fda0520",
+        "sha": "cb2617dee00d127c73c6339cc794db7483de5996",
         "version": "v0.20.1",
         "pre_release": "false"
     },
