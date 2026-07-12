@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "bd646d68abeb00cfcab5097f9818e564621a8468",
+        "sha": "ba7a6fa5882262198465307c25c0999d148e26a3",
         "version": "4.9",
         "pre_release": "false"
     },
