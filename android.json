@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "057ee6c13f140de9bfb59fe15e240d3a194d77af",
+        "sha": "37400d67449033d69b7fd0605458bee8346f9db0",
         "version": "v6.0.0-alpha01",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "2bd60251503af5c4552cc24565d90798e558dd0a",
+        "sha": "7a045173079046388162340a56d9420def60f248",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "77153c153a11174c01c3e9417ca3ebab302503aa",
-        "version": "2.0.9.2",
+        "sha": "c1aeaca09e24f67e75685c7744fd1aa0a94b439a",
+        "version": "2.1.0",
         "pre_release": "false"
     },
     "PixEz": {
