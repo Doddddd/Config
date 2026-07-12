@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "37400d67449033d69b7fd0605458bee8346f9db0",
+        "sha": "59149705e15bdb77871a239e88c8e7072d0886ed",
         "version": "v6.0.0-alpha01",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "7a045173079046388162340a56d9420def60f248",
+        "sha": "bd646d68abeb00cfcab5097f9818e564621a8468",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "35229d1258f441dbeec9b8c9162f727edfe3f202",
+        "sha": "0eb0e0699b0309b5f197dfb2db5fb92eabbb7dfa",
         "version": "0.1.2",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "1639d4eafb006b24289b8a9e5470c3ec1e846ea2",
+        "sha": "40a51829a3cfadb19ba4d0836f051673c29dc9f4",
         "version": "0.9.104",
         "pre_release": "false"
     },
