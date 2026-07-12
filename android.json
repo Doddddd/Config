@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "d11d9233dd1ead555b6c36435adbc93b5cb67401",
+        "sha": "2ee3eeec85b90618554113199565f732a3813e90",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6b62514e62a8d92ac16af8891897aab328c82bfe",
+        "sha": "6a51207259e712d3058b640e55d81ef5436f3f20",
         "version": "4.2.0-alpha02",
         "pre_release": "true"
     },
@@ -263,7 +263,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "d667d65a117176c17f7d27dc526decdbf61ed1a3",
+        "sha": "910fd564c47f77ab6a807f1bc122279e7b9aa0b1",
         "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
