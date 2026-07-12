@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "9e08cda3246b9e8a27652f31ff708d51ba0ada43",
+        "sha": "f8d059e718ad024e4b8b8b63782bada9c5161972",
         "version": "v6.0.0-alpha01",
         "pre_release": "true"
     },
@@ -62,13 +62,13 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ea15496d4bafc90122c8ae6980b0ce30fbfeb6ab",
+        "sha": "2bd60251503af5c4552cc24565d90798e558dd0a",
         "version": "4.9",
         "pre_release": "false"
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "5f2abdea96db6924f117ced2a68d1fda0ed2b6c1",
+        "sha": "d11d9233dd1ead555b6c36435adbc93b5cb67401",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "017d82038f43461c008fd5738dbe88b565807d91",
+        "sha": "403ba30556f1499157d809357bd93eb154d00d8a",
         "version": "4.2.0-alpha02",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "cb2617dee00d127c73c6339cc794db7483de5996",
+        "sha": "d171768cff753dd41da0d0a85c3647fb3f10fe7e",
         "version": "v0.20.1",
         "pre_release": "false"
     },
