@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v134",
+        "version": "v135",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "59149705e15bdb77871a239e88c8e7072d0886ed",
+        "sha": "4e7d81ba5e3545f36dc8d311eaa12742c1277676",
         "version": "v6.0.0-alpha01",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ba7a6fa5882262198465307c25c0999d148e26a3",
+        "sha": "68ec7b5700c65f55f575bd2f64e73e190c5da05a",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "6a51207259e712d3058b640e55d81ef5436f3f20",
+        "sha": "12ad06ba5046ad4d937a4fd3ad467fd5e6c20376",
         "version": "4.2.0-alpha02",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "526d79a975d3cafca37d90093170136c0345a093",
+        "sha": "ef1e7ba907f9dd89bf4aa5b16142daa9e4d28a00",
         "version": "v0.20.1",
         "pre_release": "false"
     },
