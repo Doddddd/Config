@@ -13,8 +13,8 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f0fe593b1d4fa7859898fab1d1cb7ae938887706",
-        "version": "v6.0.0-alpha01",
+        "sha": "4242637b66dd12f8c432de590df907c90eb0821f",
+        "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
     "AuroraStore": {
