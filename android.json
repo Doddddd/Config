@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "073cd888be30038222c5d6f8fde6af5712242166",
+        "sha": "402536e8a4886211ac56a940ef98c4ee326795d1",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8ac2e0d259a05cc70ead1888a434c5555912b507",
+        "sha": "e58f0d966c17eae5801986a1bc5b2b0209d1b65e",
         "version": "4.2.0-beta01",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ef1e7ba907f9dd89bf4aa5b16142daa9e4d28a00",
+        "sha": "ef1c5296724a88c9d5abeee04232c0c75c029951",
         "version": "v0.20.1",
         "pre_release": "false"
     },
@@ -250,13 +250,13 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "401bbe54b8f4e68302b1ff70678015a24628fb1d",
+        "sha": "3df69d1da197dd9bd71a3bafd902dffd720576b4",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a92a325876dd45520056b15100d755bf0762bdbf",
+        "sha": "4ffe8428d7de2cc28059a1c181824a0b7bbe15f7",
         "version": "THUNDERBIRD_20_1",
         "pre_release": "false"
     },
