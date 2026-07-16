@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7ccea4ea91da8d1c5cf84fb208cd84484a590442",
+        "sha": "25b8b8cc88249a3cf4d574c12c6721f780a6d6f2",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "c3b99aea0723bc9b34a4c71afb2b12d654c09ef7",
+        "sha": "493140c7ff2e048eb09856d37834f18fbd3f6de0",
         "version": "v0.20.1",
         "pre_release": "false"
     },
@@ -238,7 +238,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "9b50143d8896d255d03155598937e4f3e28afd86",
+        "sha": "9bcf3d2769c6d3f07105a992e5d9493e33ac3348",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
