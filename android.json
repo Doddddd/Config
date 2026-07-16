@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "b3b8f8aa119aebf850be63d5effe10988f59c761",
+        "sha": "7ccea4ea91da8d1c5cf84fb208cd84484a590442",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "68ec7b5700c65f55f575bd2f64e73e190c5da05a",
+        "sha": "072cd95d9ba47a41de7f1d0a9c44974a505d5d20",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "e58f0d966c17eae5801986a1bc5b2b0209d1b65e",
+        "sha": "10c0fcb231785a17b6b2cf82f307c768b920fd2c",
         "version": "4.2.0-beta01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "702df218504081ee832f7dfe5b0b90dd6cd0f439",
+        "sha": "52d327b36683f719a83dd9029407da5f402a006c",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ef1c5296724a88c9d5abeee04232c0c75c029951",
+        "sha": "c3b99aea0723bc9b34a4c71afb2b12d654c09ef7",
         "version": "v0.20.1",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "1fede8d5d31ecc7554c5897b1a2f6e5860856f58",
+        "sha": "fb55307f2c93951d44a2dd636ebc7d8f3cc5aa39",
         "version": "0.2.0",
         "pre_release": "true"
     },
