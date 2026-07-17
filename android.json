@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "25b8b8cc88249a3cf4d574c12c6721f780a6d6f2",
+        "sha": "0777b3a0a35ccf55119238a31b54d135edd652e5",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d04527139af8488bd6feeccc4b9268535ed69033",
-        "version": "4.2.0-beta01",
+        "sha": "d945279c12d7515c8ba22b68e7cf0cfc52248f6d",
+        "version": "4.2.0-beta02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "1e8f8f92f761b22ec235c87ba945c63fc64ed4b1",
+        "sha": "359d54cc2e0d51a3a03e841ff64d34e63a7a4a79",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "0f542bd8cd40668cf751402e0ea8b1936cc34699",
+        "sha": "e181e9c471c0170bafce523936da433df993f9b6",
         "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "4ffe8428d7de2cc28059a1c181824a0b7bbe15f7",
+        "sha": "f5d36f7c53ddfdd5819f2af74fcdec0d0a0a9d3d",
         "version": "THUNDERBIRD_20_1",
         "pre_release": "false"
     },
