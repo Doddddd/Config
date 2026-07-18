@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "c67ed9c9445bba3626cdac3249f788d6e49cba6d",
-        "version": "v2.11.31",
+        "sha": "82b73a4bca24f1606e4b443bc9574cf1758c9693",
+        "version": "v2.11.32",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -154,7 +154,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.28",
+        "version": "v1.19.29",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -263,7 +263,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "910fd564c47f77ab6a807f1bc122279e7b9aa0b1",
+        "sha": "106e86b72a0292874bd2840de74e9c3ba578483e",
         "version": "v4.0.0-beta.4.4",
         "pre_release": "true"
     },
