@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5c5de232f73a185d7eb3814883979a562362be8c",
+        "sha": "a826b52ee02f6ca1dbf6fbcd8d4980cc7b07a453",
         "version": "4.2.0-rc02",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "27dd039b126c09c051bb28b420b1341356f4ca3b",
+        "sha": "b2e96d54c9beeea15c961b464332f695c676f7d7",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5ce7d00eb8145eb4072a77ba1d304072aaaa0518",
+        "sha": "98705910e72cb72fa1792e6152a39f777a8a05ac",
         "version": "v0.20.1",
         "pre_release": "false"
     },
