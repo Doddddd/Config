@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "bfdf399bdc1422c649dc03b0fbf63f3a301c30ee",
+        "sha": "4be4a15dbfff31f4991ce0f9f309debbd6546dda",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "d523eb3236bb1c5f9397e26f8bd4acd47f7983ba",
+        "sha": "d601ddf03ff2b8fab42baf2d57dab0ab806d972e",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "03229a3807481f37bd51d976256485a04119499a",
+        "sha": "5ce7d00eb8145eb4072a77ba1d304072aaaa0518",
         "version": "v0.20.1",
         "pre_release": "false"
     },
