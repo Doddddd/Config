@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "072cd95d9ba47a41de7f1d0a9c44974a505d5d20",
+        "sha": "ef3bc55ab02b65bfa424d86842a70ee49a2fd2df",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ef5ca71a6ee5f5fe9fbf45b7742a6ff5b1a2547d",
+        "sha": "a2174e62b2711ebb473d57abac2297aa6865c8c7",
         "version": "4.2.0-rc01",
         "pre_release": "true"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b6e50f9a4f5fa7a14b68e7945d172ddbeae36415",
+        "sha": "d523eb3236bb1c5f9397e26f8bd4acd47f7983ba",
         "version": "v3.2.5",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "9e87899d06b1c0c2f9e64d75a858bf8b1213dce0",
+        "sha": "c316c9208905f0b71ee2038c6eb0bd3c84d7b7fd",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "2fce1c20c869c8bb98c5142b6eb12cf15c7b0a2a",
+        "sha": "ed7d3a00b8800b5d29d43c74f54ffa42a6254fa5",
         "version": "0.2.0",
         "pre_release": "true"
     },
@@ -264,7 +264,7 @@
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
         "sha": "106e86b72a0292874bd2840de74e9c3ba578483e",
-        "version": "v4.0.0-beta.4.4",
+        "version": "v4.0.0-beta.5",
         "pre_release": "true"
     },
     "TMoe": {
