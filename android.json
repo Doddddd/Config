@@ -100,7 +100,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "5c5de232f73a185d7eb3814883979a562362be8c",
-        "version": "4.2.0-rc01",
+        "version": "4.2.0-rc02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "c316c9208905f0b71ee2038c6eb0bd3c84d7b7fd",
+        "sha": "27dd039b126c09c051bb28b420b1341356f4ca3b",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -263,8 +263,8 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "106e86b72a0292874bd2840de74e9c3ba578483e",
-        "version": "v4.0.0-beta.5",
+        "sha": "6aafae6120214a344f9b57f50ef687f5b31dd065",
+        "version": "v4.0.0-beta.5.1",
         "pre_release": "true"
     },
     "TMoe": {
