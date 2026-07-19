@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ef3bc55ab02b65bfa424d86842a70ee49a2fd2df",
+        "sha": "bfdf399bdc1422c649dc03b0fbf63f3a301c30ee",
         "version": "4.9",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cc6446c86d52ab367994911fbff7f61069293f45",
+        "sha": "5c5de232f73a185d7eb3814883979a562362be8c",
         "version": "4.2.0-rc01",
         "pre_release": "true"
     },
