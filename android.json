@@ -62,8 +62,8 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "4be4a15dbfff31f4991ce0f9f309debbd6546dda",
-        "version": "4.9",
+        "sha": "af7b1de8ab5480cb0cb422d63d97d31a305f4922",
+        "version": "N-1.0",
         "pre_release": "false"
     },
     "DataBackup": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "d601ddf03ff2b8fab42baf2d57dab0ab806d972e",
+        "sha": "e9e5b616a433b32c286dbf3f6708afd0c5ef7485",
         "version": "v3.2.5",
         "pre_release": "false"
     },
