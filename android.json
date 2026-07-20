@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "23dd8387e0e24b63f9c30848c0ed417bc475f8da",
+        "sha": "3148c006c14fcaf2cadde4d1f2b59a946507945a",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
@@ -166,7 +166,7 @@
     "Monogram": {
         "repo": "monogram-android/monogram",
         "sha": "c2c2bc6987d1dee296fb2b60c22dd6ee20aba462",
-        "version": "0.2.0",
+        "version": "0.2.1",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f5d36f7c53ddfdd5819f2af74fcdec0d0a0a9d3d",
+        "sha": "114fcec572d6039f9251a17b58e613ab82d0659c",
         "version": "THUNDERBIRD_20_1",
         "pre_release": "false"
     },
