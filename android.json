@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "06790fb2a72dae4ceacabb45e19c58b64b7ced01",
+        "sha": "5d2bd05c4da8251afc5b77efd80de211bd999b59",
         "version": "4.2.0-rc03",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "b2e96d54c9beeea15c961b464332f695c676f7d7",
+        "sha": "f4ecfe1a1b4621e324664407b322c00ed774ad1f",
         "version": "2.5.4",
         "pre_release": "false"
     },
