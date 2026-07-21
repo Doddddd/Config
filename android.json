@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "fb852d8804ae6c8aabe8b0c9b238fe0c5502f30d",
+        "sha": "9408c7db0cd085b7ca5364b9bdb6daa1259bd1d1",
         "version": "4.2.0-rc03",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "baa0fb7ecb0c20ba723b5933da2c795a4fe44d42",
+        "sha": "628cb58862f724a0874a9a116963a5b87eac9c52",
         "version": "v0.20.1",
         "pre_release": "false"
     },
