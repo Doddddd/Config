@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5d2bd05c4da8251afc5b77efd80de211bd999b59",
+        "sha": "7bed3cef3ab8582aca73e032f8931a0fec33bde7",
         "version": "4.2.0-rc03",
         "pre_release": "true"
     },
@@ -256,8 +256,8 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "114fcec572d6039f9251a17b58e613ab82d0659c",
-        "version": "THUNDERBIRD_20_1",
+        "sha": "f0f0ccf1d1eaf7df71dc212dce1e3bfc81e04843",
+        "version": "THUNDERBIRD_21_0",
         "pre_release": "false"
     },
     "TiebaLite": {
