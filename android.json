@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "a2b0fdd39c37a42a5e7421318b5b30656e0e73f9",
+        "sha": "c04046a227627a90a32d3c5461d8d41bdfceaf71",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -226,7 +226,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "96f96c644475dfc16643e5fa882f19af2a21e1d4",
+        "sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42",
         "version": "1.13.2",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f0f0ccf1d1eaf7df71dc212dce1e3bfc81e04843",
+        "sha": "b3e9f688f4fc4acedb23cc0e7d9a219cc78fee34",
         "version": "THUNDERBIRD_21_0",
         "pre_release": "false"
     },
