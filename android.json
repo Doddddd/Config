@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "3c181c9cd0e4a0c865293eef7e890ac66064038e",
+        "sha": "425ca40755112acffa2fc75c850a52e3af579e07",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "33a3833d365c632108a8c0e8eb078cd62167dfe9",
+        "sha": "699a8c5f2a2ffd39e6865bb546bd2c65e4adc946",
         "version": "4.2.0-rc03",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "c2c2bc6987d1dee296fb2b60c22dd6ee20aba462",
+        "sha": "a475d7ee75afe6ea4a3c21de7b2c4f948f6e8b35",
         "version": "0.2.1",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "dae8df840a2b8c31f4ff2b7e24fea53c8be24788",
+        "sha": "8f48ddb42a874e1af3845392ad0c600b5b100b01",
         "version": "2.1.0",
         "pre_release": "false"
     },
