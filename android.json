@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "699a8c5f2a2ffd39e6865bb546bd2c65e4adc946",
-        "version": "4.2.0-rc03",
+        "sha": "4e0ef231d33bad66e2f7357be389e2d64c208d85",
+        "version": "4.2.0-rc04",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "628cb58862f724a0874a9a116963a5b87eac9c52",
+        "sha": "d72ae365cbff215c8443c327a962b00e43e23fbe",
         "version": "v0.20.1",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8f48ddb42a874e1af3845392ad0c600b5b100b01",
+        "sha": "39240598b04adcc6ed07807937fe94b53cd45dcd",
         "version": "2.1.0",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "e181e9c471c0170bafce523936da433df993f9b6",
+        "sha": "235e98667abd5cbdc983bdfae01fb9a6e7c83ff8",
         "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
