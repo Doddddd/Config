@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "82eff37df8174b861597b259ee7f221430691548",
+        "sha": "87a62b76c9d3dd31495f63508469601237b1ad09",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "d97bfe3f152374304db1b2f6ac0ae6147610ae28",
+        "sha": "0ca091ac48661b7fd2dc445e14d66e9042cfc06e",
         "version": "2.1.0",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "12b6c92856970386c34a90827135746e0da34a6e",
+        "sha": "5fb7a080581df0bf799a23ba9d7bdf3e20ea6d9b",
         "version": "0.9.104",
         "pre_release": "false"
     },
