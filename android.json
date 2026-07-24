@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "0a61f72c8ed7058a48b290f384f215b34843f1c0",
-        "version": "v6.0.0-alpha02",
+        "sha": "e94eab15f140d97a13099e9e05c22b34ba006a01",
+        "version": "v6.0.0-beta01",
         "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "ee0ccdeaae13992844646576441fe7b43c0751c8",
+        "sha": "3ef392f53afab7c924e821377ea75277cee58bf2",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "784219fb2538c8cadea4e5370b3b95b30f67609e",
+        "sha": "3ed1447f8c229e5aa0d72a57eca2d1ead0ec575d",
         "version": "THUNDERBIRD_21_0",
         "pre_release": "false"
     },
