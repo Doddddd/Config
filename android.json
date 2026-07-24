@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "555b1615d1ce0d3435804d8e98bc1d022241dfdf",
+        "sha": "b6f81897024bec501f8f7ecec9d4549bec726e30",
         "version": "v6.0.0-alpha02",
         "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "c04046a227627a90a32d3c5461d8d41bdfceaf71",
+        "sha": "ee0ccdeaae13992844646576441fe7b43c0751c8",
         "version": "4.8.3",
         "platform": "gitlab",
         "pre_release": "true"
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "eeda61d976925ad9450b7bdacfe20fb09453be95",
-        "version": "4.2.0-rc04",
+        "sha": "8bc04d6a8ad52f180cb7a8668273a9900004ead7",
+        "version": "4.2.0-rc05",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d72ae365cbff215c8443c327a962b00e43e23fbe",
+        "sha": "9c3cc1ca5f0011c4b3638d8f5272080d219bfb2e",
         "version": "v0.20.1",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "11da0cc8f013ac6683286bb75d550023fc055d9b",
+        "sha": "d911b8901a40143b8870612a7dc975d6261fcdac",
         "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
@@ -256,7 +256,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "38a4b0aeb5a92dc0cdfcdda45f654b1081de46c5",
+        "sha": "784219fb2538c8cadea4e5370b3b95b30f67609e",
         "version": "THUNDERBIRD_21_0",
         "pre_release": "false"
     },
