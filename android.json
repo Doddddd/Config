@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "364925b771543029d0802bffb0a45efba4ee7df7",
+        "sha": "6e3d7952b9c51b329fa713bc08b40a3e0efd83b5",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -99,13 +99,13 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "8bc04d6a8ad52f180cb7a8668273a9900004ead7",
+        "sha": "6ae1c7dda6c7db001b314efb5cb2870d5be17aed",
         "version": "4.2.0-rc05",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "bbfece4ad9a8bff5931ca519338cddfefae50cf0",
+        "sha": "3a7ee0b5a3a588c35b1ec8c93bc8524c563ef053",
         "version": "v0.6.0",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "a475d7ee75afe6ea4a3c21de7b2c4f948f6e8b35",
+        "sha": "2ea8f7a626cf44de7049038c7aaef2074a48f421",
         "version": "0.2.1",
         "pre_release": "true"
     },
