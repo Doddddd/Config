@@ -212,12 +212,6 @@
         "version": "0.16.2",
         "pre_release": "false"
     },
-    "RSAF": {
-        "repo": "chenxiaolong/RSAF",
-        "sha": "00df62a6423f86e2e250cb30b0b87f58ecf8d355",
-        "version": "v4.7",
-        "pre_release": "false"
-    },
     "Sui": {
         "repo": "RikkaApps/Sui",
         "sha": "2f5fd2a04bc061eb2a8431cc3ede9066954f5a7c",
