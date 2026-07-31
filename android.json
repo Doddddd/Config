@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "380e51fa2db959a8d10565a593d9078cf24bb91b",
+        "sha": "4096576f2c17595289b2b382e2da9494c7bad6f4",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "98c648b1ea7256af7a6d75c3fa1336d09e8ef4d6",
+        "sha": "a3e6ae8ff181091d2574ae8e67472c71e2232d6a",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "478e4c8319b058e824cf677b463b0e4fd5d3498a",
+        "sha": "69323226fd8f2573bc8d91eb1036cb024f719013",
         "version": "v1.6.1",
         "pre_release": "false"
     },
