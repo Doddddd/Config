@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "08215d60ba3a574c77eca689f86dfab983e8742b",
+        "sha": "92091124a33f3b0f94e2d4c67c42b54cd976e4f3",
         "version": "4.2.0-rc07",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e892411092772951e8aa63b7d0e235080648a70a",
+        "sha": "55b4fa6fe7416b05f55b28af5917e32241c4b838",
         "version": "2.1.0",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "1e7afb4c551f1ff6b592b5954be377b99a8b7208",
+        "sha": "59f79ba2837f2091406c56a2ca225249b749ab2e",
         "version": "1.98.8-t1241b225b-gbcbaf1889",
         "pre_release": "false"
     },
