@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "0404e0ca346d9bdeeb9fe9d951c599c05b2583f6",
+        "sha": "fd0cb66b6b41af41564e692f39db57f21cf378ad",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "90d8e8b2f202eb3bcd7188b5601e55389584d489",
+        "sha": "f9a9e221b08159f08a8a007fb82bd82c6170e5ea",
         "version": "2.1.0",
         "pre_release": "false"
     },
