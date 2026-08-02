@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "009d1a82da5222700a30875afe2490f63944aa7f",
+        "sha": "e19c2439932ed3e1babfa9103028a7a6233d7126",
         "version": "v6.0.0",
         "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "ad3d349edce82e119ba239f3a07b3afe028abd19",
+        "sha": "4b717c67ca6227a4e8705699c70712edcdd4d480",
         "version": "4.8.4",
         "platform": "gitlab",
         "pre_release": "true"
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "d502b0a4f96917399e74658ae36bade2b6e309d2",
+        "sha": "cfe88a90a190cf0b2fd1b66cee4a3d735c1f7272",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "69323226fd8f2573bc8d91eb1036cb024f719013",
+        "sha": "72b7ff9881d7d14f5d04f8f35f616921cb152fc9",
         "version": "v1.6.1",
         "pre_release": "false"
     },
