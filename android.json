@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "cfe88a90a190cf0b2fd1b66cee4a3d735c1f7272",
+        "sha": "15177d1c27046e9846fb775390195b1b09aa3d78",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0648e2eaafdc037d447cfad4924be1b362c1b7b3",
+        "sha": "d7f3ceef5c75294306d0d9495e9ebc5ffca96302",
         "version": "v0.20.2",
         "pre_release": "false"
     },
