@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "73626a84bb7f8e478d74dd3dfa145d925a71f469",
-        "version": "v6.0.0-beta02",
-        "pre_release": "true"
+        "sha": "009d1a82da5222700a30875afe2490f63944aa7f",
+        "version": "v6.0.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -94,7 +94,7 @@
     "Hide-My-Applist": {
         "repo": "Dr-TSNG/Hide-My-Applist",
         "sha": "bd5466b37bae15e3ea2a66694e7624ce3d33479d",
-        "version": "V3.6.1",
+        "version": "v3.8.3",
         "pre_release": "false"
     },
     "ImageToolbox": {
@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "4296d056b5ab1a85e2861c21709996bf8a405a11",
-        "version": "v0.20.1",
+        "sha": "0648e2eaafdc037d447cfad4924be1b362c1b7b3",
+        "version": "v0.20.2",
         "pre_release": "false"
     },
     "Monogram": {
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "8065b6cc3f9d9175487754cbebe47152fc882218",
+        "sha": "52886c235a210fa74806786697bac69f14ec7497",
         "version": "v0.29.0",
         "pre_release": "false"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "9005a66e0bed5dbc762acdc8137d6f8fb710566e",
+        "sha": "b25ccc48bde2a7700bca212b7d00122d11a9b0c0",
         "version": "v3.0.7",
         "pre_release": "false"
     },
