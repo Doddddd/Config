@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v137",
+        "version": "v138",
         "pre_release": "false"
     },
     "Animeko": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d7f3ceef5c75294306d0d9495e9ebc5ffca96302",
+        "sha": "55be95dd5df7ac985bbc68ea62a5a525611a732f",
         "version": "v0.20.2",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "9bcf3d2769c6d3f07105a992e5d9493e33ac3348",
+        "sha": "45ab8f4308496e1f01026a97fcdb0d58a5274474",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "20ed65762517c801f87cb87e17e70316c072b444",
+        "sha": "dfe46ac895a647a786b41484e4390d49008ba3ae",
         "version": "v3.0.8",
         "pre_release": "false"
     },
