@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "249960e0b66c9686d8c3765efe7f3b0f11eb5d06",
+        "sha": "fbca920b0b874583e0e7453ad3763c13f3348cef",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "3add40afde1c8910cd105dc100e7178380de4b78",
+        "sha": "f6d12007d740cda5df0243daee1ef448d1fe6fd9",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "55be95dd5df7ac985bbc68ea62a5a525611a732f",
+        "sha": "f80c91081f32aca1662435674fa5aa5c96852705",
         "version": "v0.20.2",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "72b7ff9881d7d14f5d04f8f35f616921cb152fc9",
+        "sha": "896237e4a7f222afb8605d3ae3981bdceb2863c7",
         "version": "v1.6.1",
         "pre_release": "false"
     },
