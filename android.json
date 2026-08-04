@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "4096576f2c17595289b2b382e2da9494c7bad6f4",
+        "sha": "0c7a32e1e5eb744f5edb57d362ae1c848376b8a0",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f80c91081f32aca1662435674fa5aa5c96852705",
+        "sha": "f7a1ecd25163b05b847cd81fd324cb87e8bc796e",
         "version": "v0.20.2",
         "pre_release": "false"
     },
@@ -251,8 +251,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "353dc2309715f9f50fe81157f3177afd7be1008a",
-        "version": "THUNDERBIRD_22_0b2",
-        "pre_release": "true"
+        "version": "THUNDERBIRD_21_1",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "dfe46ac895a647a786b41484e4390d49008ba3ae",
+        "sha": "6e3d4a4f9db4f72d0d4a422350b5234cddb52c48",
         "version": "v3.0.8",
         "pre_release": "false"
     },
