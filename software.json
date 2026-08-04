@@ -17,6 +17,6 @@
     },
     "Intel-WiFi": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
-        "version": "24.50.0"
+        "version": "24.60.0"
     }
 }
