@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "3939091ed2b3ca58910ebffbfed83c4691bdbcdf",
+        "sha": "5bd1efe61db23f544df43ab012799ba01e368db9",
         "version": "v4.1.4",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "fd0cb66b6b41af41564e692f39db57f21cf378ad",
+        "sha": "0b0ee5611e2b9ee1305e34ce8fd0d9a384222a9c",
         "version": "v30.7",
         "pre_release": "false"
     },
