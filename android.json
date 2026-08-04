@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "81e0754c0da69341299857d79626954e021db5a7",
+        "sha": "71deefb6fd193724d1048e0c53f59ccc3e07b955",
         "version": "v0.20.3",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "1b48d365815e37a4da3ec088ff3beed5269199d2",
+        "sha": "3fe1c774d0b144d91d5178263b4d6b1e086a58d5",
         "version": "0.9.105",
         "pre_release": "false"
     },
