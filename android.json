@@ -165,8 +165,8 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "2ea8f7a626cf44de7049038c7aaef2074a48f421",
-        "version": "0.2.1",
+        "sha": "3b197f7caffb1df0992ee52c7f0563699094edb4",
+        "version": "0.3.0",
         "pre_release": "true"
     },
     "NewPipe": {
