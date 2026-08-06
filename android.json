@@ -13,13 +13,13 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "fbca920b0b874583e0e7453ad3763c13f3348cef",
+        "sha": "7d74425b703938e9a50860216a9bd272f881fd95",
         "version": "v6.0.0",
         "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "4b717c67ca6227a4e8705699c70712edcdd4d480",
+        "sha": "0f6c0d01d490da4f8d59542c049fa3a22e0b00cf",
         "version": "4.8.4",
         "platform": "gitlab",
         "pre_release": "true"
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "bcb694384de8462302448cab6a3dfb1853ba5d5e",
+        "sha": "25bf2aa313d54f605f94fb27edbd73364ef1e83b",
         "version": "0.1.3",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "9bd037ae5d68d3a9bbaab529c5a3d41df51d7031",
+        "sha": "ede844bdaa4d673617c0f14a991a79542c95967c",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "21c63579678be4cfe19ba0982d8a158fe300f278",
-        "version": "v0.20.3",
+        "sha": "869fa1a4b2e3b79a4064ce9a34c405b374c77652",
+        "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "3fe1c774d0b144d91d5178263b4d6b1e086a58d5",
+        "sha": "d4893fbdc65f8c247e67a85e0610c0de430034df",
         "version": "0.9.105",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "1cd004055829a6bfc1395a1e95fe5fc1b60a47cc",
+        "sha": "cc7fa3925e32816c17eca6bc22f9f345f4920089",
         "version": "THUNDERBIRD_21_1",
         "pre_release": "false"
     },
