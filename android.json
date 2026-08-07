@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cafc0c961287231bac1cfa29ad59223e9738d31b",
-        "version": "4.2.0-rc07",
+        "sha": "53baca5cf1e53933e2d6287fb950e75712235b5a",
+        "version": "4.2.0-rc08",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "4cedcc844da2f8f6b72c6102817be0061db68e9a",
+        "sha": "e6cc0ef7b0cf7a96af553dedd3282eb3f8ad8d03",
         "version": "v3.2.5",
         "pre_release": "false"
     },
