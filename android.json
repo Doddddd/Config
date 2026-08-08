@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "cdb2a8082f077ad50a414bda4cb0d8eda75c3f9e",
+        "sha": "699233b4e0377e36a1f853e670e2bf3fbf8cee7b",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "0dd7c5c185b75f7dd924aa05f23e90c0b49ad8d9",
+        "sha": "9b9a11a4d4c932ab69a13ab5737efc31e90ca41f",
         "version": "v1.6.1",
         "pre_release": "false"
     },
