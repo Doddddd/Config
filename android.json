@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "70a43af0565c17c38c42346d16fefd392444ba65",
-        "version": "v3.5",
+        "sha": "a4a8db86d406490f46200ab35764e55b316d16ac",
+        "version": "v3.6",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "35f60cfc70fbd8d0414b290f1bb5de64b34b303d",
+        "sha": "89f4c7df4c9b66c33f73510f77d880930744855a",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "283fbfc5367bf20eff02f06aff813cabffb75bca",
+        "sha": "4aef9ab2b9e7a2d04f55e9fa665f384b1deea25b",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "53baca5cf1e53933e2d6287fb950e75712235b5a",
+        "sha": "09059f46551f965afc37af7b243376de2d805467",
         "version": "4.2.0-rc08",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f9156aa17aa8bffcb284004ca962e6ce10f5c039",
+        "sha": "ed274e26fd39e4aa6ee2c9fa2ac2dd8eb3f246f0",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -227,7 +227,7 @@
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "8438d9619ebc241817746d23518392027d1ba54d",
-        "version": "1.98.8-t1241b225b-gbcbaf1889",
+        "version": "1.102.2-t6cac91817-g8c99ed49d",
         "pre_release": "false"
     },
     "Telegram": {
