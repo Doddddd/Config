@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "0f6c0d01d490da4f8d59542c049fa3a22e0b00cf",
+        "sha": "78fa933a080b16587624529cf854e5440c7d2e9f",
         "version": "4.8.4",
         "platform": "gitlab",
         "pre_release": "true"
