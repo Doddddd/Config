@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7d74425b703938e9a50860216a9bd272f881fd95",
+        "sha": "340a26eaf741e89265ec0ebf7b2511695d05e9d7",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "e6cc0ef7b0cf7a96af553dedd3282eb3f8ad8d03",
+        "sha": "5018d57a49da27ae9d717c362ab0fd1526c54a15",
         "version": "v3.2.5",
         "pre_release": "false"
     },
