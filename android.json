@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "09059f46551f965afc37af7b243376de2d805467",
+        "sha": "bc5a2165f3a69bb08bbcb764672a918007d2d174",
         "version": "4.2.0-rc08",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "5018d57a49da27ae9d717c362ab0fd1526c54a15",
+        "sha": "7d7322f20b3163b254e90e81a67e0a6b9c1f0e77",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "8fa622eb861ff8cf7ef6e2ae406f8fbecd1916fb",
+        "sha": "36dec609315cd34f8895cf15607f1cc582a66f01",
         "version": "2.1.0",
         "pre_release": "false"
     },
