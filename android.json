@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "340a26eaf741e89265ec0ebf7b2511695d05e9d7",
+        "sha": "af9231b7090f0039aec46e09c14c455fe84ff09c",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "f970fe14c84105262963ff4b6d2c4acd33752a87",
+        "sha": "2cbd18ebf143e344fcdbeae2efd39aa936137238",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "bc5a2165f3a69bb08bbcb764672a918007d2d174",
+        "sha": "ae0c46ecac43ee9dcfe04aecd674a5417d37d2bb",
         "version": "4.2.0-rc08",
         "pre_release": "true"
     },
@@ -148,8 +148,8 @@
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
         "sha": "disable",
-        "version": "v7.9",
-        "pre_release": "false"
+        "version": "v8.0-beta.1",
+        "pre_release": "true"
     },
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "e841b3571f3e836d02a001a8391118f1b81d8849",
+        "sha": "020c2385814b17d47604bbf16fdcec2745d0d878",
         "version": "v4.0.0-beta.5.1",
         "pre_release": "true"
     },
