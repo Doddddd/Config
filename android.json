@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "86997a5a7d84c780379ed44ed7727097af41e1cb",
+        "sha": "b4e43ab64d376e7963dab4843cfd84eee78cf836",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ae0c46ecac43ee9dcfe04aecd674a5417d37d2bb",
+        "sha": "cfe3733de9f602bf901f2725d15d6f10ad26f61b",
         "version": "4.2.0-rc08",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9ecf8d4634f8b4ccfd182f68787fcbf9f7b73990",
+        "sha": "f60511cb9e554f82056c36231697ea61e4c4b64d",
         "version": "THUNDERBIRD_21_1",
         "pre_release": "false"
     },
