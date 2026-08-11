@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "4a5f431127bb360db30088377c4374538c8d1692",
+        "sha": "243f0dd161b4899e57f2072c0f8597fef245a396",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "ede844bdaa4d673617c0f14a991a79542c95967c",
+        "sha": "290200b990973ab0a947904353c6acb2312cbd54",
         "version": "v30.7",
         "pre_release": "false"
     },
