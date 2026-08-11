@@ -19,7 +19,7 @@
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
-        "sha": "78fa933a080b16587624529cf854e5440c7d2e9f",
+        "sha": "f1bb85ff9dcbcc5cae07779d4e13f77b6b7f245b",
         "version": "4.8.4",
         "platform": "gitlab",
         "pre_release": "true"
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cfe3733de9f602bf901f2725d15d6f10ad26f61b",
+        "sha": "692747bb3f67771caf750add1aff14846b9aaf10",
         "version": "4.2.0-rc08",
         "pre_release": "true"
     },
