@@ -251,8 +251,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "dd268551716c3a6fd82f1d7b4db9c44625b3ec37",
-        "version": "THUNDERBIRD_23_0b1",
-        "pre_release": "true"
+        "version": "THUNDERBIRD_22_0",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
