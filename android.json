@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "699233b4e0377e36a1f853e670e2bf3fbf8cee7b",
+        "sha": "3bfc2fc14fda5b612899bf9ed3b4ec3cfea4998d",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "8438d9619ebc241817746d23518392027d1ba54d",
+        "sha": "9e36771a4fd9fce1ab1564029ecdc9fbd9ee7dc0",
         "version": "1.102.2-t6cac91817-g8c99ed49d",
         "pre_release": "false"
     },
@@ -250,9 +250,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f60511cb9e554f82056c36231697ea61e4c4b64d",
-        "version": "THUNDERBIRD_21_1",
-        "pre_release": "false"
+        "sha": "dd268551716c3a6fd82f1d7b4db9c44625b3ec37",
+        "version": "THUNDERBIRD_23_0b1",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
