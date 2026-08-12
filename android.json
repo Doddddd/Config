@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "bde5f0afbcd688e003e2b5b4e048b578aa5b7fb8",
+        "sha": "ed00d40161c3a842ab46e2cf66f1fcda14a03edd",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "2cbd18ebf143e344fcdbeae2efd39aa936137238",
+        "sha": "470c1fc8750ad558bcb2915c05e8e94f212f5e57",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "692747bb3f67771caf750add1aff14846b9aaf10",
-        "version": "4.2.0-rc08",
+        "sha": "c940574aeadc49f7b8e5831a47049492edd9e5dd",
+        "version": "4.2.0-rc09",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "d4893fbdc65f8c247e67a85e0610c0de430034df",
+        "sha": "6a021111e49b1d0274f4a7ff8edb8c761601a054",
         "version": "0.9.105",
         "pre_release": "false"
     },
@@ -208,7 +208,7 @@
     },
     "ReadYou": {
         "repo": "ReadYouApp/ReadYou",
-        "sha": "eca65050c70165e18149d058920bd43d8a94d8bc",
+        "sha": "d2b979ccad9a3e54b9499929a9dc2824578b0fd9",
         "version": "0.16.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "dd268551716c3a6fd82f1d7b4db9c44625b3ec37",
+        "sha": "9487bb0c8a3061179e6321800defad0db138bc96",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
