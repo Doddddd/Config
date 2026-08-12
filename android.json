@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "b4e43ab64d376e7963dab4843cfd84eee78cf836",
+        "sha": "af2c313f65c767067b996e8a3413070d25bc892d",
         "version": "v1.10.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a20f5044a46114edcfe4605eb54b5e8dd9164347",
+        "sha": "c1350383f8212c10a1c4fd722c472af520e2911d",
         "version": "4.2.0-rc09",
         "pre_release": "true"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "6a021111e49b1d0274f4a7ff8edb8c761601a054",
-        "version": "0.9.105",
+        "sha": "31711f4c233b2104948e73a57f4e8a4cf5620b3e",
+        "version": "0.9.106",
         "pre_release": "false"
     },
     "QAuxiliary": {
