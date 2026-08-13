@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "470c1fc8750ad558bcb2915c05e8e94f212f5e57",
+        "sha": "2ce8d00fac93bb35d60061fb1c2708579fb79ca3",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "da9abf498a77d438989fea0f5f4e348b9a540c07",
+        "sha": "62e88ca93df8affff54064e74948a37945c1865a",
         "version": "v3.2.5",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "3bfc2fc14fda5b612899bf9ed3b4ec3cfea4998d",
+        "sha": "e7dda37e374be2f127335f33e347048e058d2d18",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "65aa82516f7c8097e05d0db9895e0e839981990e",
+        "sha": "3bdffe695d09fb9dd1637f806d4fb243b3466cd5",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "2506b049642af2211c1ef81e7369f752363f655d",
+        "sha": "db7f1663b7c4fe51d816254d3bd1158cfcce8c8b",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e5dfc6394135c79776f23a3e8e51d2ff35399203",
+        "sha": "efefaf06eb70b82d95950ead4cd75757ee097c57",
         "version": "2.1.0",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "9e36771a4fd9fce1ab1564029ecdc9fbd9ee7dc0",
+        "sha": "0867f01687a3955f7c0b5c6c62b236b997d68601",
         "version": "1.102.2-t6cac91817-g8c99ed49d",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8cd7fd7d5e4210bc3c1e9d0ae0f259839e0f9d19",
+        "sha": "20f083a2b7504944e4cf6ad889bedd497d159c92",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
