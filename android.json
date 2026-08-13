@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "9d0c49e08eac6b7efbf7ffb49bcc91329eb36e83",
+        "sha": "14a8f83ceefadfd54bea84769eb6a6228217c675",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7aac730b6f92012ce3f6c2d6174204a6f6668abd",
+        "sha": "40d05030263a00cbad3aba36eb9231378dc76995",
         "version": "0.3.0",
         "pre_release": "true"
     },
