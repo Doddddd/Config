@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "db7f1663b7c4fe51d816254d3bd1158cfcce8c8b",
+        "sha": "6197768a018077f1a20760146bf5a1c03d661650",
         "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "3b197f7caffb1df0992ee52c7f0563699094edb4",
+        "sha": "7aac730b6f92012ce3f6c2d6174204a6f6668abd",
         "version": "0.3.0",
         "pre_release": "true"
     },
