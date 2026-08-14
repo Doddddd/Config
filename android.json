@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "c9871e9a876cb609f294550ffa1248b38be4c681",
+        "sha": "c92476e671a5d1a3a44d0e59a42c7cfca568a388",
         "version": "2.1.0",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "31711f4c233b2104948e73a57f4e8a4cf5620b3e",
+        "sha": "a779b4b6421b1944fc145862bdd4786e5e3c6924",
         "version": "0.9.106",
         "pre_release": "false"
     },
