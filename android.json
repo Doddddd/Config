@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3124c1bf756a4e2250eb084cb6bdb45406dc219a",
+        "sha": "5b052e875d1ce05a6d58c8b23361417c182c5cd8",
         "version": "4.2.0-rc09",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "6197768a018077f1a20760146bf5a1c03d661650",
+        "sha": "581a89b7b060dc9b345bc290b13502ff9ea3c6bd",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "20f083a2b7504944e4cf6ad889bedd497d159c92",
+        "sha": "b6aa80aee18986045ae65120cfaf7491dd99baf2",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
