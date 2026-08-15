@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e4f477024a836175942596018a83fd41c699882b",
+        "sha": "108c8ce9a31226a9fe7a1313921cf1e56ef59b6f",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "581a89b7b060dc9b345bc290b13502ff9ea3c6bd",
+        "sha": "ed30766a9f58f88e504577de0b098cce7bb6676e",
         "version": "v0.20.4",
         "pre_release": "false"
     },
