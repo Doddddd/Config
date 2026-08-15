@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "c92476e671a5d1a3a44d0e59a42c7cfca568a388",
+        "sha": "3a7d4614743cb7289293d6c47e13d96aec544f18",
         "version": "2.1.0",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "020c2385814b17d47604bbf16fdcec2745d0d878",
+        "sha": "c9cf348e9b861a739a3d1ff55eeffa28afc29665",
         "version": "v4.0.0-beta.5.1",
         "pre_release": "true"
     },
