@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8ae0c6906205ae231469d693657a17f7ccbb1be1",
+        "sha": "9f6b38efbc6c60ea525e15049107c81183d8787a",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ed30766a9f58f88e504577de0b098cce7bb6676e",
+        "sha": "a81b7bce9aec7477cf26da0347314a70bb622e90",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -173,7 +173,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "52886c235a210fa74806786697bac69f14ec7497",
-        "version": "v0.29.0",
+        "version": "v0.29.1",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "ada98bc2261233c115b579d7533f9513181a04da",
-        "version": "0.9.106",
+        "sha": "739cd3e30d4e4bb94cca8967cc27de2d7a7392a2",
+        "version": "0.9.107",
         "pre_release": "false"
     },
     "QAuxiliary": {
