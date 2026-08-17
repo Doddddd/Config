@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5b052e875d1ce05a6d58c8b23361417c182c5cd8",
+        "sha": "59df0f80b37965fdf17ec655f0cbaa87fc0c1312",
         "version": "4.2.0-rc09",
         "pre_release": "true"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "9b9a11a4d4c932ab69a13ab5737efc31e90ca41f",
+        "sha": "9278b93fd4c9c84818ff586f4b135f3dbe012eb4",
         "version": "v1.6.1",
         "pre_release": "false"
     },
