@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "2df350740fa5d19dfff26d931b7bd28f9ef91519",
+        "sha": "4d1a87df653607b35f668d37250f1e1c09cdcffd",
         "version": "v3.2.5",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e7dda37e374be2f127335f33e347048e058d2d18",
+        "sha": "59c51d02cb2d8705aef40679748f4ccc29ad53d6",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "3a7d4614743cb7289293d6c47e13d96aec544f18",
+        "sha": "f8b9ef3e6eca50dafb187cfbcdd67cab78ee4d61",
         "version": "2.1.0",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "739cd3e30d4e4bb94cca8967cc27de2d7a7392a2",
+        "sha": "c9ba568d38690b8cc1fb05a56e0e3432aa324b85",
         "version": "0.9.107",
         "pre_release": "false"
     },
