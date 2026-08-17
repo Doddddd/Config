@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "2ce8d00fac93bb35d60061fb1c2708579fb79ca3",
+        "sha": "5044c37be1cfafa7bc5bfdb7c2d6b22fd7b70488",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "a81b7bce9aec7477cf26da0347314a70bb622e90",
+        "sha": "3e98c15b748de772044d65f3e65eb69ceae43218",
         "version": "v0.20.4",
         "pre_release": "false"
     },
