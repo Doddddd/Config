@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e5e8d4ec6c2a271b826f5ce8341108d4d9f53e54",
+        "sha": "3709828c361b36a37be76f48bbfe9b86e373b4cd",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "a4a8db86d406490f46200ab35764e55b316d16ac",
+        "sha": "06c3404022bf5918bcaa162d1fc9f26a9f32ae0a",
         "version": "v3.6",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "40c0f222451d16dc46d592e02421c1d822045ff7",
+        "sha": "1983bb8c69d1b74889e44b0647263515380b4e3f",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b11815c85c6a3a34a9419e5a0d0ec26687595c0c",
+        "sha": "9d99693d2c48a838e5626328ac8ddcd29a2a4eb8",
         "version": "2.1.0",
         "pre_release": "false"
     },
