@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "61d040626e9611126ac559fd7b3bb66b7e5e10d9",
+        "sha": "918ced8bf9fb0e3c7e63724a14a68b478952b364",
         "version": "v6.0.0",
         "pre_release": "false"
     },
@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "06c3404022bf5918bcaa162d1fc9f26a9f32ae0a",
-        "version": "v3.6",
+        "sha": "d97af05c284ffe8bf8ef0240305b0a0195191432",
+        "version": "v3.7",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cd7b371e427f205d6aaa4f29fe39334aaeaeeeb1",
+        "sha": "cd71d36b007225f13a1fb122c5f4c7fe54dc5e74",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "af62466b70c0ebf8f9340e3a9bf0a487d804ca66",
+        "sha": "a70c8085e7c833a9b043cc284e5b46a2c514e209",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "0675a18a3aaa51334ed724605b776af5db1469f4",
+        "sha": "99a6e2749f4d0e9da5d568208681561f90db4d61",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "3cc0d2c324a2ef3c3d7b89b671e357a83a4e73fe",
+        "sha": "497e2662565c2727113125493a324465b9bc56ff",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e95dd32674a496043b438379ef89e098eadefb78",
+        "sha": "a59bd679859d369c9a39be147e536b825ffd0a6b",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
