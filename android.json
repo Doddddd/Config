@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "68b35d88b6d8951f20b825c8662df1a4e9f04a75",
+        "sha": "bca1ef0fde1de4fd6c5ba555f098995d2d2df201",
         "version": "v6.1.0-alpha02",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "45ab8f4308496e1f01026a97fcdb0d58a5274474",
+        "sha": "3f03bfc73f1d176e349765c2990e52f490409813",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
