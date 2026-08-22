@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "918ced8bf9fb0e3c7e63724a14a68b478952b364",
-        "version": "v6.0.0",
-        "pre_release": "false"
+        "sha": "646cf0b5e7a80b8020b0125e2287ba6147c321e2",
+        "version": "v6.1.0-alpha02",
+        "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "9eae34f8a7a37408e1b0eddf3cb394197e4ba7e9",
+        "sha": "908509474def8460821a33ce056a815fc850cbad",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -81,7 +81,7 @@
     },
     "Fcitx5": {
         "repo": "fcitx5-android/fcitx5-android",
-        "sha": "a677fd13fd829de9b71483704a809940c1d3c288",
+        "sha": "6998502528cd26efb6079556da92003638e4179c",
         "version": "0.1.3",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "0b56b3d62712b07b2658389e9dd08f4f1dd919e7",
+        "sha": "57bdd54547b4bbfe42d9867cb1e3927aa7101d6f",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "497e2662565c2727113125493a324465b9bc56ff",
+        "sha": "9ec479266bb6055b30275cadd4d3ffa567a11663",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -227,7 +227,7 @@
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "0867f01687a3955f7c0b5c6c62b236b997d68601",
-        "version": "1.102.2-t6cac91817-g8c99ed49d",
+        "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
     "Telegram": {
