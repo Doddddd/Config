@@ -13,8 +13,8 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "bca1ef0fde1de4fd6c5ba555f098995d2d2df201",
-        "version": "v6.1.0-alpha02",
+        "sha": "d6dd9f245921b7a8e94970539ed2c45f902ce2c6",
+        "version": "v6.1.0-alpha03",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "57bdd54547b4bbfe42d9867cb1e3927aa7101d6f",
+        "sha": "70cce13f91ba80df9ac11f2c58f3c3bb0d6048d2",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a70c8085e7c833a9b043cc284e5b46a2c514e209",
+        "sha": "dab9430fa1b3ce2aca34709df2d2fb6baf50018b",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "763b8514f036b7e89376def9978fb6801eedb789",
-        "version": "2.1.1",
+        "sha": "edd60d635035f556eefaeb6fa61819e6dab6fb4b",
+        "version": "2.1.1.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "9057b3c88edff84f5e0f1dde31c519799565d4da",
+        "sha": "9bad7e2d5b9955f464085675a3ab102ad26de822",
         "version": "0.9.107",
         "pre_release": "false"
     },
