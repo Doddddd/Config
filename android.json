@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "d6dd9f245921b7a8e94970539ed2c45f902ce2c6",
+        "sha": "59df2d81fc6107d614db0e55ac70472244ef9965",
         "version": "v6.1.0-alpha03",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "dab9430fa1b3ce2aca34709df2d2fb6baf50018b",
+        "sha": "abc3fdcf5b6ec9e0add131e600d55853a0fffbf2",
         "version": "v3.2.5",
         "pre_release": "false"
     },
@@ -141,14 +141,14 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "99a6e2749f4d0e9da5d568208681561f90db4d61",
+        "sha": "a19666d884768a3350dd70b8689da3b87e1d17b0",
         "version": "v30.7",
         "pre_release": "false"
     },
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
         "sha": "disable",
-        "version": "v8.0-beta.1",
+        "version": "v8.0-beta.2",
         "pre_release": "true"
     },
     "Mihomo": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "a2c24ff0429ad2502b612c9ab1f2b09966629f73",
+        "sha": "ac249e3668a57f24782a49218834064459ba2d09",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,14 +190,14 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "edd60d635035f556eefaeb6fa61819e6dab6fb4b",
-        "version": "2.1.1.2",
+        "sha": "17e92c4702796aeb77ed5f17578ca5260a02024d",
+        "version": "2.1.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "9bad7e2d5b9955f464085675a3ab102ad26de822",
-        "version": "0.9.107",
+        "sha": "0dfa4b6764dc758365f28b40137a32940ae1d54d",
+        "version": "0.9.108",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "0867f01687a3955f7c0b5c6c62b236b997d68601",
+        "sha": "e9c4f98d5a48139fb91bf5892c3805d0d70f9f1e",
         "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a59bd679859d369c9a39be147e536b825ffd0a6b",
+        "sha": "35b6f7d7397abc6ac690ab2fb6f99e6fbe38f3db",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
