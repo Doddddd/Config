@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "59df2d81fc6107d614db0e55ac70472244ef9965",
+        "sha": "9aba251900c85a32253df4fb059329ead0a3f637",
         "version": "v6.1.0-alpha03",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "70cce13f91ba80df9ac11f2c58f3c3bb0d6048d2",
+        "sha": "49d1fe243964288bf0e3fc93f54b1d71e48c321e",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "17e92c4702796aeb77ed5f17578ca5260a02024d",
+        "sha": "61c65a65cef0aa9993b16859d1e1f922e4557b3f",
         "version": "2.1.2",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "e9c4f98d5a48139fb91bf5892c3805d0d70f9f1e",
+        "sha": "bbfad58331db2536306b3800d19e23c1a529a94f",
         "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
@@ -244,13 +244,13 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "3df69d1da197dd9bd71a3bafd902dffd720576b4",
+        "sha": "3b66f8799635a4dba4a206563048ff0e6792c487",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "35b6f7d7397abc6ac690ab2fb6f99e6fbe38f3db",
+        "sha": "d309e17c40fc73cb4c92fe660d15e9eac44c829c",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
