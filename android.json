@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "58f16ac68c3c0e0fe6ca1c29ee785e73c2f7ab0c",
+        "sha": "d76797f6ed97c529e7ee2661c107279d0b8643ed",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "3f03bfc73f1d176e349765c2990e52f490409813",
+        "sha": "7df875ed136ef9f5c6b5263fc1c7788948587f4d",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
