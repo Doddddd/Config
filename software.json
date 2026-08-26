@@ -13,7 +13,7 @@
     },
     "Intel-Graphics_Arc": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/785597/intel-arc-graphics-windows.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
-        "version": "32.0.101.8974%20WHQL%20Certified"
+        "version": "32.0.101.8991"
     },
     "Intel-WiFi": {
         "cmd": "curl -s \"https://www.intel.com/content/www/us/en/download/19351/intel-wireless-wi-fi-drivers-for-windows-10-and-windows-11.html\" | grep \"DownloadVersion\" | cut -d '\"' -f 4",
