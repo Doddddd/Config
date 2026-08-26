@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "d76797f6ed97c529e7ee2661c107279d0b8643ed",
+        "sha": "6d8f394f8b5f70c0b7c45f4812a44b647da438e2",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -87,8 +87,8 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "af2c313f65c767067b996e8a3413070d25bc892d",
-        "version": "v1.10.0",
+        "sha": "8bd6f4db2156e0a73bc995740abfa637ec2c2ee0",
+        "version": "v1.11.0",
         "pre_release": "false"
     },
     "Hide-My-Applist": {
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "3c411abc34f200cd3d4b8e797c2fdd167875c878",
+        "sha": "2fc7a6d2842e8fbb46285b9bc46a1c707a435c0b",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "226bd3bb76bca80cc196a9c2f34ee0986940fb03",
-        "version": "2.1.2",
+        "sha": "35e5454a47246c187106b869cd02b9bdbe90c015",
+        "version": "2.1.2.1",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "0dfa4b6764dc758365f28b40137a32940ae1d54d",
+        "sha": "837f95836ee674ecfa996c2603e20bf9197ff9ee",
         "version": "0.9.108",
         "pre_release": "false"
     },
