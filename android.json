@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "b85dc561d0dff31fdf9562ab2dbc252f588b27cd",
+        "sha": "0de0ce4c5553a104ba982f64339ac357994b08c3",
         "version": "v4.1.5",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "f38e0c8bc66eff5bf9e32fa862f6c39bd4c56a1a",
+        "sha": "4145e5205a60df84dbee219fb2a360c21b76a1f8",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -191,7 +191,7 @@
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
         "sha": "44680b8a486a0518f366a2c9bff6242506cf8783",
-        "version": "2.1.2.2",
+        "version": "2.1.2.3",
         "pre_release": "false"
     },
     "PixEz": {
