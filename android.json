@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "9f5e94981e005406481abf319f0ab14e6006b28a",
+        "sha": "a27a3de085e07d6c53233ea9f12481dea0531905",
         "version": "v4.1.5",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "932014ab5b2c9b74a3d11e2ec4d17dd10fc9442e",
+        "sha": "435ab65e8ff9b592666a48456a74b486a47b0857",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "cbe497e196386330e6c9653b8ddc766a1f1a1655",
+        "sha": "f38e0c8bc66eff5bf9e32fa862f6c39bd4c56a1a",
         "version": "v30.7",
         "pre_release": "false"
     },
