@@ -1,21 +1,21 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "a9d45b3ade1eda43ea796c7d7546e0147275ba7c",
+        "sha": "17a87a4e1f87ca97e13fa56f2df755609b34b8a4",
         "version": "v3.4.2",
         "pre_release": "false"
     },
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v138",
+        "version": "v139",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e0c35c69070dd10458ef533e591f075120ad9ce5",
-        "version": "v6.1.0-beta01",
-        "pre_release": "true"
+        "sha": "8aa63bb95f50d4f8e8ef61b16e00a52966d683dd",
+        "version": "v6.1.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "5bd1efe61db23f544df43ab012799ba01e368db9",
+        "sha": "9f5e94981e005406481abf319f0ab14e6006b28a",
         "version": "v4.1.5",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "8895ad5b03ec66d987473823c5ceaeb6c791ed03",
+        "sha": "181d47a757e37074f0b295c58d5ec014cb64b75a",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "8bd6f4db2156e0a73bc995740abfa637ec2c2ee0",
+        "sha": "bcb003810e2efda62bf669d541eaa6d176116892",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "0776caa4ffd807c60cd20e78b7f5a5ebf093f1a5",
+        "sha": "076143e5d3f6041ff6d0929516798d6aa4b101cd",
         "version": "4.2.0-rc10",
         "pre_release": "true"
     },
@@ -117,19 +117,19 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "befbcd388bb6c10befd3645311ad08e556d362ac",
-        "version": "v3.2.5",
+        "sha": "932014ab5b2c9b74a3d11e2ec4d17dd10fc9442e",
+        "version": "v3.3.0",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "11980422cbafa435cdb0fd7fb3621d62dac0958a",
+        "sha": "2f12c25334823dba3ec1aad9a047a458cea4596c",
         "version": "2.5.4",
         "pre_release": "false"
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "472df120c62f9290483299e2b9f8bffaf198b51a",
+        "sha": "42addb516dcbb56fd74fb50884a854a9283e04d4",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "2fc7a6d2842e8fbb46285b9bc46a1c707a435c0b",
+        "sha": "cbe497e196386330e6c9653b8ddc766a1f1a1655",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ac249e3668a57f24782a49218834064459ba2d09",
+        "sha": "7f342ca076fd23a3b52da750e10641f50d0c95a6",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,19 +190,19 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "35e5454a47246c187106b869cd02b9bdbe90c015",
-        "version": "2.1.2.1",
+        "sha": "06b88943ca5fa787ff797dfa51af0147bee76ca9",
+        "version": "2.1.2.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "837f95836ee674ecfa996c2603e20bf9197ff9ee",
+        "sha": "e45e6b3936df391f802fdcb33ef4fb818ef2e151",
         "version": "0.9.108",
         "pre_release": "false"
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "805cb4f7e37b801e749421794b62ef1e2034c7c2",
+        "sha": "37ca88e9981da4e4880a2ba5a217e96eb2742f1c",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "bbfad58331db2536306b3800d19e23c1a529a94f",
+        "sha": "26e436155947346ad4b3b47933f13096633058b6",
         "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
@@ -250,14 +250,14 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9d948cebfb5aa9fd9331d2a2e03ec1f14e128148",
+        "sha": "03fa0f893228c68f237f16cdb77e841793d4299d",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "886b46a572f61b100b282a01e43fb1568fa807de",
+        "sha": "3f35f9809fd9bd63edcdeee887730478ca55540a",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
