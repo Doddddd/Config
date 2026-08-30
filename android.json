@@ -26,7 +26,7 @@
     },
     "Auxio": {
         "repo": "OxygenCobalt/Auxio",
-        "sha": "a27a3de085e07d6c53233ea9f12481dea0531905",
+        "sha": "b85dc561d0dff31fdf9562ab2dbc252f588b27cd",
         "version": "v4.1.5",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "06b88943ca5fa787ff797dfa51af0147bee76ca9",
+        "sha": "44680b8a486a0518f366a2c9bff6242506cf8783",
         "version": "2.1.2.2",
         "pre_release": "false"
     },
