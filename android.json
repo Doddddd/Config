@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "032c500aa8b48273b4d276971aee8f6d556facbf",
+        "sha": "748b1690d6ffc73d8c5825f275d67a886adc2b95",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "6833e56398fd72427311619bbd6250d6f421ce99",
+        "sha": "e9fd6b58abcae6a50b56d1591a803887efa9f891",
         "version": "v30.7",
         "pre_release": "false"
     },
