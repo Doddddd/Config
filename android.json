@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "748b1690d6ffc73d8c5825f275d67a886adc2b95",
+        "sha": "741b66951a0f739576880dd9ba99b6daa0d113bd",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "8c4341e9288360010495a2bc3b46fd2e3f505f9f",
+        "sha": "4e44848a6eaad1624856b2bf61e6cf0f7af4accc",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "8092624fe56c7e5b5009ca927e1fc46895c33bc2",
+        "sha": "0d5a37656b621c7ffa3f1f01f8438fbd65fc35f8",
         "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
