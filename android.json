@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "e38512f1255ea454d34cc2008d2ef7932547fad6",
+        "sha": "376b3ffa6e4c0a5b6fe72adf1337645b433daaec",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "7bbb6d30668be0604ac6c9ab1c307019f79e32fe",
+        "sha": "00d58a8b0e89274736d9d0e3595beaaa8322bdcd",
         "version": "0.9.108",
         "pre_release": "false"
     },
