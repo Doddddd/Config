@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "c2f8da60f63250c4d4ab75fee7844d178d708c78",
+        "sha": "482cde7aa42fa19ab2bd477db2e7da007029f3d3",
         "version": "v30.7",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "9009526e6ce28ba31101d40cdacd48932e5a0f65",
+        "sha": "7bbb6d30668be0604ac6c9ab1c307019f79e32fe",
         "version": "0.9.108",
         "pre_release": "false"
     },
