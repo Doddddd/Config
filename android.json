@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f9843a046e721f063ee23135c9c034930d8f27cc",
+        "sha": "dfca840a2357f729bcb54c4b6faf2bd58866d938",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "694b40bcc5003f6b14a3a1d162215d37d2564701",
+        "sha": "995c99d05a0f1e9c69629141026d72d085b71667",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "96221b69fae9910b1c0c75c2f92a4ebb2c2dc698",
+        "sha": "37063225d4f344a8f41de8201f679e57098cb7e6",
         "version": "v31.0",
         "pre_release": "true"
     },
