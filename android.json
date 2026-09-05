@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "aa75e3834b35b8fa98e2b1886aff44bc5dfb7ef0",
+        "sha": "f9843a046e721f063ee23135c9c034930d8f27cc",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -99,9 +99,9 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cb73d7a2e3094fb49e4d32cb07ad2903b62f8ac0",
-        "version": "4.2.0-rc10",
-        "pre_release": "true"
+        "sha": "4e0c2133e44fb298323fe6b21c723b3fff1c7505",
+        "version": "4.2.0",
+        "pre_release": "false"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "a0384cabb031acff6a6632d2bc4e27a81cfd1a5f",
+        "sha": "694b40bcc5003f6b14a3a1d162215d37d2564701",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -141,9 +141,9 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "b36c60abc1592308db25fe4add4445057a490f1b",
-        "version": "v30.7",
-        "pre_release": "false"
+        "sha": "96221b69fae9910b1c0c75c2f92a4ebb2c2dc698",
+        "version": "v31.0",
+        "pre_release": "true"
     },
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "056d9baeeba6b7f53c0638b3d30da72e71c159fa",
+        "sha": "3acd7eaca935a5091d1ca6c66113c5fa6b01447b",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f19d7b01d06acfab3359f97a720fec1dae5b0659",
+        "sha": "7fb13f7c226bcdede9b825d2caccfd60f4b0a45a",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
