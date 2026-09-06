@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "dfca840a2357f729bcb54c4b6faf2bd58866d938",
+        "sha": "28d6ff9c6e8425de3799e8330fc480ea6065f8d6",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "d97af05c284ffe8bf8ef0240305b0a0195191432",
-        "version": "v3.7",
+        "sha": "96f158e289ba11d57e6206f7ac65a82ac4a26bd3",
+        "version": "v3.8",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "181d47a757e37074f0b295c58d5ec014cb64b75a",
+        "sha": "df53ebb2437f0e7fe3fed380b83c15c6b831157f",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "995c99d05a0f1e9c69629141026d72d085b71667",
+        "sha": "c6f80d0b8af158793b0619fd8f51aae078a294bc",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "7fb13f7c226bcdede9b825d2caccfd60f4b0a45a",
+        "sha": "230a5c33aad986828499795b082ca081a76faf18",
         "version": "THUNDERBIRD_22_0",
         "pre_release": "false"
     },
