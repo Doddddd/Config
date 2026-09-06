@@ -1,7 +1,7 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "17a87a4e1f87ca97e13fa56f2df755609b34b8a4",
+        "sha": "735b2eaf2cf622f80fa956435bfe95edfa3e37d5",
         "version": "v3.4.2",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "e5c73fdd7f447f57914432cd8f6f1235ec5f18af",
+        "sha": "58aecc40a6eebc677ec82cf8d6ca5bf5d18f2a4d",
         "version": "v3.3.0",
         "pre_release": "false"
     },
