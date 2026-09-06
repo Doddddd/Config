@@ -1,8 +1,8 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "735b2eaf2cf622f80fa956435bfe95edfa3e37d5",
-        "version": "v3.4.2",
+        "sha": "d6f4e5925a97e4e91593f1542085eae03432a759",
+        "version": "v3.4.3",
         "pre_release": "false"
     },
     "Aegis-Icons": {
@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "28d6ff9c6e8425de3799e8330fc480ea6065f8d6",
+        "sha": "09a55d3c923e0ab560905729cd01ac56b5b3321f",
         "version": "v6.1.0",
         "pre_release": "false"
     },
