@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v139",
+        "version": "v140",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "09a55d3c923e0ab560905729cd01ac56b5b3321f",
+        "sha": "073f035dac1b7b23ad509bd1a88bf0b201d3e94d",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "df53ebb2437f0e7fe3fed380b83c15c6b831157f",
+        "sha": "90b22f3461a86b611e2ad063e18a8d7f6ff9c1e2",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d9ecb72a10fa5cc0f5282c55b7477074513051f5",
+        "sha": "bf09054b8cc19d4026e3855daed9120e63302215",
         "version": "4.2.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "3acd7eaca935a5091d1ca6c66113c5fa6b01447b",
+        "sha": "3a64c8d65cf9fe44346a5994642db440c73aa70a",
         "version": "v0.20.4",
         "pre_release": "false"
     },
