@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "96f158e289ba11d57e6206f7ac65a82ac4a26bd3",
+        "sha": "aaaf447e3ed66b60704a821d06872b0ad0116501",
         "version": "v3.8",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "dfbfde69c1fdd9621485bbfd73bbc4db806d8214",
+        "sha": "60dfdfaf9874ce17f4368b99b24abe518c7e1fcf",
         "version": "4.2.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "dfadc083342d3d4871cbbb0f010af5da2c3e5630",
+        "sha": "fccd77fe9f202b9c28b5f0942fe588b8c2bdae26",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "773d5f2541ab7e43714bafb712996b0f08325340",
+        "sha": "ee64696ee308f5e72853b8e4af817b49fab860c1",
         "version": "1.102.3-t9329c3677-gf19372863",
         "pre_release": "false"
     },
@@ -250,9 +250,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a2bf69a1aa1237cc026154d63314791c7e68b3cd",
-        "version": "THUNDERBIRD_22_0",
-        "pre_release": "false"
+        "sha": "ef4859bcabe51a55991de73dd3612d70d13a9a75",
+        "version": "THUNDERBIRD_24_0b1",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
