@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "5b2128882e5abc6ad4bb050c1eaa8c796b5bb021",
+        "sha": "999b305fc22522972c746e01eb27f18787293737",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -250,9 +250,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ef4859bcabe51a55991de73dd3612d70d13a9a75",
-        "version": "THUNDERBIRD_24_0b1",
-        "pre_release": "true"
+        "sha": "2280d7522379f8f78133bf33745adf6e63ec635b",
+        "version": "THUNDERBIRD_23_0",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
