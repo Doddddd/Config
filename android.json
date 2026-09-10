@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "c1649287217d488f6dba162748f02b1555d0e345",
+        "sha": "7e20fdc8e1580bd2db65cdd57e87a1c0d4f6c9d6",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ca66ee5fe33dd3a3b7992dd4249c1dad375a5c66",
+        "sha": "584ea8c291fd3df0684f516e31fd25ddeff0d4e1",
         "version": "THUNDERBIRD_23_0",
         "pre_release": "false"
     },
