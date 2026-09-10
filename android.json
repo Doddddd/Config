@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "aaaf447e3ed66b60704a821d06872b0ad0116501",
+        "sha": "b149a8cd0dc280257764b9a138a01588501c072f",
         "version": "v3.8",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "2414926f63fc1ce261488adfaf9dee17f487738a",
+        "sha": "12bd6978b58b840278e1d674a205bfad9b424600",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "aebf11a74954fd82f81b8bce9f8ac4fc89fa6127",
+        "sha": "a5260487d385f4074170efeae14ce0374768a7d6",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "09f0589b1e0cb85369d6e7eca5fb7987c5928f39",
+        "sha": "86b7a5ed7e732c1ea75ae1f35d43447d0939d0e0",
         "version": "THUNDERBIRD_23_0",
         "pre_release": "false"
     },
