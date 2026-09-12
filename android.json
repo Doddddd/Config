@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "1e054ea14d551f5f16c8dd892bfb5962be2426d2",
+        "sha": "d17ad1e00211789d5317892bad1e975978702930",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "1a4bb7ba978eb6846adc35f5f93a4455feb431e1",
+        "sha": "47e94b33b9a3d4a7538b3e252e26056af3fe4f5a",
         "version": "2.1.3.1",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "f1e2b64c2ae2d8996fe7165c63bf52041276b6a2",
+        "sha": "7f89bc86f1b01e00ae65973cbc12b6c536037604",
         "version": "0.9.109",
         "pre_release": "false"
     },
