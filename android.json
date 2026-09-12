@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "bf8403581b2e6b64f0cc6e4b657260ef29d0767b",
+        "sha": "49bb08b93c5819ea41e82e14026ecbec47f666a6",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -226,8 +226,8 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "ee64696ee308f5e72853b8e4af817b49fab860c1",
-        "version": "1.102.3-t9329c3677-gf19372863",
+        "sha": "61283ec57caadd86604ea0febb2a3c7fc72fceb8",
+        "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
     "Telegram": {
@@ -244,13 +244,13 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "3b66f8799635a4dba4a206563048ff0e6792c487",
+        "sha": "4584488513c099f2e98bcfcd00f006d213248729",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "02e70411c5213bb14f4418819f8cca844323fb32",
+        "sha": "a88ae927399d4c51c6537d086e0cea65ed6939e9",
         "version": "THUNDERBIRD_23_0",
         "pre_release": "false"
     },
