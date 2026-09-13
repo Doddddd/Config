@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "152547941a50fd5e6d820db8a21fd56a2d9fd248",
+        "sha": "2ddf574aa91a6e78e7ca51dfc47d562f68f7af5a",
         "version": "2.1.3.1",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "37ca88e9981da4e4880a2ba5a217e96eb2742f1c",
+        "sha": "01801ffd013c95781dd360704adf48dc42ee8aa6",
         "version": "v1.6.1",
         "pre_release": "false"
     },
