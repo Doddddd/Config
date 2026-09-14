@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "8a8bcb58224a15180ddf2cd1d13d38c10fe87f33",
+        "sha": "3a2775084886ff0e5bc5b61cce55cdea17d28749",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "bcb003810e2efda62bf669d541eaa6d176116892",
+        "sha": "6c1a3205fd7838a822ad8b28b70d8cc457870a42",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a88ae927399d4c51c6537d086e0cea65ed6939e9",
+        "sha": "d4904c3fe879039bc349006d7d666f38d442c837",
         "version": "THUNDERBIRD_23_0",
         "pre_release": "false"
     },
