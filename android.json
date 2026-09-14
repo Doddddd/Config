@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v140",
+        "version": "v141",
         "pre_release": "false"
     },
     "Animeko": {
@@ -105,8 +105,8 @@
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "3a7ee0b5a3a588c35b1ec8c93bc8524c563ef053",
-        "version": "v0.6.0",
+        "sha": "519b4c41ed6e65fc35d7ac270a401b8123c3b926",
+        "version": "v0.7.0",
         "pre_release": "false"
     },
     "InxLocker": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "33d0c9205df47b6b1b61c25c13afa164b88871d1",
+        "sha": "665fd96bc848615fb775cc24ff47f76ec3438def",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "2d1a8bbeff996ef6615c904e019ca9794e8d2096",
+        "sha": "cbafe9bf3f274b5655415b539ba0e45f31ec2015",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "01097861cf51d2a1c159363c89b21fd28b32b717",
+        "sha": "953da88d665cd2dff77640be8759616fbe86cbab",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
