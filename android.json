@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7e20fdc8e1580bd2db65cdd57e87a1c0d4f6c9d6",
+        "sha": "d0fd06886a8a2741196c780d4159a4cf40bea122",
         "version": "v6.1.0",
         "pre_release": "false"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "c454d0e73b047d9f4c0173e8d35088f08b65bc98",
-        "version": "v2.11.33",
+        "sha": "251a013b18f16c1077fcbad9dd7c855d8e1e97f4",
+        "version": "v2.11.34",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -154,7 +154,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.30",
+        "version": "v1.19.31",
         "pre_release": "disable"
     },
     "Mihon": {
