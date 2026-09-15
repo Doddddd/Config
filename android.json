@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "a1d47395bceff9f1bb128116350268e53e7eab83",
+        "sha": "54961716cdaec13cad4b73eebf3ad8fd3b229a6b",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b6908e5156ce6eb7d66448c2d3fcb4adb3a3cd15",
+        "sha": "455254ee6bfbdd5172d0c7e38cf24d57cf034fd2",
         "version": "2.1.4",
         "pre_release": "false"
     },
