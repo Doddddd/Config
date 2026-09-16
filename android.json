@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "455254ee6bfbdd5172d0c7e38cf24d57cf034fd2",
+        "sha": "b0e7e4eb16d501bac0688738b0ba18d0fce87640",
         "version": "2.1.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "c412dfe3b28ed7c5dd4de233149fa1bd55065dfd",
+        "sha": "864807b14142f45fd92284783fb7487c679d3c59",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
@@ -244,7 +244,7 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "4584488513c099f2e98bcfcd00f006d213248729",
+        "sha": "b4a2c32ce36d00312aeff01d5570068841738894",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
