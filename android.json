@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "616eaae77a2faa2d482d26574f15316607770a0e",
+        "sha": "0f43269ac3cae0c7cb8520bd78d85aad4a38fe2f",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "41ccd5801a496a13595f9ab4748e2ec6a064ccbc",
+        "sha": "94e413ac01a429dc0d1d993706048ff5eda36c6f",
         "version": "2.1.4",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "01801ffd013c95781dd360704adf48dc42ee8aa6",
+        "sha": "ac2849ac942d7261bd4c3c7658e3d22724bb3768",
         "version": "v1.6.1",
         "pre_release": "false"
     },
