@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "26be92ac2596212e7641977ae531708976fd970d",
+        "sha": "d9ae95ac3141c046c82d12e907101d411e411f89",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4d35d06b0e4206f184967df3225b1652c661d588",
+        "sha": "d5fabf22b53fa3ffd5cbdd68c7669d6fc5b2306d",
         "version": "4.2.1-alpha01",
         "pre_release": "true"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "3c0838f44e32b8c0ebebf5c3d61883045bbeb617",
+        "sha": "6d391dd5b1904122dae315bf2c07e100827c86ef",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "99a04f8190b3357b0145dd0e7e4298d943274044",
+        "sha": "c1cd7422ea7522b7c45fd3a20a74c3afe32af794",
         "version": "THUNDERBIRD_24_0b2",
         "pre_release": "true"
     },
