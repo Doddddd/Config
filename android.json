@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b599d44922809a24f62441b6353f35187c6a1a20",
+        "sha": "cd53d311cfc5163611af660ff18385967ba45356",
         "version": "4.2.1-alpha01",
         "pre_release": "true"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "6d391dd5b1904122dae315bf2c07e100827c86ef",
+        "sha": "89d3100ffc084dc30039987ebe30af512108fb9b",
         "version": "v31.0",
         "pre_release": "true"
     },
