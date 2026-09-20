@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "cd53d311cfc5163611af660ff18385967ba45356",
+        "sha": "14d49306a183671b82429f6756e493e0d8099467",
         "version": "4.2.1-alpha01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "85cab5f841b55bed180c10dfdbe33f876aba7820",
+        "sha": "2179b9e4b110ee02ef18b9683d74229c5d3fcc13",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "ac2849ac942d7261bd4c3c7658e3d22724bb3768",
+        "sha": "4b8fb59a4a2511c1f0e872aabcb61f257754d383",
         "version": "v1.6.1",
         "pre_release": "false"
     },
