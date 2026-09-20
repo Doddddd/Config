@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8b21d7cbb3902f13eb10ab04af475ace74a12b2d",
+        "sha": "3be3e15ae752758bda11ce85f177dca70a7f9496",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "5020a312f9ffa28d65be13385d00666b620ee21f",
+        "sha": "0fd2f263d7512486dcd7277bb65f0e80cc0264d2",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d5fabf22b53fa3ffd5cbdd68c7669d6fc5b2306d",
+        "sha": "b599d44922809a24f62441b6353f35187c6a1a20",
         "version": "4.2.1-alpha01",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "5848ffb4c484506d8123ef6fa9ecbbda166a330a",
+        "sha": "424bbc53b85c19acd3c3b7c03ec6f73f516f25bc",
         "version": "v0.20.4",
         "pre_release": "false"
     },
