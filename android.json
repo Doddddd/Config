@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "c51254e5878dab62ab569aec5d9d65d7932251ab",
+        "sha": "45f0e6fbb549d8a0a278c40a0351377dc7918514",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "88a105c7065f21f9056a838dd9a5007bda2dd38f",
+        "sha": "7a1d46427d166a9cbc39e3673a0148f976fa191e",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -111,8 +111,8 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "721c9b857bcbe079f84324722d1bcc2b4b23fb76",
-        "version": "68-1.6",
+        "sha": "6904cc37bb4ad8db312b58a50abcea740c885d23",
+        "version": "70-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e4185e5b1d0eebfefb9cb6f32933401a4aa23c29",
+        "sha": "5c46936000c982be51799345b6ed39d0453662a4",
         "version": "2.1.4",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8860132c98523b8c0375c4f8c511919e26d7282d",
+        "sha": "2beb9e0208d94568e0aee9b027f4b9ad274a3ab7",
         "version": "THUNDERBIRD_24_0b2",
         "pre_release": "true"
     },
