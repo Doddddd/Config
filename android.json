@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "cbf4f66715dc6e96221c07f6edd235d2b62ccc15",
+        "sha": "0e42507976288400446e6b2c0ce9316653dc6acb",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "40f378a1cc370ffffc443970f7dd40754e7a532d",
+        "sha": "9aa464f723c43cbfd5daa82ace18b6d72a5ea367",
         "version": "2.5.4",
         "pre_release": "false"
     },
