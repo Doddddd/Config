@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v141",
+        "version": "v142",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "67ad6ad801c7e1d8430592e6e3a1693a4e971c3f",
+        "sha": "cbf4f66715dc6e96221c07f6edd235d2b62ccc15",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "14d49306a183671b82429f6756e493e0d8099467",
-        "version": "4.2.1-alpha01",
+        "sha": "34b679472db93a36a994cf4d5d84cfd39daf577d",
+        "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "2179b9e4b110ee02ef18b9683d74229c5d3fcc13",
+        "sha": "95b87145ccb7f36ac806524194ec0179774780f6",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -148,7 +148,7 @@
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
         "sha": "disable",
-        "version": "v8.0-beta.2",
+        "version": "v8.0-beta.3",
         "pre_release": "true"
     },
     "Mihomo": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "424bbc53b85c19acd3c3b7c03ec6f73f516f25bc",
+        "sha": "449c4e08e76deb06ac9ec520efafe3f8d6e181ec",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "48f07575834f91550f3da0308b028ed09cbabfaa",
+        "sha": "e4185e5b1d0eebfefb9cb6f32933401a4aa23c29",
         "version": "2.1.4",
         "pre_release": "false"
     },
