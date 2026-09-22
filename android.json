@@ -14,7 +14,7 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "3c3a7261ff952f9f90c85697f7a80bc43139b0df",
-        "version": "v6.2.0-alpha01",
+        "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
     "AuroraStore": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "7a1d46427d166a9cbc39e3673a0148f976fa191e",
+        "sha": "47300006f7593370be7742a2f1156e538d5a1b44",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
