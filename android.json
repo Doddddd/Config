@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "09d482dec9517e1cd6637897e3f5d055b2834450",
+        "sha": "81c444fc538fea289b5c3e2f301e9df62054d10d",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "251a013b18f16c1077fcbad9dd7c855d8e1e97f4",
+        "sha": "4483af43a9f6fc83b212be506928efad1ab79dad",
         "version": "v2.11.34",
         "pre_release": "disable"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "5c25b2355b9504ed2516552874111b54305afa7c",
+        "sha": "bd82a853b55d2660fead11009165dfdde8fcbf64",
         "version": "v3.3.0",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "0d39e5d1c6d47326f479cc771359b233705e6f14",
+        "sha": "7fc4f47efd3b7895833386b20fe5615c68553f37",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "449c4e08e76deb06ac9ec520efafe3f8d6e181ec",
+        "sha": "f52d890e7f8a3c418ddab41f41d4b577bce0dc06",
         "version": "v0.20.4",
         "pre_release": "false"
     },
