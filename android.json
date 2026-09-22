@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "c197f80000d88cb38c53d814d5d91c1cecdc1957",
+        "sha": "db38a70578677ae7be6428a3843f74eb8f9eb543",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "0fd2f263d7512486dcd7277bb65f0e80cc0264d2",
+        "sha": "b207d4f78bdf2834a95b410ff64c3c221d449d24",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "3d8711cb3e34d5a0b0c504c073b36b979befdc4c",
+        "sha": "a0e6148e928bf2d7f6e14599cab01bde2a0630f7",
         "version": "2.1.4",
         "pre_release": "false"
     },
@@ -251,8 +251,8 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "926d361b7539893dd8b1fbecfc62eebb3223db28",
-        "version": "THUNDERBIRD_24_0b2",
-        "pre_release": "true"
+        "version": "THUNDERBIRD_23_1",
+        "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
