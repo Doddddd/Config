@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "3c3a7261ff952f9f90c85697f7a80bc43139b0df",
+        "sha": "09d482dec9517e1cd6637897e3f5d055b2834450",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
