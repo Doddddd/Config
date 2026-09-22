@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "45f0e6fbb549d8a0a278c40a0351377dc7918514",
+        "sha": "08e9411bfa798c67297aa4d403982d9763a85d04",
         "version": "v6.2.0-alpha01",
         "pre_release": "true"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "c25187e30bba6f635407c1390a4849d92d7e9acb",
+        "sha": "87db8315db2c9f5286e47b963ea02b46a88a7e56",
         "version": "v3.3.0",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "9aa464f723c43cbfd5daa82ace18b6d72a5ea367",
+        "sha": "0d39e5d1c6d47326f479cc771359b233705e6f14",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "aed0261c3dc877221b9f4ef04c0735383cbba16c",
+        "sha": "32998d69919310f0f06b0296b8242e78432cb12a",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "0841833493d2d9367eb81404bcc175761cb3e342",
+        "sha": "41edc608a2673c3035f997c15cb4cdbe123262cb",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "2beb9e0208d94568e0aee9b027f4b9ad274a3ab7",
+        "sha": "926d361b7539893dd8b1fbecfc62eebb3223db28",
         "version": "THUNDERBIRD_24_0b2",
         "pre_release": "true"
     },
