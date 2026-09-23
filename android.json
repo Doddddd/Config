@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "22b9122fdb6deea9ff6b6d26d430262e66206aba",
+        "sha": "4944f7453c9be74adc4898b4c8828dd57d009bb7",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "4483af43a9f6fc83b212be506928efad1ab79dad",
+        "sha": "559594d4f99600d592757b23b2ee8e9b924512e4",
         "version": "v2.11.34",
         "pre_release": "disable"
     },
