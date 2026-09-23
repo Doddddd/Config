@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "81c444fc538fea289b5c3e2f301e9df62054d10d",
+        "sha": "446e34ed5c4f04cf6584306277236a0cbbd5fd85",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "47300006f7593370be7742a2f1156e538d5a1b44",
+        "sha": "3396fb0996211fff1b801262bf73e485ccf1bced",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "7fc4f47efd3b7895833386b20fe5615c68553f37",
+        "sha": "a497f1d11b61dd79fb90afd0be5492c777e38fec",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "41edc608a2673c3035f997c15cb4cdbe123262cb",
+        "sha": "2b656de3a834a49e7b1cc6883ea184f21cb075aa",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
