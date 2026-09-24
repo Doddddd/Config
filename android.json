@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "32998d69919310f0f06b0296b8242e78432cb12a",
+        "sha": "07390a786092e41aa6245a85299fabf30be4f558",
         "version": "v31.0",
         "pre_release": "true"
     },
