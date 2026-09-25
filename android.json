@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "74f7c54326ec8c65af7f7531cea6ccb7c98c301f",
+        "sha": "1ec9fb0fc2a244fe914d6de93eabb16a9b4b47d5",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "b207d4f78bdf2834a95b410ff64c3c221d449d24",
+        "sha": "fc2235397320afea048e3041fb4c59cd96d2856d",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "4b8fb59a4a2511c1f0e872aabcb61f257754d383",
+        "sha": "4791fc9615b766808aae31b28d67854d02f5fac5",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f248608b191e5cb4618ce1df0f8e1f7355caed0d",
+        "sha": "a3175bffe668b81242406b32899371608676ebbb",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
