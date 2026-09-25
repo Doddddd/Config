@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "1ec9fb0fc2a244fe914d6de93eabb16a9b4b47d5",
+        "sha": "e3ed59b0f1b1f401f9862241048d42aeb871bd1e",
         "version": "v6.2.0-beta01",
         "pre_release": "true"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "30fb8cf9b3dd456cd5b6724e572493f6c25874bc",
+        "sha": "26f3f07e8e6d049f3f5870cda2bb987acea59f1b",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "07390a786092e41aa6245a85299fabf30be4f558",
+        "sha": "5b06d817d4ae5a916df88fd9efebf12537f40cdb",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "6a884d60429e12e83558e302ce7848dbbc810ea4",
-        "version": "2.1.4",
+        "sha": "a30fcc31043e10cd38c198f47ddd7b23fd6e6163",
+        "version": "2.1.5",
         "pre_release": "false"
     },
     "PixEz": {
