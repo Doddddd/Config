@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e3ed59b0f1b1f401f9862241048d42aeb871bd1e",
-        "version": "v6.2.0-beta01",
-        "pre_release": "true"
+        "sha": "6f61e1406b6e6ef5ce9047362e41efbeccc008dd",
+        "version": "v6.2.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "236244c4d941c79f8fc33cd253cdf41ac2d9feef",
+        "sha": "8ab42823e65f5d16acb8d1c107d3f7f5b037a0ac",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "b44483a53702ded65d0b809416db46f3cca68b55",
+        "sha": "32b1e2bdd8032047f4a82b739362f44b87f5e802",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -159,14 +159,14 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f52d890e7f8a3c418ddab41f41d4b577bce0dc06",
+        "sha": "532575e29e196ed59a5457fd4b4c6af5e0740287",
         "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7da0bb8936b88808b606781da066b56bed296a64",
-        "version": "0.3.1",
+        "sha": "08d44704eb928bfed108911ccf65e91a57614385",
+        "version": "0.4.0",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "7f89bc86f1b01e00ae65973cbc12b6c536037604",
+        "sha": "6cde903099131ad5da837cb96fa453486e0fdfaf",
         "version": "0.9.109",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "c84801762fd5f936c8296ecf09a14a48ebfc4fe4",
+        "sha": "dc780e81ed1261c369c27870e8e0999a1eb0b600",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -244,13 +244,13 @@
     },
     "Termux": {
         "repo": "termux/termux-app",
-        "sha": "084d709fbf23ea83b5cb85fd3d795c775be06676",
+        "sha": "8629e632fcb95da272221be327db653fb24befe9",
         "version": "v0.119.0-beta.3",
         "pre_release": "true"
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a3175bffe668b81242406b32899371608676ebbb",
+        "sha": "a86607cb8dcc5ddaf53436a2f78b32d9f735e430",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
