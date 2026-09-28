@@ -8,12 +8,12 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v142",
+        "version": "v143",
         "pre_release": "false"
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "6ff97dcfa4db8c83e5a2dcbfe99372d266ad2f05",
+        "sha": "e5b155afbdb9ad29392d06024d4d81662b78b1f4",
         "version": "v6.2.0",
         "pre_release": "false"
     },
@@ -32,7 +32,7 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "c55b8ba5ab35a6dad35f205f265ab4f39f468b50",
+        "sha": "a76588dc76bc94c0f43eaf4e92571226ddc5d71f",
         "version": "v3.9",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "fc2235397320afea048e3041fb4c59cd96d2856d",
+        "sha": "a2055e9981f669e9a79e058beb41bb73bc4e40b9",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "532575e29e196ed59a5457fd4b4c6af5e0740287",
+        "sha": "09edf7dc8d1e970fc5c29638c56fd91a8662b6ae",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "6cde903099131ad5da837cb96fa453486e0fdfaf",
+        "sha": "126bd52123c2f3cfc30b7d05a2f16c8a4ebfc8b0",
         "version": "0.9.109",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a86607cb8dcc5ddaf53436a2f78b32d9f735e430",
+        "sha": "0cffe006be790a4e75659d5a4356d1f17947a427",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
