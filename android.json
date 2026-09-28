@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "bccfed3b28d293b18d7fbb6d0f3339b6c7af9cf0",
+        "sha": "f125f37cd7a9bd2d7b5ef24ae1fc32abeae1417a",
         "version": "v6.2.0",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "08d44704eb928bfed108911ccf65e91a57614385",
+        "sha": "cf21bd855447a6a3579ff5a34c22c5b92f9523f3",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "0cffe006be790a4e75659d5a4356d1f17947a427",
+        "sha": "1fb02e243866b2bb976aca9e735df786d8346ac3",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
