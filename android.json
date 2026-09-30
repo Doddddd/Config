@@ -250,14 +250,14 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "0e1137f45d19ff4b730d39088b9e8e9bf9062db6",
+        "sha": "6987473a386f8a3a29c48845ef47b11f8912b48a",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "953da88d665cd2dff77640be8759616fbe86cbab",
+        "sha": "b46de7b27778e790f1dec2b6842b571ca966b674",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
