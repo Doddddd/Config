@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "ef1e30d075c04fc951728ef11ea0a98e8f835e89",
+        "sha": "c173844ab5fab4a04fea2e31289f4be3fad56453",
         "version": "v6.2.0",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "803d93860da0652d501298883fcc61c70973290b",
+        "sha": "75c2fa116d1576357fb7f6817486f12c9e71bf69",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
