@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "550fe27dadd8512ae0d8c1bdadb26d014054b0cf",
+        "sha": "b3c522f706c3af40dd7e48b2430fac57eaa7a8f2",
         "version": "v6.2.0",
         "pre_release": "false"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "559594d4f99600d592757b23b2ee8e9b924512e4",
-        "version": "v2.11.34",
+        "sha": "94ebfd648abae76d32ae2191cfc413482d654c66",
+        "version": "v2.11.35",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -154,18 +154,18 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.31",
+        "version": "v1.19.32",
         "pre_release": "disable"
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "866d045c7aba343fd739c57d15c81ff6df59e796",
+        "sha": "972c9d43da5eb6273f74d01fa48b778343818cc4",
         "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "1aa6cfa679e3e9886f8fb44bf3ebda122062ed3a",
+        "sha": "d667a7ab77a2e47642b2081b21f3c5ff21a1e499",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "dc780e81ed1261c369c27870e8e0999a1eb0b600",
+        "sha": "f2908b14133bbffbf7ab04f641ecb5bfaf533242",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "b0e24c8fc34db63d8e4ec118f77132ba5f6cd083",
+        "sha": "df2d383dc1e8d6bd732af32ff69a8a45f34ca7b1",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
