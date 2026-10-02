@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "94954407828569f22844ac77b44e289e05906fb6",
+        "sha": "00c8fe9d86a5258a7694856e79ca5715c7cf38ae",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "693eb0222eaf631d753f31b7bbb058e95a5aa8cf",
+        "sha": "bd4af9c4ba0a8c7fd430b5d7a413177101a06349",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "972c9d43da5eb6273f74d01fa48b778343818cc4",
+        "sha": "f2464a1ba65b7f81651de2c477282636cd1268da",
         "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "d667a7ab77a2e47642b2081b21f3c5ff21a1e499",
+        "sha": "66bbf0a92c8c2428aaf8c3d04ab5eb30ea928c74",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "75c2fa116d1576357fb7f6817486f12c9e71bf69",
+        "sha": "6d63d3e29a1d1f9710f78863a91cc76b39ea2f9a",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e06bdc936896184c185863fc2daa5dd90f7b2df5",
+        "sha": "63eb38ef558c85642fbb25e47728973aeecdc41b",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
