@@ -14,8 +14,8 @@
     "Animeko": {
         "repo": "open-ani/animeko",
         "sha": "c173844ab5fab4a04fea2e31289f4be3fad56453",
-        "version": "v6.2.0",
-        "pre_release": "false"
+        "version": "v6.3.0-alpha01",
+        "pre_release": "true"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f2464a1ba65b7f81651de2c477282636cd1268da",
+        "sha": "db45dda525f6934ad092bb3b2cba5d707b5db50f",
         "version": "v0.20.4",
         "pre_release": "false"
     },
