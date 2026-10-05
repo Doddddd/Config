@@ -111,13 +111,13 @@
     },
     "InxLocker": {
         "repo": "Chimioo/InxLocker",
-        "sha": "6904cc37bb4ad8db312b58a50abcea740c885d23",
-        "version": "70-1.6",
+        "sha": "b783e91447005b9d2d6922670bd18986cb7e9d0a",
+        "version": "74-1.6",
         "pre_release": "false"
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "9bcee88aa750169fb332357c33f6d996afe082f8",
+        "sha": "9afddcda4803732871a98f37b7bd65673152bbbc",
         "version": "v3.3.0",
         "pre_release": "false"
     },
