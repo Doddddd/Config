@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v143",
+        "version": "v144",
         "pre_release": "false"
     },
     "Animeko": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2fdf92d0cc332bf2c8b4b01cb26b4917cf72c546",
+        "sha": "6b67f44adfb8daf9427ea4ae909d609fdc10138a",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
