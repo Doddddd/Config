@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "931644551658ae18a5deb562691496fc2e0051fb",
+        "sha": "f093f847bbda80b76b809b46a69b4ec1b6a0ec33",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9aee4a9adcb44ca084ca4e13ee3da564286b0af1",
+        "sha": "d52aa738387b3ed08c4be220abe870411e5224a0",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
