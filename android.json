@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "9afddcda4803732871a98f37b7bd65673152bbbc",
+        "sha": "08b2e9e451325ebe506c273cfb0fde17d18f592f",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "66bbf0a92c8c2428aaf8c3d04ab5eb30ea928c74",
+        "sha": "4c05dc1983d6f52e0ab6424368900eadca437d72",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -190,8 +190,8 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "7a4f442f450ff0698d0fbe5cecb9666cd1c12e3f",
-        "version": "2.1.5",
+        "sha": "4ed5968f37af8b4aa7e0f13178cb8d8c2f86defc",
+        "version": "2.1.6",
         "pre_release": "false"
     },
     "PixEz": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "d52aa738387b3ed08c4be220abe870411e5224a0",
+        "sha": "4b2d90d2098cf0b0652fcfce3f4071179f29db13",
         "version": "THUNDERBIRD_23_1",
         "pre_release": "false"
     },
