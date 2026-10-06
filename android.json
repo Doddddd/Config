@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "574ae0d5849caee0aecf7b1d6232dbf93e7200ae",
+        "sha": "218cc83cfc7e0bb581ca75beafc71b05eec47620",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "97672319d603981c5011e9ef67a4c5cb812ae142",
+        "sha": "a084948d441e2f61823df6b6a6a511a6cd271f2c",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "26c45e2791e2df81267e69e7bec7835498e983ba",
+        "sha": "6b5f55bd95e9c412bafd1dbe1431032cd32baa20",
         "version": "v3.3.0",
         "pre_release": "false"
     },
