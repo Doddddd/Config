@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "218cc83cfc7e0bb581ca75beafc71b05eec47620",
+        "sha": "467a02211ec0ac4bda3bed3ffddf95530d55234e",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "af7b1de8ab5480cb0cb422d63d97d31a305f4922",
+        "sha": "b13937b5cd4052bdee92cfe5ee4b6e20e3aa4198",
         "version": "N-1.0",
         "pre_release": "false"
     },
