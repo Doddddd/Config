@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "b2b45e78e1dbeec652369b464b0a06ddfcb52d6e",
+        "sha": "dcc1694f8fd698933f63972b191d74f132d55134",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "78d8363fabae16fe2985d7c64e60d9d7cc958c72",
+        "sha": "e9c435ce6c6806a24e3d278a40e8385ba19e5f7e",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9f785a0d17027e04d1812f3a61c72a29030784dd",
+        "sha": "469955f1ca654bb1f26bc5b4f7165a81e9c03d8e",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
