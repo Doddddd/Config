@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "dcc1694f8fd698933f63972b191d74f132d55134",
+        "sha": "7c2073e75da347dc14fc4c25b850d1d0e07b46fe",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "46380b76bd8c64f2005a47136a9dbe94f1830c79",
+        "sha": "ad2a27705ff3cae422652cfbcbb4a8f79fc08940",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "3e804085e0ca4f043a87f9ea7ed5b9024fae9e84",
+        "sha": "da5bf41122794cff10159813900985ad857d7820",
         "version": "0.9.109",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "6d63d3e29a1d1f9710f78863a91cc76b39ea2f9a",
+        "sha": "b3e2e1d689667f4505fc4c71fabbee6d0ad1c81a",
         "version": "1.102.4-t3caf7d9e7-g8fbef364a",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "469955f1ca654bb1f26bc5b4f7165a81e9c03d8e",
+        "sha": "a45510772bc8c7a3b06e834a3c819f6f79a88418",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
