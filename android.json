@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "467a02211ec0ac4bda3bed3ffddf95530d55234e",
+        "sha": "666737a0ac6955808ab42fe1793c999459eea80e",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6b5f55bd95e9c412bafd1dbe1431032cd32baa20",
+        "sha": "e7b071100754b55e28be6930f9967d99adb4a385",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "3b37599db9e2ff8db0fc7770c9a802ccc646afa9",
+        "sha": "3e9b09f5d52f210fba40e81d2b4cdac2a8bd6007",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "7aa1ef3faa34e5740991769b06d4f30b53245d8f",
+        "sha": "69d9c8541581493359aba88a5461a1dcb4260e3a",
         "version": "0.4.0",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "dead22e7aa7ea71e0a62b1cbd7b2b2fb214e1aae",
+        "sha": "9f785a0d17027e04d1812f3a61c72a29030784dd",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
