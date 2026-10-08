@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7c2073e75da347dc14fc4c25b850d1d0e07b46fe",
+        "sha": "42b23e5387fcd2839cb3652a4f089e4930d0d45e",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "0951e6d2f624b205569226c36ddf3137fc9ba7b1",
+        "sha": "274993d27730b4c30e5d9cfc02ba6367cfa0f621",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a084948d441e2f61823df6b6a6a511a6cd271f2c",
+        "sha": "f547954b9eb8a6953bd71cfb2fb0185ff2ad5641",
         "version": "4.2.1-alpha02",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "e7b071100754b55e28be6930f9967d99adb4a385",
+        "sha": "24d9bc37c23f6f82aeae8b99347497081597fd02",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "5f7b39ac631a63fa0af85ce4d099eaf78bb18d2c",
+        "sha": "cefa2730d471066776b088ffc1d0e8a69ef3f0b3",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -159,14 +159,14 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "7aacaa349019ff42b8b05403d8beebe94c8f6dfc",
+        "sha": "ab7ee00c48ba1d514ecf73bfeb1e35e1faf23fa3",
         "version": "v0.20.4",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "ad2a27705ff3cae422652cfbcbb4a8f79fc08940",
-        "version": "0.4.0",
+        "sha": "edd1cb10954b54c17d81b11f76c80c02b7fed6ea",
+        "version": "0.4.1",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -197,7 +197,7 @@
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
         "sha": "da5bf41122794cff10159813900985ad857d7820",
-        "version": "0.9.109",
+        "version": "0.9.110",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "a45510772bc8c7a3b06e834a3c819f6f79a88418",
+        "sha": "c010b7a4ec3f21377e8340906c80a222919fbcb4",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
