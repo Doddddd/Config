@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a810677b847ba564c5f9d3fa0fbabe54794b8eef",
+        "sha": "a05b1d7f0b641a7b485c5c41add8b45de9febc15",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "cefa2730d471066776b088ffc1d0e8a69ef3f0b3",
+        "sha": "35fd230938444cdff4d581d7d026872fa247e3b5",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "c010b7a4ec3f21377e8340906c80a222919fbcb4",
+        "sha": "ee2d9aba86041a00cb87b8dcbb7c0082f182bd17",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
