@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "42b23e5387fcd2839cb3652a4f089e4930d0d45e",
+        "sha": "4ad27f8a2ec59bbfd842a8ff4e85f1084c8796da",
         "version": "v6.3.0-alpha01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "274993d27730b4c30e5d9cfc02ba6367cfa0f621",
+        "sha": "8f288891cf20c617d2bbaab794bdb06fd92bfc06",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a05b1d7f0b641a7b485c5c41add8b45de9febc15",
+        "sha": "ab23091edfeddc774e1e880b0919b211808a193e",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "35fd230938444cdff4d581d7d026872fa247e3b5",
+        "sha": "1445d83a3a4ec550bd990d979cdc60244ac1bb91",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "edd1cb10954b54c17d81b11f76c80c02b7fed6ea",
+        "sha": "caa8272753d458729fe72e797837b4bb4f33dc67",
         "version": "0.4.1",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "ed202131a5f9325ff9ebd913ec603c478948f6be",
+        "sha": "661791240f3af7672623c31d01b3aa4da1adc24f",
         "version": "2.1.6",
         "pre_release": "false"
     },
@@ -227,7 +227,7 @@
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "264102cc702fbd844e900227ee02e5cbb4d7f801",
-        "version": "1.102.4-t3caf7d9e7-g8fbef364a",
+        "version": "1.104.1-t7f4efe814-g6d75bd403",
         "pre_release": "false"
     },
     "Telegram": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "ee2d9aba86041a00cb87b8dcbb7c0082f182bd17",
+        "sha": "e3fb7f3341827eb756327e26198f97b7c3f1821e",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
