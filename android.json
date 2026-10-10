@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "3e3c22c91b2019504cb9f8e33e9749d37162b45c",
+        "sha": "22a687807fbee76a58f3f7c996665f976bb8dad5",
         "version": "v6.3.0-beta01",
         "pre_release": "true"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f547954b9eb8a6953bd71cfb2fb0185ff2ad5641",
-        "version": "4.2.1-alpha02",
+        "sha": "81fb080cbf6dd54cb030b7fd30f4f5710de2579c",
+        "version": "4.2.1-rc01",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "a77198ea602722f9baa81c9958de0fa93b35bf61",
+        "sha": "e8915d9db15f5aae93973ffe65068e34df375a6a",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "ab7ee00c48ba1d514ecf73bfeb1e35e1faf23fa3",
+        "sha": "d1e71ab58ff21cf992be5e8be65754ea55149985",
         "version": "v0.20.4",
         "pre_release": "false"
     },
