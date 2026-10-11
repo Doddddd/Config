@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "878f5659346d0a2ce94a1fba18e94fe784ac9e78",
+        "sha": "9347db3091afeb80e91ae3625c0c33bdd76761d9",
         "version": "v6.3.0-beta01",
         "pre_release": "true"
     },
@@ -56,7 +56,7 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "94ebfd648abae76d32ae2191cfc413482d654c66",
+        "sha": "3cc102aab3f251ef460a3b6e2835b6c1eb581e73",
         "version": "v2.11.35",
         "pre_release": "disable"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "3e5d593e28b45c9a70fea8d02abb8348d613b140",
+        "sha": "260e31cd2c777ea29f04501825e65b9e6aa236cf",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b2d6a5befb6dd292b9f7ad98794f3620f6dfb818",
+        "sha": "e3ef282fa9cd7f6ef80c28c3d8e50fef1d2460cb",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "cd52aad08782f12872854f18ccac447f603b0d4c",
+        "sha": "148496e754d1f59a66cb5f335f58c4d0d73c2ad0",
         "version": "1.13.2",
         "pre_release": "false"
     },
