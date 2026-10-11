@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8b0d091a0b4931dd8fbae1965c0c7d0c2262dac8",
+        "sha": "878f5659346d0a2ce94a1fba18e94fe784ac9e78",
         "version": "v6.3.0-beta01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "a85dcbcfc3b09ae410f31aae124d04f3777fdf1c",
+        "sha": "6e3860443f8fea7c5fc226277e53888033796488",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "157679bba57aca393be4202ec3731067bbcb54a9",
+        "sha": "3e5d593e28b45c9a70fea8d02abb8348d613b140",
         "version": "v0.20.4",
         "pre_release": "false"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "c2205a0ffa5d3463d8392a1da9acd95652353e9a",
-        "version": "2.1.6.1",
+        "sha": "b2d6a5befb6dd292b9f7ad98794f3620f6dfb818",
+        "version": "2.1.6.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "da5bf41122794cff10159813900985ad857d7820",
+        "sha": "7ed6b56d6f0c3c593cd918d1f072340ef1f2aa88",
         "version": "0.9.110",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "14648c7cf0aa84e5a35d48de9dbf1386df6cca42",
+        "sha": "cd52aad08782f12872854f18ccac447f603b0d4c",
         "version": "1.13.2",
         "pre_release": "false"
     },
