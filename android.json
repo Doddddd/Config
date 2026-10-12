@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "9347db3091afeb80e91ae3625c0c33bdd76761d9",
+        "sha": "d8cadd4ece0aba467e626fb0a70092f1ee521347",
         "version": "v6.3.0-beta01",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "567f41deb72ca52a4615203fdc60202377c19163",
+        "sha": "fa0a0f74a1fcafa29018afa88a293880599cbce7",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "f895b80a3aad79948ba8074f53cf8f65a314d576",
+        "sha": "c8232e044fc6268195c6ad62143132011c3e5ba6",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "260e31cd2c777ea29f04501825e65b9e6aa236cf",
-        "version": "v0.20.4",
+        "sha": "143a060ac9dbbe1f574d0b4f6e9f76baf4135f59",
+        "version": "v0.21.0",
         "pre_release": "false"
     },
     "Monogram": {
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "148496e754d1f59a66cb5f335f58c4d0d73c2ad0",
+        "sha": "974d34e3c4601ef620771edf19303dc8bd86eda4",
         "version": "1.13.2",
         "pre_release": "false"
     },
