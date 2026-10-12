@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v144",
+        "version": "v145",
         "pre_release": "false"
     },
     "Animeko": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "c8232e044fc6268195c6ad62143132011c3e5ba6",
+        "sha": "0c0fdb960178fa12d80d6cbcfdcb6ad8be6a865d",
         "version": "v3.3.0",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "974d34e3c4601ef620771edf19303dc8bd86eda4",
+        "sha": "2172923a2ebd79a0adf7039b2eb367516e31b253",
         "version": "1.13.2",
         "pre_release": "false"
     },
