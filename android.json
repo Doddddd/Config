@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "f2908b14133bbffbf7ab04f641ecb5bfaf533242",
+        "sha": "9e430b10360a2ab59a7af3ad0b652d2d40c0ca9b",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "e3fb7f3341827eb756327e26198f97b7c3f1821e",
+        "sha": "b1bb9316b99694821c74788c55aea9f727ed9791",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
