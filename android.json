@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "1ca9b0efb817b54948436e19906de9a5a2dca6b2",
-        "version": "v0.21.1",
+        "sha": "446f6df82c390ab760802c2fce3b677bce3f31c1",
+        "version": "v0.21.2",
         "pre_release": "false"
     },
     "Monogram": {
