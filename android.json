@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "9e430b10360a2ab59a7af3ad0b652d2d40c0ca9b",
+        "sha": "f32ffeec763f0bdbf4bec25b52d654f77bff733d",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
