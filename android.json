@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "68e7b75547f6e2bb3b9b6ea2bb6215ce4d759442",
-        "version": "v6.3.0-beta01",
-        "pre_release": "true"
+        "sha": "cb85d44327fb5c788a3b8f74877abbd688fdabbc",
+        "version": "v6.3.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "06edb4259f570faefd4517433757fb2a0816bb19",
+        "sha": "625c4ecc40b0ed6d70e37ccdfb961867ffc1a622",
         "version": "2.5.4",
         "pre_release": "false"
     },
