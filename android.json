@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "b5849b0fd7934b6102fa237a8b1a2f4cd0cc885a",
+        "sha": "68e7b75547f6e2bb3b9b6ea2bb6215ce4d759442",
         "version": "v6.3.0-beta01",
         "pre_release": "true"
     },
@@ -50,7 +50,7 @@
     },
     "Box": {
         "repo": "taamarin/box_for_magisk",
-        "sha": "a87244943abdd1cf0f278c708001b2aef56adb9c",
+        "sha": "75d7150481af54b652f0cd89b462fd56ba2dc16f",
         "version": "pre-v1.10.2(4cec20f)",
         "pre_release": "true"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "fa0a0f74a1fcafa29018afa88a293880599cbce7",
+        "sha": "42aa8bf15aa6c1865efcc07ae5a612f68cd57aca",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -118,7 +118,7 @@
     "KernelSU": {
         "repo": "tiann/KernelSU",
         "sha": "0c0fdb960178fa12d80d6cbcfdcb6ad8be6a865d",
-        "version": "v3.3.0",
+        "version": "v3.3.1",
         "pre_release": "false"
     },
     "LibChecker": {
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "2172923a2ebd79a0adf7039b2eb367516e31b253",
+        "sha": "5a469745d39e8f8cea9a1669bea6108cd71dc951",
         "version": "1.13.2",
         "pre_release": "false"
     },
