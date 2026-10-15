@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "2cf5c55d31443de1590609023218e671348fad0f",
+        "sha": "5fee70841d463cb4e5813f4c2f432d29f0d777be",
         "version": "v6.3.0",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "1d72df1e6b90409995c23d8df74937556d3ec9a2",
+        "sha": "a02810637d4086acc49c0d64e2f3fe76202219f6",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "1629d447142c5078fed615317d2f439e0e7217b1",
+        "sha": "87e72a582e019ae1bb3e65c90c259e994ecd66fa",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "bd5e04e5de5a523e85a8eeba30da748dcd68925a",
+        "sha": "868580c3edbe13f874583a3139b1f4d116d4cc0f",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bce2a2f66b8e4e1bd0b822342cb68c28a4c1cd9d",
+        "sha": "304074faf48c64bf8dfef35fd58554dc500f044a",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
