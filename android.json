@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "42aa8bf15aa6c1865efcc07ae5a612f68cd57aca",
+        "sha": "fe5439e41a4b4b16d4affe9cd4986a92d88d0588",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -129,7 +129,7 @@
     },
     "LogFox": {
         "repo": "F0x1d/LogFox",
-        "sha": "42addb516dcbb56fd74fb50884a854a9283e04d4",
+        "sha": "8d0cf730bc0a875f23477dc9015294bb6e024eb9",
         "version": "v2.1.10-79",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "304074faf48c64bf8dfef35fd58554dc500f044a",
+        "sha": "28a1dae08329e98b71dd2c1b99797ccf71f1b9a8",
         "version": "THUNDERBIRD_24_0",
         "pre_release": "false"
     },
