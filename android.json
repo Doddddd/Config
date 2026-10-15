@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "f3200c8895dce85fab18a9fcfba54cecb4804312",
-        "version": "v3.10",
+        "sha": "8c218fa60cda9c86c4e92bed6a4254e3ffcbb9e2",
+        "version": "v3.11",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0c0fdb960178fa12d80d6cbcfdcb6ad8be6a865d",
+        "sha": "b94e0916bf6394cb75b03f50b0e8f5a90de3471c",
         "version": "v3.3.1",
         "pre_release": "false"
     },
