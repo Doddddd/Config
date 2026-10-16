@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "966b09633d25ddc53bc8ff889693c9d1c1564c3b",
+        "sha": "f98194e10cf5177ae842d1bf5f12340f12b89fc7",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "3d0aed958b3b7e59c39c121196f189f429719904",
+        "sha": "bb2d86ca25d2d4ad9ed42addf37990ae8931c098",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
