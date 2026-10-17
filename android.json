@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "4b9a7a91da4e8a9252a768ad878001deb4320c2a",
+        "sha": "f136e547829fc142232b8311d6ad57e2be890c7a",
         "version": "v6.3.0",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "b0e11a375082ed242baed9017302a812aa31c799",
+        "sha": "a0bcdba8bff0e67e4f045c5ff6650e4ea7ed4179",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
