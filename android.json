@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "6ea017f51a0856e2f8765225a393d813e1c06bef",
+        "sha": "4b9a7a91da4e8a9252a768ad878001deb4320c2a",
         "version": "v6.3.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "3f53dbcce6d7ee1028e95f81e120b2711c7c9f1b",
+        "sha": "e0c91fa856886bd5465212b6605952207ca10ff6",
         "version": "4.2.1-rc01",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "936072449e82e3d90c28c728c0087bf5136fa441",
+        "sha": "dd3adb407e87c46774328c287b208f69c174454a",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
