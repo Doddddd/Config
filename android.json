@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "f136e547829fc142232b8311d6ad57e2be890c7a",
+        "sha": "cc3d0a7673a7c32404c203ef8fcaaa1614d98366",
         "version": "v6.3.0",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "fe5439e41a4b4b16d4affe9cd4986a92d88d0588",
+        "sha": "da25dd85379ebfe48c48dfce406938c5b7c045b6",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -105,8 +105,8 @@
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "74bd7e1bc97386b06b595440d82106d9daa2dfae",
-        "version": "v0.7.0",
+        "sha": "5391e36d9eb9ea768d89dd986b87392c6ddb7ac5",
+        "version": "v0.8.0",
         "pre_release": "false"
     },
     "InxLocker": {
