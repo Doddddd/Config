@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "cc3d0a7673a7c32404c203ef8fcaaa1614d98366",
+        "sha": "712b9c97f3dc27950467529a8ea7dbbff2b56879",
         "version": "v6.3.0",
         "pre_release": "false"
     },
@@ -99,13 +99,13 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "e0c91fa856886bd5465212b6605952207ca10ff6",
+        "sha": "9daf9b140166facc624df9d6f03f67cc84e64c84",
         "version": "4.2.1-rc01",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "5391e36d9eb9ea768d89dd986b87392c6ddb7ac5",
+        "sha": "f9c5d67065043ae83b41bdc09764f83c8a8f76eb",
         "version": "v0.8.0",
         "pre_release": "false"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "0faec0cc7b5f655170d89bf9c4d28bb5ca271fa2",
+        "sha": "96770dfb807fea61e06819e4cbb438384df54b63",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "446f6df82c390ab760802c2fce3b677bce3f31c1",
+        "sha": "deeb9b2584b6e246135cbd31da49a39e6b6e1e52",
         "version": "v0.21.2",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "88eca305de13b9a7437af1f1a3cccb50d2688e82",
+        "sha": "849c56b035ac8acf1b4fd677c2c94debe161da8e",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "b46de7b27778e790f1dec2b6842b571ca966b674",
+        "sha": "57df726555123e934947c976ebfbc71d39a6dfdf",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
