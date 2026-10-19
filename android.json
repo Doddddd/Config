@@ -99,14 +99,14 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "92245d926cf22d1bfcbd31c89831044271a96d9c",
+        "sha": "a78603310988108dc205bfa6f707db18a42fe546",
         "version": "4.3.0-beta01",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "f9c5d67065043ae83b41bdc09764f83c8a8f76eb",
-        "version": "v0.8.0",
+        "sha": "db8d158dffaf19607e0431523300ba7e2afa6f8a",
+        "version": "v0.8.1",
         "pre_release": "false"
     },
     "InxLocker": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "96770dfb807fea61e06819e4cbb438384df54b63",
+        "sha": "0f58f12c2d94de7a72346ef6ec6bb7bf5e46c261",
         "version": "v3.3.1",
         "pre_release": "false"
     },
