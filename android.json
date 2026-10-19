@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "da25dd85379ebfe48c48dfce406938c5b7c045b6",
+        "sha": "81ceecce408e6a660ab655e48ddbecf8e2a31543",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "8ccd22e63eb00bd4b3682b9466547e0a7c2aa3be",
+        "sha": "5461646cf1f9a4144fdacaa7187b1ba1ab78b943",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "e496249c5141f9a8665910a4bf323c57be515e76",
+        "sha": "df5f35ee285eaa000d765a3785e796ad5237b1e8",
         "version": "0.9.110",
         "pre_release": "false"
     },
@@ -238,8 +238,8 @@
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "89d7729903066c9001463182b45448f7d54218af",
-        "version": "v12.8.2",
+        "sha": "1f0524ee92b817c44d72c54b6b1b2d71c4f17b2a",
+        "version": "v13.0.2",
         "pre_release": "false"
     },
     "Termux": {
