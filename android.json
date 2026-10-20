@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "712b9c97f3dc27950467529a8ea7dbbff2b56879",
+        "sha": "991be1d5de9140fd978826a3e86cc7ad80ac4927",
         "version": "v6.4.0-beta01",
         "pre_release": "true"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "469c4282e72382388b4598fa022fe8ca91dc9ab5",
+        "sha": "4663610011d03771a64e7c36a2aa65bd1794022d",
         "version": "v3.3.1",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "f9e0ca226c343be78667fe29eb5f39bfea643bed",
+        "sha": "0aff6d8483c308abdbaae8d9fc1e6ddf3129af25",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "0d83df96fcc12e70cdab679bfa71e565c85f3d48",
+        "sha": "7d4202859dabbcb1020a873758b14b710742fa9d",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
