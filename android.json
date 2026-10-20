@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "9bc75f0b7263ebd7da5a69be05b717c536abeb3b",
+        "sha": "ff92244404102543b5f0390fc38f6c9aecea6615",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -99,14 +99,14 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "a78603310988108dc205bfa6f707db18a42fe546",
+        "sha": "b2f33002beb985d5c35f1bbd4c745aa2cdeb5517",
         "version": "4.3.0-beta01",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "db8d158dffaf19607e0431523300ba7e2afa6f8a",
-        "version": "v0.8.1",
+        "sha": "e8390372da1c267a42d0e244d6d8c98cd357328e",
+        "version": "v0.8.2",
         "pre_release": "false"
     },
     "InxLocker": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b609757fad4441b88e73966c5dc12e4788be9d3b",
+        "sha": "469c4282e72382388b4598fa022fe8ca91dc9ab5",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "deeb9b2584b6e246135cbd31da49a39e6b6e1e52",
+        "sha": "4493166985e034d923d3c1f846caad70f8b8aa23",
         "version": "v0.21.2",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "5461646cf1f9a4144fdacaa7187b1ba1ab78b943",
+        "sha": "9b14cad34460ff0a7b8bc37420348a03e497b631",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "df5f35ee285eaa000d765a3785e796ad5237b1e8",
-        "version": "0.9.110",
+        "sha": "2e3098b97d0ac3b01bc7a53fd8906f8cd57f5f17",
+        "version": "0.9.112",
         "pre_release": "false"
     },
     "QAuxiliary": {
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "f32ffeec763f0bdbf4bec25b52d654f77bff733d",
+        "sha": "68c6775ac373f4bdb30ae9986282dd5ec0407756",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
@@ -250,9 +250,9 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "084f9c184388e0f939b7fe202d5f89728664a44f",
-        "version": "THUNDERBIRD_24_0",
-        "pre_release": "false"
+        "sha": "978dedbf354d015ad6e0f4875bf1e395f96366ce",
+        "version": "THUNDERBIRD_25_0b2",
+        "pre_release": "true"
     },
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
