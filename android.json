@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b2f33002beb985d5c35f1bbd4c745aa2cdeb5517",
+        "sha": "b956e6687e8cca1468ff5be8390e04cacceb37e1",
         "version": "4.3.0-beta01",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "4493166985e034d923d3c1f846caad70f8b8aa23",
+        "sha": "487c313d31ae9cf746a5d324550fdbae5f6c7b99",
         "version": "v0.21.2",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "7312ca186e79c3898d35fbc33b1b8e90856a3cb2",
+        "sha": "0d83df96fcc12e70cdab679bfa71e565c85f3d48",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -232,13 +232,13 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "68c6775ac373f4bdb30ae9986282dd5ec0407756",
+        "sha": "0aae959806c57be8ad457980f2a5c6277ff18635",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
     "Telegram-Monet": {
         "repo": "mi-g-alex/Telegram-Monet",
-        "sha": "1f0524ee92b817c44d72c54b6b1b2d71c4f17b2a",
+        "sha": "d2f065e543c05445cfad0b377c9234add83fb9ed",
         "version": "v13.0.2",
         "pre_release": "false"
     },
