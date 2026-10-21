@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "2acc43bb84e079353b9d435e0a65422b39d4d559",
+        "sha": "7eddc9a06d582931cde11bf2b7051df976749d9d",
         "version": "v6.4.0-beta01",
         "pre_release": "true"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "bb4c841ac75cf0be71ce5494cbba24db70f22c29",
+        "sha": "5bbbee4e0741078b36d1cecc2f174dc1dabb8531",
         "version": "1.13.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "1943b9e1fb64a6b8658236fc26aec71913cafe06",
+        "sha": "5b72f263fda6088d7c180bc5233440fdfcb6dcdd",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
