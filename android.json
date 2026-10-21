@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "7eddc9a06d582931cde11bf2b7051df976749d9d",
+        "sha": "eb9e03be885ad2552bce883010cc381792ff4637",
         "version": "v6.4.0-beta01",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "4663610011d03771a64e7c36a2aa65bd1794022d",
+        "sha": "6d31a61370838380177dc5c46fb838f6ba7d639a",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "5bbbee4e0741078b36d1cecc2f174dc1dabb8531",
+        "sha": "a5187bdc9af672dc57a3c07ff85ca6939a2f2cd6",
         "version": "1.13.2",
         "pre_release": "false"
     },
