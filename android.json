@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "991be1d5de9140fd978826a3e86cc7ad80ac4927",
+        "sha": "94e358e66ecd7a2cf7de5cf47e41a6496b7e581e",
         "version": "v6.4.0-beta01",
         "pre_release": "true"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "ff92244404102543b5f0390fc38f6c9aecea6615",
+        "sha": "39e8c78b404bb69bcabc582b4df7523c1a866dfa",
         "version": "v2.0.6339",
         "pre_release": "true"
     },
@@ -99,13 +99,13 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b956e6687e8cca1468ff5be8390e04cacceb37e1",
+        "sha": "96fbe7ffb664bc3710f8f85477fe613d9b1cfa94",
         "version": "4.3.0-beta01",
         "pre_release": "true"
     },
     "InstaEclipse": {
         "repo": "ReSo7200/InstaEclipse",
-        "sha": "e8390372da1c267a42d0e244d6d8c98cd357328e",
+        "sha": "e19ab0def2dc1ac197b7a2d4f8763f701ef68b1d",
         "version": "v0.8.2",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "487c313d31ae9cf746a5d324550fdbae5f6c7b99",
+        "sha": "d001e6f210e6a077a30dd9a1392573a3225bba2f",
         "version": "v0.21.2",
         "pre_release": "false"
     },
@@ -220,13 +220,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "5a469745d39e8f8cea9a1669bea6108cd71dc951",
+        "sha": "bb4c841ac75cf0be71ce5494cbba24db70f22c29",
         "version": "1.13.2",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "264102cc702fbd844e900227ee02e5cbb4d7f801",
+        "sha": "9832bc5847db423f72e9b225f22a09d8d1e0e91c",
         "version": "1.104.1-t7f4efe814-g6d75bd403",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "978dedbf354d015ad6e0f4875bf1e395f96366ce",
+        "sha": "1943b9e1fb64a6b8658236fc26aec71913cafe06",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
