@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "eb9e03be885ad2552bce883010cc381792ff4637",
+        "sha": "e086c335ca21a7acb3d9bcb933eb6125223ce498",
         "version": "v6.4.0-beta01",
         "pre_release": "true"
     },
@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "3cc102aab3f251ef460a3b6e2835b6c1eb581e73",
-        "version": "v2.11.35",
+        "sha": "1a4f949213fcbb7f0c9e2a4a21138642d84b8f22",
+        "version": "v2.11.36",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "96fbe7ffb664bc3710f8f85477fe613d9b1cfa94",
+        "sha": "27454225ffed489261c1e8655cb724820660b7fa",
         "version": "4.3.0-beta01",
         "pre_release": "true"
     },
@@ -154,7 +154,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.32",
+        "version": "v1.19.33",
         "pre_release": "disable"
     },
     "Mihon": {
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "52886c235a210fa74806786697bac69f14ec7497",
+        "sha": "455b6f0de6bbc135a51f2a77510863edee8b3cae",
         "version": "v0.29.1",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "2e3098b97d0ac3b01bc7a53fd8906f8cd57f5f17",
+        "sha": "406ced12615b999da6d60212c0c701f805dfdc91",
         "version": "0.9.112",
         "pre_release": "false"
     },
@@ -227,7 +227,7 @@
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
         "sha": "9832bc5847db423f72e9b225f22a09d8d1e0e91c",
-        "version": "1.104.1-t7f4efe814-g6d75bd403",
+        "version": "1.104.2-tc3430f0d2-gb01fa89d5",
         "pre_release": "false"
     },
     "Telegram": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "5b72f263fda6088d7c180bc5233440fdfcb6dcdd",
+        "sha": "d4da97a8a79c34b71410a803d40b3321664b68ef",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
