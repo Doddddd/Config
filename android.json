@@ -45,8 +45,8 @@
     "Blocker": {
         "repo": "lihenggui/blocker",
         "sha": "39e8c78b404bb69bcabc582b4df7523c1a866dfa",
-        "version": "v2.0.6339",
-        "pre_release": "true"
+        "version": "v2.0.6447",
+        "pre_release": "false"
     },
     "Box": {
         "repo": "taamarin/box_for_magisk",
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "0aff6d8483c308abdbaae8d9fc1e6ddf3129af25",
+        "sha": "3f39d0b29274b71a1d2d662558aa8dfcfa919bf9",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "f4395cb5a89f82e1b7f03b1d0e37e716b1eab8bc",
+        "sha": "1091380fa0ed0921b2dcef69f250a85b2e7a68f7",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
