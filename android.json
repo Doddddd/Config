@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "39e8c78b404bb69bcabc582b4df7523c1a866dfa",
+        "sha": "1dbc671f5c72f37ed74be60d8301a18cc1aeb6e6",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d90a7a8b74bfbc8ef90bad953ff2d46e023d756e",
-        "version": "4.3.0-beta01",
+        "sha": "74c5ac09814547d4b0cfcb9b090b5c419e9f5a2e",
+        "version": "4.3.0-beta02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "af8c2566b07cfa0c2d4b145b88316a07f7d2bb6b",
+        "sha": "a51dc10f88ea3a8aac7fa02e95ae7589a034730b",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "73567b61041e98102ff39cdaa5e9036bf37701c0",
+        "sha": "96cdec72f9ebb8a3117d19b190069d7f1f1e90ce",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "37a92d1fbb3654b8f42d2c327ca8e13d2b95ebaf",
+        "sha": "006c0fdd16fd71e6b0ece221b656c0e49e7ccf4c",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "ed2c7bdec65f4634ca7ae94ea2bf1b9d0639ca1a",
+        "sha": "5a5d0b891903cfede15c787c83ff4a32a2e8b6b0",
         "version": "1.13.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "cb68589618ba6db1641fd63d47aa2b1231412515",
+        "sha": "de8a03268415ce8e0c8b0327d3bbcb6b40a06a91",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
