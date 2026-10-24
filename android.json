@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "4809e6f501f17c7bd7c93ff8575db8cbb0ed6910",
+        "sha": "2f2c4d63bdf86c15775a32b525a40bdcd5b0ed32",
         "version": "v6.4.0",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "6d4502d2b77850b6da8dc82eccf3831a11edb088",
+        "sha": "87d8db2de7eadeb5a486e9814ed12713ae799b50",
         "version": "1.13.2",
         "pre_release": "false"
     },
