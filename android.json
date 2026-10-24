@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "6d31a61370838380177dc5c46fb838f6ba7d639a",
+        "sha": "3352209f44fc9c5f3ec6dff228080118433cb72c",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "406ced12615b999da6d60212c0c701f805dfdc91",
+        "sha": "8632f57b1d38f4557de6a875b2855be7170eaaa0",
         "version": "0.9.112",
         "pre_release": "false"
     },
@@ -220,13 +220,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "21ab47d8c32340918da2b122438b31e565250c2f",
+        "sha": "0e72b9b7af75adf09b0c1a523d5dc88e028c8a31",
         "version": "1.13.2",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "9832bc5847db423f72e9b225f22a09d8d1e0e91c",
+        "sha": "4aae7d26d1918b9264236b4ddf77060f8280ff5f",
         "version": "1.104.2-tc3430f0d2-gb01fa89d5",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "57df726555123e934947c976ebfbc71d39a6dfdf",
+        "sha": "addcf67edf1e7c27211cd2d4449af9fcb4702f05",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
