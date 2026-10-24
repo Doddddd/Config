@@ -13,9 +13,9 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e4a9ef5731c5f9ad334357f4e387f3709f96f059",
-        "version": "v6.4.0-beta02",
-        "pre_release": "true"
+        "sha": "0d3e3da3606532e18db28c3baa3983cbf9b0b446",
+        "version": "v6.4.0",
+        "pre_release": "false"
     },
     "AuroraStore": {
         "repo": "AuroraOSS/AuroraStore",
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "c7f0e16df03d4f0d1e6d867a07af2c17bd857298",
+        "sha": "a16aaffc82f8613fa528eb5bef4d0953416bec66",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "3c573a87c3adc4fe2b5e67947163253899c6cb1b",
+        "sha": "058794483080f5bf3d760e005118c0bd4698c51b",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "0e72b9b7af75adf09b0c1a523d5dc88e028c8a31",
+        "sha": "6d4502d2b77850b6da8dc82eccf3831a11edb088",
         "version": "1.13.2",
         "pre_release": "false"
     },
