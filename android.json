@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "5ec1679f6d62f4b848d39e17b89329aa73021e74",
+        "sha": "0bab763b285e678ec35f82ecd30bfdf6aa8abb27",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2c246b81dc42727aca063ff40875d2992b4e5ece",
+        "sha": "affac5334fc41744894618d9fb53b7101db9532a",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "0aae959806c57be8ad457980f2a5c6277ff18635",
+        "sha": "3de37c8cfb039452be7398909461da6288babf15",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
