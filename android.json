@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "d50f99e64c32af8d7a8d32c94f71ffec308acf01",
+        "sha": "8c78d913cb357f2f27798728dcfccdd10c14f1fa",
         "version": "v31.0",
         "pre_release": "true"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "629cfd0606f2b739293a63acd2786c1e49fb5e21",
+        "sha": "e08f5c10e70f6bba53aee75f3e82e25199e19387",
         "version": "1.13.2",
         "pre_release": "false"
     },
