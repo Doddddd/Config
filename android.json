@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v145",
+        "version": "v146",
         "pre_release": "false"
     },
     "Animeko": {
@@ -159,8 +159,8 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "d001e6f210e6a077a30dd9a1392573a3225bba2f",
-        "version": "v0.21.2",
+        "sha": "007ec9a868bfa9a335217e16fd96a7aba03bb0f0",
+        "version": "v0.21.3",
         "pre_release": "false"
     },
     "Monogram": {
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "addcf67edf1e7c27211cd2d4449af9fcb4702f05",
+        "sha": "6d89cae8c65cc242ff78877464598a6baeb77f01",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
