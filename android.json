@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "346c1eac8e901a11d6d5ea74f3b47420cd0f1cb5",
-        "version": "4.3.0-beta02",
+        "sha": "978e3fd751f704167e6ac6165711ecd7aab02f09",
+        "version": "4.3.0-beta03",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "0972f67d97f9b6302b67c5171283330c74114b4a",
+        "sha": "492d3db723487b9c9a2a9581604eebee9dc360cb",
         "version": "v31.1",
         "pre_release": "true"
     },
@@ -159,13 +159,13 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "007ec9a868bfa9a335217e16fd96a7aba03bb0f0",
+        "sha": "e588e04359fe1058206a2cbac1b01018ad787359",
         "version": "v0.21.3",
         "pre_release": "false"
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "0bab763b285e678ec35f82ecd30bfdf6aa8abb27",
+        "sha": "fa4e4a17923f67332951d7310472820865eb5972",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -220,7 +220,7 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "e08f5c10e70f6bba53aee75f3e82e25199e19387",
+        "sha": "bfd8436f8b2aca5f996d2c03376f16f608c3785f",
         "version": "1.13.2",
         "pre_release": "false"
     },
