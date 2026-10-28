@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "876b89dc6b98745621aa84bd12c5ef1c4b75d939",
+        "sha": "67a43c8ea7d43eddf51d840f3615b97ce6079c9b",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d96de700a125e102a46208bf345194082d780a8b",
+        "sha": "bfb356f68444b717fcd39b583da659f46e4c4dd8",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "75e179d378d7aaa0de8946358a3384444c3e36b0",
+        "sha": "10efe6648aa52e0497bbd686f940832ad05848cf",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "492d3db723487b9c9a2a9581604eebee9dc360cb",
+        "sha": "33bfff7ce750c27f157ddb4580e36bf842d6d95b",
         "version": "v31.1",
         "pre_release": "true"
     },
@@ -220,13 +220,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "bfd8436f8b2aca5f996d2c03376f16f608c3785f",
+        "sha": "da966522ba0ad037d4537a00276cb1a88d09c665",
         "version": "1.13.2",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "4aae7d26d1918b9264236b4ddf77060f8280ff5f",
+        "sha": "f1bb6045ae3756c4549c58c12ea09f4c0a86d8df",
         "version": "1.104.2-tc3430f0d2-gb01fa89d5",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "6d89cae8c65cc242ff78877464598a6baeb77f01",
+        "sha": "dbfedf0e4c6a5965a2bb2ddda672ac3a98ea63b3",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
