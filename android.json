@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e12ab9d16344e6dbefd57932d3d86e7718dc939d",
+        "sha": "e7faca12e86af6b8fe35352c505a8215a4d7f2f1",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "e03e53d2bc9880cd4cfb445ffe912d9a4ed15ecb",
+        "sha": "628290b5c760facfdd910195f679362ec0ad9fc7",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "dbfedf0e4c6a5965a2bb2ddda672ac3a98ea63b3",
+        "sha": "c5aeb23379ec0ca5a1857f765c1a5374cc72e259",
         "version": "v4.0.0-beta.5.2",
         "pre_release": "true"
     },
