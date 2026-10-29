@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "2f33ea346ec43f303827579d8659358dd3ecf98b",
+        "sha": "8ca97e5d54f9a97dddb1a4fb2ec89d411e1b7802",
         "version": "v6.4.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "bfb356f68444b717fcd39b583da659f46e4c4dd8",
+        "sha": "c5a090c41ffa8c451e8aa284cc2c0ad47054cdcd",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -220,14 +220,14 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "99557472169f156e36a185eb8112638fefb7a79a",
+        "sha": "c1eb1e3cbfd7d5ab0156a75642222c59c764b9c9",
         "version": "1.13.2",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "f1bb6045ae3756c4549c58c12ea09f4c0a86d8df",
-        "version": "1.104.2-tc3430f0d2-gb01fa89d5",
+        "sha": "eada0d88252f23254010e6a8458a0b03c7061284",
+        "version": "1.104.4-t938213198-gb9d487fe6",
         "pre_release": "false"
     },
     "Telegram": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "de8a03268415ce8e0c8b0327d3bbcb6b40a06a91",
+        "sha": "1d3437a6188fa316579d5be93a03a8d43a83cb83",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
