@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c5a090c41ffa8c451e8aa284cc2c0ad47054cdcd",
+        "sha": "64552b80bac637c669e6d262ab423e1af99ce7c5",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "e7faca12e86af6b8fe35352c505a8215a4d7f2f1",
+        "sha": "4979cec6139c697c0b1e2ee2a8dde535b5fa505d",
         "version": "2.5.4",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "628290b5c760facfdd910195f679362ec0ad9fc7",
+        "sha": "d507390dfb80a127f6c0961d74236e640b571106",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
