@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "7bab12df939668a4406cec4c07f4e2b3c555e6b7",
+        "sha": "51c217863c5e1fb639501e92ef17ac6d0cf90c92",
         "version": "v3.3.1",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "df8f4a74635993ed4f80900837b7012a908a782e",
+        "sha": "0a53ce216a0c708aa4072db676085bc9b2e7348e",
         "version": "2.5.4",
         "pre_release": "false"
     },
