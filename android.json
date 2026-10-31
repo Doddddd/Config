@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "2fe188310309bd7a7c9b5a80beed6f14469c6cd2",
+        "sha": "b1fce49eb3cd147dcd09a9356f60f487683cf8fa",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "cb17739448a73dc829e55a134ad6cf28400c814d",
+        "sha": "875afd08e6d543cd6fa17f560a1ab3d8e09edf6a",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
