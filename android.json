@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "fa4e4a17923f67332951d7310472820865eb5972",
+        "sha": "cae016d6da0297ff12b9fb9d62042fce1bbe118f",
         "version": "0.4.2",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "588a65611f33e596dc6d3efab840dcdb909ad3d7",
+        "sha": "cb17739448a73dc829e55a134ad6cf28400c814d",
         "version": "2.1.6.2",
         "pre_release": "false"
     },
