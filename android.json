@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "b1fce49eb3cd147dcd09a9356f60f487683cf8fa",
+        "sha": "bec9c1347472e26d3d7c46cccb7be801a9c9a6b9",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "cae016d6da0297ff12b9fb9d62042fce1bbe118f",
+        "sha": "69f765937c3baa1c375b1cbcf13da72168c8384d",
         "version": "0.4.2",
         "pre_release": "true"
     },
