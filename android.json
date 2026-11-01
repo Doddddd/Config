@@ -165,8 +165,8 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "075cca21d1cfcd1a16c40df9b0064a4cfc299be6",
-        "version": "0.4.2",
+        "sha": "04ce208ed1cd49067226f3f28e4adef47f779114",
+        "version": "0.4.3",
         "pre_release": "true"
     },
     "NewPipe": {
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "19ba8980a3bb7f407a3c90d9e93ccf07e23350d7",
+        "sha": "8cb9f57cded562532332e3f77a14cfac0c818f36",
         "version": "0.9.112",
         "pre_release": "false"
     },
