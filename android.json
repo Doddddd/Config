@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "8ca97e5d54f9a97dddb1a4fb2ec89d411e1b7802",
+        "sha": "e97ab2a1e993a2627fd4a8fd2b8275fc342a6f20",
         "version": "v6.4.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "f78bc23f52d863e97cd0af061c603ac654dedc48",
+        "sha": "ff469c192469f8ac165960d2a79f0be8f5d73fb0",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -196,7 +196,7 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "8632f57b1d38f4557de6a875b2855be7170eaaa0",
+        "sha": "5aa1ab8e0cdd443a190bb0449c41d9b1dce58dad",
         "version": "0.9.112",
         "pre_release": "false"
     },
