@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "69f765937c3baa1c375b1cbcf13da72168c8384d",
+        "sha": "075cca21d1cfcd1a16c40df9b0064a4cfc299be6",
         "version": "0.4.2",
         "pre_release": "true"
     },
