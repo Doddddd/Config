@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "121f14801cdeb9fe53b95bc0fbf7ea77d1cffe93",
+        "sha": "ab47fb5632206b1c6461c658a80224115ed67127",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "265f879fa85973b4bf885bde2562f1007f1013b8",
+        "sha": "07e2906cd9552d7f0336c37cda389cf1f4bbdcde",
         "version": "2.2.0",
         "pre_release": "false"
     },
