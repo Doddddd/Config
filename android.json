@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "e97ab2a1e993a2627fd4a8fd2b8275fc342a6f20",
+        "sha": "bd7a42f3507606eb7ecadf8b1e71a3d8e18fda66",
         "version": "v6.4.0",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "1dbc671f5c72f37ed74be60d8301a18cc1aeb6e6",
+        "sha": "c4ff57135349687e35323caf8ae84c7b1e4cc9fe",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ab47fb5632206b1c6461c658a80224115ed67127",
+        "sha": "8e1a5150267d7df320365545284a1bc313483c2e",
         "version": "4.3.0-beta03",
         "pre_release": "true"
     },
@@ -184,8 +184,8 @@
     },
     "PackageInstaller": {
         "repo": "vvb2060/PackageInstaller",
-        "sha": "3d113a5e000c62a712e6165cb75cbca63fb912aa",
-        "version": "1.7",
+        "sha": "a43b37a22493969be2c8161f3e0551bd462b0d30",
+        "version": "2.0",
         "pre_release": "false"
     },
     "PiliPlus": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "3436ad7df7b0ea29162d3d4c847d90b5043d868b",
+        "sha": "83f9dd7289f1f1410e533486a437a851d07ce3b1",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
