@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d70a012361616aefe748329b3f012d78f8f33c64",
+        "sha": "4e2d91eb78c356aff45ce11a43e5c86d633dcdd0",
         "version": "4.3.0-beta04",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "e588e04359fe1058206a2cbac1b01018ad787359",
+        "sha": "8794e89a866a3de578c02cefac1e609bcff5f092",
         "version": "v0.21.3",
         "pre_release": "false"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "455b6f0de6bbc135a51f2a77510863edee8b3cae",
+        "sha": "5b92a6f282a2b96cf20a5f24d8c26284e2654dc7",
         "version": "v0.29.1",
         "pre_release": "false"
     },
@@ -226,8 +226,8 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "9b62cdc07e3e2b2981894dbd18798721902273a1",
-        "version": "1.104.4-t938213198-gb9d487fe6",
+        "sha": "03854f7300944cfd4a0c1dc99f6200456d5871d4",
+        "version": "1.104.5-t788384763-gd8673104f",
         "pre_release": "false"
     },
     "Telegram": {
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bd15983ecdc2fe402041ca3899064b9420de61a3",
+        "sha": "b534eb7ed5bb99e84edbfc2dc55e992c62c00ed9",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
