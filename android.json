@@ -124,7 +124,7 @@
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
         "sha": "a0b9313203aa6d899da83344b9b7b748f304a9fe",
-        "version": "2.5.4",
+        "version": "2.5.5",
         "pre_release": "false"
     },
     "LogFox": {
@@ -257,7 +257,7 @@
     "TiebaLite": {
         "repo": "0ranko0P/TiebaLite",
         "branch": "4.0-dev",
-        "sha": "4b20cede0afae2a0a955c87d1618a69f52afedc6",
+        "sha": "b9abaca8ee385c414be2d30739a3f52d4b717c1c",
         "version": "v4.0.0-beta.6",
         "pre_release": "true"
     },
