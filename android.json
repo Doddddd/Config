@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "0cfcec677fee794dec98c0cb4404506b798bcf4c",
-        "version": "4.3.0-beta04",
+        "sha": "2bb9ec9de82877e6acda7e072525d014cbb0e043",
+        "version": "4.3.0-beta05",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "5b92a6f282a2b96cf20a5f24d8c26284e2654dc7",
+        "sha": "b734a1897b5eaea198ca253648808f04bf7da550",
         "version": "v0.29.1",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "83fb5d8d6deac32e74b6bd2098fec8688a353fe3",
+        "sha": "d172bd2f284209c816d177873a453b2b4b884c05",
         "version": "THUNDERBIRD_25_0b2",
         "pre_release": "true"
     },
