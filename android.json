@@ -251,7 +251,7 @@
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
         "sha": "d172bd2f284209c816d177873a453b2b4b884c05",
-        "version": "THUNDERBIRD_25_0b2",
+        "version": "THUNDERBIRD_26_0b1",
         "pre_release": "true"
     },
     "TiebaLite": {
