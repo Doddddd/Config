@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "2bb9ec9de82877e6acda7e072525d014cbb0e043",
+        "sha": "1d516a2c86e7bc7d8653366c2b311090a5dd769d",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "8794e89a866a3de578c02cefac1e609bcff5f092",
+        "sha": "ede052af170e2ef2949dac2acd91adfb58043a96",
         "version": "v0.21.3",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "c7ff9683c0e64e74abe89df75fa49b10f8666664",
+        "sha": "ab8baae380ffd018627c4d0c31bbb263e1843601",
         "version": "2.2.0.2",
         "pre_release": "false"
     },
