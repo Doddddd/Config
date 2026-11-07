@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "e446b4fcfd2b51b0b9e40686095fc3560ad8a688",
+        "sha": "c31ad0abf4fd3fd80168d632026cefd56a05ecea",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "5cb141f538edb85a2e8f5aa738eea28e33206698",
+        "sha": "24fbeb48dbe78f61b0b72bf9cc37fc1167fdaa72",
         "version": "1.104.5-t788384763-gd8673104f",
         "pre_release": "false"
     },
