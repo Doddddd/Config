@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "c31ad0abf4fd3fd80168d632026cefd56a05ecea",
+        "sha": "b82476546b1dbdca54bc9e9158af9e0d58e50f65",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "019a3c0103a8f8d56675546016c4073d0fd18352",
+        "sha": "730f644615969cfd4a84b45d7f62a667b7b95a50",
         "version": "v3.3.1",
         "pre_release": "false"
     },
