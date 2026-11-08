@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "def140b383aa4b01a15628e2572b460d5b954296",
+        "sha": "1d42617bc63730e64de056c62eaca4b62da83018",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -190,13 +190,13 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "934a7ada304583ea7472355b7e32bdd1b05906df",
+        "sha": "4fce4bb5a35c425aee759ef9263352316a29e355",
         "version": "2.2.0.2",
         "pre_release": "false"
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "3734462418675338b5af50d74c758c8d7caab336",
+        "sha": "1e640fa409c6c99d34d0729dd6a107fc2bd34d75",
         "version": "0.9.113",
         "pre_release": "false"
     },
