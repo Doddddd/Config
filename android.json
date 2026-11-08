@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "0c413bd3068ea036753704652ce8baad889f82e2",
+        "sha": "3af8c468b816831fa7630b0b9cc3f984a142b134",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "b82476546b1dbdca54bc9e9158af9e0d58e50f65",
+        "sha": "e79e495adf2f27a6606aa49ceb931451d2f768e4",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -173,7 +173,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "b734a1897b5eaea198ca253648808f04bf7da550",
-        "version": "v0.29.1",
+        "version": "v0.29.2",
         "pre_release": "false"
     },
     "OverlayFS": {
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "3de37c8cfb039452be7398909461da6288babf15",
+        "sha": "7be672ead283d022812d75c729d3a04dd4c2a2c6",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
