@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v146",
+        "version": "v147",
         "pre_release": "false"
     },
     "Animeko": {
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "c306d7539a1ceed8ef42b3936dcfa03bb9fdcdac",
+        "sha": "1ba03fabd13fd2731d57272cc8a8ed2c3c4cf7ab",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "1d42617bc63730e64de056c62eaca4b62da83018",
+        "sha": "ace04d255114e61dd6115a28782a8172a80f68ca",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -123,8 +123,8 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "a0b9313203aa6d899da83344b9b7b748f304a9fe",
-        "version": "2.5.5",
+        "sha": "777e630b261ce793c55effe19290db044bbbcae8",
+        "version": "2.5.5.1",
         "pre_release": "false"
     },
     "LogFox": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "0c55527206d5b253c58a2428cfebeed10b249571",
+        "sha": "7eec566d9cb61ca80f7abb5c5f8f826b13123a9a",
         "version": "v0.21.3",
         "pre_release": "false"
     },
@@ -196,8 +196,8 @@
     },
     "PixEz": {
         "repo": "Notsfsssf/pixez-flutter",
-        "sha": "d0350ec8bb7379b39a43a95bcbdb4bd8054bf7f1",
-        "version": "0.9.113",
+        "sha": "f11be4ddf03775175006e4b3ebd70c446961f4e6",
+        "version": "0.9.114",
         "pre_release": "false"
     },
     "QAuxiliary": {
