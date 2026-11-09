@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "223a4060bd799a8f919a50ee364bb793e2a201db",
+        "sha": "4abf603a219ec28e9add44a7f6a37b43c66e5043",
         "version": "4.3.0-beta05",
         "pre_release": "true"
     },
@@ -117,13 +117,13 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "9ae6e65aa88a13a47f8e895550dd5b369c6d8820",
+        "sha": "c680b548f3fe5c19f51e90ce97d6f0ef89594421",
         "version": "v3.3.1",
         "pre_release": "false"
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "777e630b261ce793c55effe19290db044bbbcae8",
+        "sha": "12c81c85a7fed907df99cc9797d74ab9f087d58c",
         "version": "2.5.5.1",
         "pre_release": "false"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "86f4759d4f816bf6115603a346f84e45ee5b2b03",
+        "sha": "f52160af0a026adfefaa4f9f99f0702b2cab0200",
         "version": "2.2.0.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "467787fcc43e560aae2d670c7cfa5f9036ca486d",
+        "sha": "24d6ca58b116c0985863a500c32f0d34c7423033",
         "version": "THUNDERBIRD_26_0b2",
         "pre_release": "true"
     },
