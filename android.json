@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "24d6ca58b116c0985863a500c32f0d34c7423033",
+        "sha": "bfd56bf24a4e8ecc34d3135a9c98cafcddec56e8",
         "version": "THUNDERBIRD_26_0b2",
         "pre_release": "true"
     },
