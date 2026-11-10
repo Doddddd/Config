@@ -173,7 +173,7 @@
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
         "sha": "b734a1897b5eaea198ca253648808f04bf7da550",
-        "version": "v0.29.2",
+        "version": "v0.29.3",
         "pre_release": "false"
     },
     "OverlayFS": {
