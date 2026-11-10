@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "c4ff57135349687e35323caf8ae84c7b1e4cc9fe",
+        "sha": "ad8bdf369d27061e22db069286e33ad64770a16a",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -99,8 +99,8 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "4abf603a219ec28e9add44a7f6a37b43c66e5043",
-        "version": "4.3.0-beta05",
+        "sha": "d41f8d15336409c5cfd726e3b3c76a78ca345a54",
+        "version": "4.3.0-beta06",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "c680b548f3fe5c19f51e90ce97d6f0ef89594421",
+        "sha": "dd1a0c0d3fe174dc3daf89b04c55579cb4acd6be",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "7eec566d9cb61ca80f7abb5c5f8f826b13123a9a",
+        "sha": "524fa53043f2f5b2321ea13027e44f093ab4245c",
         "version": "v0.21.3",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "24fbeb48dbe78f61b0b72bf9cc37fc1167fdaa72",
+        "sha": "67ca022e4345a6d05d5388752540ac436d2f78ba",
         "version": "1.104.5-t788384763-gd8673104f",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "bfd56bf24a4e8ecc34d3135a9c98cafcddec56e8",
+        "sha": "f6f904a14d2d6575a270e7ba8f0f6a278d06aa28",
         "version": "THUNDERBIRD_26_0b2",
         "pre_release": "true"
     },
