@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "113277c7a0626cfbeb5cfdaab58eff9c4625f4c8",
+        "sha": "1a4af5c0973b0f0adecd549027dbd3517fb53f7f",
         "version": "4.3.0-beta06",
         "pre_release": "true"
     },
@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "02ffbd447eb6a2f05d9f46e17b1e1c3bcfdd9971",
+        "sha": "a23184a0e0362c10f027718b309f53e0c867b02e",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "33bfff7ce750c27f157ddb4580e36bf842d6d95b",
+        "sha": "70d233cae2f0aeef75275f4d30bccb1b368d1ae3",
         "version": "v31.1",
         "pre_release": "true"
     },
@@ -190,7 +190,7 @@
     },
     "PiliPlus": {
         "repo": "bggRGjQaUbCoE/PiliPlus",
-        "sha": "2dd24225b01a4d7b7aab6ac8eb3398c1bf1d0642",
+        "sha": "cab0114a21ce7fad5b90b9a4d788d35d313d25f9",
         "version": "2.2.0.2",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "f151eeedadd776426b2494dbf0860c6f6824a457",
+        "sha": "3971ae706c2903f3e821f34039d0cc3996f44bcf",
         "version": "THUNDERBIRD_26_0b2",
         "pre_release": "true"
     },
