@@ -56,8 +56,8 @@
     },
     "ClashMeta": {
         "repo": "MetaCubeX/ClashMetaForAndroid",
-        "sha": "1a4f949213fcbb7f0c9e2a4a21138642d84b8f22",
-        "version": "v2.11.36",
+        "sha": "215e017ae88ac2a1edf24fdb520512c1423c89f4",
+        "version": "v2.11.37",
         "pre_release": "disable"
     },
     "CorePatch": {
@@ -154,7 +154,7 @@
     "Mihomo": {
         "repo": "MetaCubeX/mihomo",
         "sha": "disable",
-        "version": "v1.19.33",
+        "version": "v1.19.34",
         "pre_release": "disable"
     },
     "Mihon": {
