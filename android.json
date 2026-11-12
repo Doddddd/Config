@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "7ab1024c1f55fdc2f28f591138e3f7a988d20bba",
+        "sha": "c4fb9fa80edd99a6afd6c441a1d820f31600fcd2",
         "version": "v1.6.1",
         "pre_release": "false"
     },
@@ -232,7 +232,7 @@
     },
     "Telegram": {
         "repo": "DrKLO/Telegram",
-        "sha": "7be672ead283d022812d75c729d3a04dd4c2a2c6",
+        "sha": "21f7d109da6ab3506c9e9577f98c6a38771ab335",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
     },
