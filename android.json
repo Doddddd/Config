@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "d28f8559d987f82711ecc5121cb31560b5e91ce0",
+        "sha": "819fcefe2d6da4f4a442b210316a24e84a2705a9",
         "version": "4.3.0-beta06",
         "pre_release": "true"
     },
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "134e5de3d672968b91ac426fbea0020290972cff",
+        "sha": "0c888b010c9c52a824148f1ff6961ff46fdbaf83",
         "version": "v0.21.3",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "eead5864c78c4f4726008e0f347be26d0d6298ef",
+        "sha": "2994f80c7f2e5d6b2ec6bb47c06b1c7a3a949d30",
         "version": "1.104.6-t3b273a64c-g08d3d325a",
         "pre_release": "false"
     },
