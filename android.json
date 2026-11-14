@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "819fcefe2d6da4f4a442b210316a24e84a2705a9",
+        "sha": "bdc76f5fe9fedb5e4632bfb8a6c4d456762e6bb8",
         "version": "4.3.0-beta06",
         "pre_release": "true"
     },
@@ -220,13 +220,13 @@
     },
     "TachiyomiSY": {
         "repo": "jobobby04/TachiyomiSY",
-        "sha": "c1eb1e3cbfd7d5ab0156a75642222c59c764b9c9",
+        "sha": "5c77cad3039dc846943196beb97cba586d470efe",
         "version": "1.13.2",
         "pre_release": "false"
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "2994f80c7f2e5d6b2ec6bb47c06b1c7a3a949d30",
+        "sha": "99ddfe07212032088343d605251759da2d9c709b",
         "version": "1.104.6-t3b273a64c-g08d3d325a",
         "pre_release": "false"
     },
