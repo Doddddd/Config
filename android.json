@@ -62,7 +62,7 @@
     },
     "CorePatch": {
         "repo": "LSPosed/CorePatch",
-        "sha": "ddf87bb5fb2bb2eb962992103abf0b225952d738",
+        "sha": "4db4801d37758736d9ec6249b675430b1a69d03e",
         "version": "N-1.0",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "5fd1ed114eafc1b79c2951191c692ff744bcc2dd",
+        "sha": "d02170b41384bd52c0f49f238ae406c5e8981060",
         "version": "4.3.0-beta06",
         "pre_release": "true"
     },
@@ -165,8 +165,8 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "04ce208ed1cd49067226f3f28e4adef47f779114",
-        "version": "0.4.3",
+        "sha": "712b1d1718ac9ca65ce46a56911bfe7cb99ac0f0",
+        "version": "0.5.0",
         "pre_release": "true"
     },
     "NewPipe": {
