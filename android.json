@@ -117,7 +117,7 @@
     },
     "KernelSU": {
         "repo": "tiann/KernelSU",
-        "sha": "64833c005eca6a8dc3d73ec2d37d84c37e0d9ad2",
+        "sha": "f49be6952c43b9d960ab9ffa104a8f5e354b0c44",
         "version": "v3.3.1",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "b9a59880230cac41431eb049b643dc57da9ee7d1",
+        "sha": "6f7088b89fcb16826189fc1d805198916f427b99",
         "version": "1.104.6-t3b273a64c-g08d3d325a",
         "pre_release": "false"
     },
