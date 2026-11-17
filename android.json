@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "24002b5f26ab9db74c42fa3be29e01baa4dd3843",
+        "sha": "3a3928201e0a9c06b5b63f3aaea7353b56242fe9",
         "version": "4.3.0-rc01",
         "pre_release": "true"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "b734a1897b5eaea198ca253648808f04bf7da550",
+        "sha": "cf0d4013d39fa9d8dbd66a4bed94780219b358c0",
         "version": "v0.29.3",
         "pre_release": "false"
     },
@@ -226,12 +226,12 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "9d9ed539cc431999ad64bfb098b80d3b3e2546ff",
+        "sha": "b9a59880230cac41431eb049b643dc57da9ee7d1",
         "version": "1.104.6-t3b273a64c-g08d3d325a",
         "pre_release": "false"
     },
     "Telegram": {
-        "repo": "DrKLO/Telegram",
+        "repo": "TelegramMessenger/Telegram-Android",
         "sha": "21f7d109da6ab3506c9e9577f98c6a38771ab335",
         "version": "release-11.4.2-5469",
         "pre_release": "false"
