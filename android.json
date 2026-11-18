@@ -13,7 +13,7 @@
     },
     "Animeko": {
         "repo": "open-ani/animeko",
-        "sha": "42ef5d4616bb64f4530ebb56247f7847c3329da8",
+        "sha": "c9064896fdfe018f229e3b8ed2dde60c30b3f83c",
         "version": "v6.4.0",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "67a43c8ea7d43eddf51d840f3615b97ce6079c9b",
+        "sha": "4badca7dfbe467a63c23e195c8f0edfb42131c59",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "70d233cae2f0aeef75275f4d30bccb1b368d1ae3",
+        "sha": "a4fb84b6f80635abe0f2d2c66b5655d7365f42d6",
         "version": "v31.1",
         "pre_release": "true"
     },
