@@ -32,8 +32,8 @@
     },
     "BCR": {
         "repo": "chenxiaolong/BCR",
-        "sha": "8c218fa60cda9c86c4e92bed6a4254e3ffcbb9e2",
-        "version": "v3.11",
+        "sha": "addb73099d90b9bc736db1cb54431a3ef4fdf8c5",
+        "version": "v3.12",
         "pre_release": "false"
     },
     "BiliRoaming": {
@@ -159,7 +159,7 @@
     },
     "Mihon": {
         "repo": "mihonapp/mihon",
-        "sha": "f42d08a23ed385905a8588fa03fa417ca57d74e0",
+        "sha": "f64d82b94218b42410c36e6c85da818574865a28",
         "version": "v0.21.3",
         "pre_release": "false"
     },
