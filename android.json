@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "4badca7dfbe467a63c23e195c8f0edfb42131c59",
+        "sha": "cb77d1ec9c7f52439e1888c4f22ef15de8edbf7b",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -100,7 +100,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "2e2f7f903b64e544a8f66a6f7f422799ee35dfb4",
-        "version": "4.3.0-rc01",
+        "version": "4.3.0-rc02",
         "pre_release": "true"
     },
     "InstaEclipse": {
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "b236f8ee6743441e284f0f3d2a3ecfe56a17c9af",
+        "sha": "83894f4c275c7047c19ed6cab40ae6c9dbebd78d",
         "version": "1.104.7-tfb3b9b296-g226f029a3",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "efec27f58acb8159ce85ac40045c13e3a9232739",
+        "sha": "1daaefba6a2994496ec2e3a73888584ec7f00f54",
         "version": "THUNDERBIRD_26_0b4",
         "pre_release": "true"
     },
