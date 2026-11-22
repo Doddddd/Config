@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "ad8bdf369d27061e22db069286e33ad64770a16a",
+        "sha": "c872c660b9e35e943f389cbdf3ef10b429803cc9",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -184,8 +184,8 @@
     },
     "PackageInstaller": {
         "repo": "vvb2060/PackageInstaller",
-        "sha": "a43b37a22493969be2c8161f3e0551bd462b0d30",
-        "version": "2.0",
+        "sha": "4cee76e3eb7ce89c33338ab8462d5e7052c659b5",
+        "version": "2.1",
         "pre_release": "false"
     },
     "PiliPlus": {
@@ -202,7 +202,7 @@
     },
     "QAuxiliary": {
         "repo": "cinit/QAuxiliary",
-        "sha": "4495c0ce552666a04a79934bf1769b7919be2e35",
+        "sha": "094a22a70c4e518c27e10354de4b7f0dc873ba17",
         "version": "v1.6.1",
         "pre_release": "false"
     },
