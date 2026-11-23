@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "c872c660b9e35e943f389cbdf3ef10b429803cc9",
+        "sha": "09bc7c929f62f98ee36a271e2062c6e428e0a69f",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -148,7 +148,7 @@
     "Maple-Font": {
         "repo": "subframe7536/maple-font",
         "sha": "disable",
-        "version": "v8.0-beta.3",
+        "version": "v8.0-beta.4",
         "pre_release": "true"
     },
     "Mihomo": {
