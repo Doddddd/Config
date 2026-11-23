@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "a11c32555b025be8f5d7728747ba04869eea9d3a",
+        "sha": "55fea4742b61e68822a3f8a6edf2c03428300676",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -100,7 +100,7 @@
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
         "sha": "c9fe6a0c6bc70f8f6e6137773073740f9e727886",
-        "version": "4.3.0-rc02",
+        "version": "4.3.0-rc03",
         "pre_release": "true"
     },
     "InstaEclipse": {
