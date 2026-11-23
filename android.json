@@ -8,7 +8,7 @@
     "Aegis-Icons": {
         "repo": "michaelschattgen/aegis-simple-icons-outlined",
         "sha": "disable",
-        "version": "v148",
+        "version": "v149",
         "pre_release": "false"
     },
     "Animeko": {
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "09bc7c929f62f98ee36a271e2062c6e428e0a69f",
+        "sha": "8a7a1f315fa531213e1bc940118a3574f429e021",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
