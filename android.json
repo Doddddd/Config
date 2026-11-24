@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "9463e334c13b54065de793e1380426edef372f40",
+        "sha": "eeb5a715ab3a4b5e9bac9cbad80dc5b69144d1ea",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "dbe030504bbb3a449a426940bbda9b76de6017b3",
+        "sha": "8ecaf7ee6bca55b4318f01768a2e2b94bde43cf2",
         "version": "2.5.5.1",
         "pre_release": "false"
     },
