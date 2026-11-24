@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "eeb5a715ab3a4b5e9bac9cbad80dc5b69144d1ea",
+        "sha": "a9a8008823b073ad2ee234456e8ccd42769cea84",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -141,7 +141,7 @@
     },
     "Magisk": {
         "repo": "topjohnwu/Magisk",
-        "sha": "20ce5a9c1fb9d2d5d010f66baceee3d6ffb498ef",
+        "sha": "a212cd92b74174f87c720ff849461a90943b382f",
         "version": "v31.1",
         "pre_release": "true"
     },
