@@ -1,7 +1,7 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "d6f4e5925a97e4e91593f1542085eae03432a759",
+        "sha": "182e91f524dea300c8e7e8a5bc9e3a9f4e45721e",
         "version": "v3.4.3",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "a9a8008823b073ad2ee234456e8ccd42769cea84",
+        "sha": "95e635d3ceefba584847b84ffe711b0a3bbdf520",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "af299e207a9ec1fed8cd2f459e8fdf197381a86c",
+        "sha": "ab763ce76effd13ae3b8c7cfea37835eb9e0f8b9",
         "version": "4.3.0-rc03",
         "pre_release": "true"
     },
@@ -172,7 +172,7 @@
     "NewPipe": {
         "repo": "TeamNewPipe/NewPipe",
         "branch": "refactor",
-        "sha": "757dd7382e437d2d3bf8e6abaed4eca54437140a",
+        "sha": "6eb22612439f71c6d7e745224edb62626af08132",
         "version": "v0.29.3",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "62d1e58c2ecaf52914476ecb97239fbbf70298ea",
+        "sha": "91f09e37c2375f0774edb1b26c3c9a3b08eb1590",
         "version": "1.104.7-tfb3b9b296-g226f029a3",
         "pre_release": "false"
     },
