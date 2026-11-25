@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "9e941f0533b5853609d133d9c59ef83a6b5d130d",
+        "sha": "6006b84d3c2dadfb17bc9ead65c16e19a606da4c",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -184,7 +184,7 @@
     },
     "PackageInstaller": {
         "repo": "vvb2060/PackageInstaller",
-        "sha": "4cee76e3eb7ce89c33338ab8462d5e7052c659b5",
+        "sha": "ef216e2c60ab9a7b0e2b8f35d5eccb3a17adce4d",
         "version": "2.1",
         "pre_release": "false"
     },
