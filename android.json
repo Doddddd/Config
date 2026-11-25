@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "95e635d3ceefba584847b84ffe711b0a3bbdf520",
+        "sha": "0cf238e88a41a4ef4f0f9079e43c539a6409c3fc",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -68,7 +68,7 @@
     },
     "DataBackup": {
         "repo": "XayahSuSuSu/Android-DataBackup",
-        "sha": "90f4b9ad014a1eef0d6ae99cc9e197c38162bdee",
+        "sha": "a6076f4a7c9bfe8f14b1ecad6595058dd96d967f",
         "version": "2.0.12",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "8ddc69d148e4bbefc5bb504a2342a0195647acd2",
+        "sha": "b69e4b2d57c68377d320caebc5b8742ec6e0edb4",
         "version": "THUNDERBIRD_26_0b4",
         "pre_release": "true"
     },
