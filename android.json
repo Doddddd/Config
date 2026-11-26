@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "7b6110eb60924d3cb0cd12275a31e3ea281ad261",
+        "sha": "5ec121be27c4efb0a904497b54391db4fcb22228",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "b69e4b2d57c68377d320caebc5b8742ec6e0edb4",
+        "sha": "8da40e1843be922c9ddfa83d24ed407917704dc8",
         "version": "THUNDERBIRD_26_0b4",
         "pre_release": "true"
     },
