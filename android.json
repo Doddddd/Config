@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "6006b84d3c2dadfb17bc9ead65c16e19a606da4c",
+        "sha": "7b6110eb60924d3cb0cd12275a31e3ea281ad261",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -99,7 +99,7 @@
     },
     "ImageToolbox": {
         "repo": "T8RIN/ImageToolbox",
-        "sha": "ab763ce76effd13ae3b8c7cfea37835eb9e0f8b9",
+        "sha": "ec434476a3787b9c33162470560f2351f5f14d49",
         "version": "4.3.0-rc03",
         "pre_release": "true"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "712b1d1718ac9ca65ce46a56911bfe7cb99ac0f0",
+        "sha": "180797ada906f799680cb6ee1dcb312b398c2854",
         "version": "0.5.0",
         "pre_release": "true"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "91f09e37c2375f0774edb1b26c3c9a3b08eb1590",
+        "sha": "ed986c7faa8080b61215eb7cc39e4c4be2b5bf0f",
         "version": "1.104.7-tfb3b9b296-g226f029a3",
         "pre_release": "false"
     },
