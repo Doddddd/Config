@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "98715d56fda2f23915d09c6efd2dce5b3277f1e2",
+        "sha": "92a5ec188df6d3ff9a2dbdd201f25d9e21a02810",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "0ba8bbc0e6f65f62e1facbb0533e954b34c2d412",
+        "sha": "dbe51ffdffc025bfbd5bebac2690b008da791a63",
         "version": "v3.0.8",
         "pre_release": "false"
     },
