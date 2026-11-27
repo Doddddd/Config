@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "92a5ec188df6d3ff9a2dbdd201f25d9e21a02810",
+        "sha": "adc7273020520cd9b88c56ee2f3f4ac663c29d3a",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -165,7 +165,7 @@
     },
     "Monogram": {
         "repo": "monogram-android/monogram",
-        "sha": "180797ada906f799680cb6ee1dcb312b398c2854",
+        "sha": "ec2ca6f2b364522df18ce05c2d606b00d572b76f",
         "version": "0.5.0",
         "pre_release": "true"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "dbe51ffdffc025bfbd5bebac2690b008da791a63",
+        "sha": "298862f671fa4b8cc3ad54f0866b1744136346cf",
         "version": "v3.0.8",
         "pre_release": "false"
     },
