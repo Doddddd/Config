@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "5ec121be27c4efb0a904497b54391db4fcb22228",
+        "sha": "98715d56fda2f23915d09c6efd2dce5b3277f1e2",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -87,7 +87,7 @@
     },
     "Hail": {
         "repo": "aistra0528/Hail",
-        "sha": "cb77d1ec9c7f52439e1888c4f22ef15de8edbf7b",
+        "sha": "8a3b653cb37009c7348c593392b06e8fd4a322b5",
         "version": "v1.11.0",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "ed986c7faa8080b61215eb7cc39e4c4be2b5bf0f",
+        "sha": "262be927ca07a4db9fb1a850deff12fad00856fb",
         "version": "1.104.7-tfb3b9b296-g226f029a3",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "280ea6853a6a894ddb92801109632ea732191788",
+        "sha": "602d6aff2c3a9675833c4052a53b080f11b15e9e",
         "version": "THUNDERBIRD_26_0b4",
         "pre_release": "true"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "6e3d4a4f9db4f72d0d4a422350b5234cddb52c48",
+        "sha": "0ba8bbc0e6f65f62e1facbb0533e954b34c2d412",
         "version": "v3.0.8",
         "pre_release": "false"
     },
