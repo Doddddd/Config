@@ -1,7 +1,7 @@
 {
     "Aegis": {
         "repo": "beemdevelopment/Aegis",
-        "sha": "182e91f524dea300c8e7e8a5bc9e3a9f4e45721e",
+        "sha": "d5b5246efee1fa2c0cf2466e3df87a4f8b33a2f8",
         "version": "v3.4.3",
         "pre_release": "false"
     },
@@ -44,7 +44,7 @@
     },
     "Blocker": {
         "repo": "lihenggui/blocker",
-        "sha": "adc7273020520cd9b88c56ee2f3f4ac663c29d3a",
+        "sha": "4a1486624f749d985094162cfe752704a1fcd730",
         "version": "v2.0.6447",
         "pre_release": "false"
     },
@@ -123,7 +123,7 @@
     },
     "LibChecker": {
         "repo": "LibChecker/LibChecker",
-        "sha": "8ecaf7ee6bca55b4318f01768a2e2b94bde43cf2",
+        "sha": "eed2f86bf17f07d212a092d43e93d29920b60dc2",
         "version": "2.5.5.1",
         "pre_release": "false"
     },
@@ -184,7 +184,7 @@
     },
     "PackageInstaller": {
         "repo": "vvb2060/PackageInstaller",
-        "sha": "ef216e2c60ab9a7b0e2b8f35d5eccb3a17adce4d",
+        "sha": "e115e8fcfaee3b0ff7432acfe092bc3f4d355295",
         "version": "2.1",
         "pre_release": "false"
     },
@@ -226,7 +226,7 @@
     },
     "Tailscale": {
         "repo": "tailscale/tailscale-android",
-        "sha": "262be927ca07a4db9fb1a850deff12fad00856fb",
+        "sha": "b12728a809e132ce1ad0ba93ae2bed131907663a",
         "version": "1.104.7-tfb3b9b296-g226f029a3",
         "pre_release": "false"
     },
@@ -250,7 +250,7 @@
     },
     "Thunderbird": {
         "repo": "thunderbird/thunderbird-android",
-        "sha": "9ec691699491732563aed24bd835fdb436a4579d",
+        "sha": "71efdf0f33dc579823386cae0cb991b8d9dca92b",
         "version": "THUNDERBIRD_26_0b4",
         "pre_release": "true"
     },
@@ -269,7 +269,7 @@
     },
     "VPNHotspot": {
         "repo": "Mygod/VPNHotspot",
-        "sha": "298862f671fa4b8cc3ad54f0866b1744136346cf",
+        "sha": "75e7d169de9517b3f82962549773f8242401ba76",
         "version": "v3.0.8",
         "pre_release": "false"
     },
